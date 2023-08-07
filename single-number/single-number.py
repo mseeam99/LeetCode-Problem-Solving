@@ -12,12 +12,10 @@ class Solution(object):
                 return nums[length - 1]
 
             for i in range(1, length - 1):
-                if nums[i] != nums[i - 1] and nums[i] != nums[i + 1]:
+                if nums[i] != nums[i-1] and nums[i] != nums[i+1]:
                     return nums[i]
-            
-        
+             
         
        
         
-        # If the single number is at the end of the array
-        return nums[length - 1]
+ 
