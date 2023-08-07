@@ -1,5 +1,6 @@
 class Solution(object):
     def singleNumber(self, nums):
+        
         nums.sort()
         length = len(nums)
         
@@ -11,7 +12,7 @@ class Solution(object):
             elif nums[length - 1] != nums[length - 2]:
                 return nums[length - 1]
 
-            for i in range(1, length - 1):
+            for i in range(1, length - 2):
                 if nums[i] != nums[i-1] and nums[i] != nums[i+1]:
                     return nums[i]
              
