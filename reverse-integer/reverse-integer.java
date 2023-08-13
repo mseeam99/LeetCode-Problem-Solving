@@ -1,8 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        
-        System.out.print("int is: " + x + " ");
-        
+                
         String number_in_String = Integer.toString(x); 
         String answer = "";
         
@@ -17,16 +15,12 @@ class Solution {
         }else if(x==0){
             return 0;
         }
-        
-        System.out.print("String is: " + answer);
-        
+                
         int num1=0;
         
         try {
             num1 = Integer.parseInt(answer);
-            System.out.println("Parsed integer: " + num1);
         } catch (NumberFormatException e) {
-            System.out.println("Invalid input string");
             return 0;
         }
         
@@ -40,7 +34,6 @@ class Solution {
         }
         
         return num1;
-    
       
     }
 }
