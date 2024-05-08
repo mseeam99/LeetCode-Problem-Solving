@@ -1,7 +1,7 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        cnt = nums.count(0)
-        for i in range(cnt):
+        count = nums.count(0)
+        for i in range(count):
             nums.remove(0)
-        for i in range(cnt):
+        for i in range(count):
             nums.append(0)
