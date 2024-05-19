@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        '''
         leftPointer = 0
         rightPointer = len(s) - 1
         while leftPointer < rightPointer:
@@ -13,3 +14,10 @@ class Solution:
             else:
                 return False
         return True
+        '''
+
+        s = ''.join(filter(str.isalnum,s)).lower()
+        if s == s[::-1]:
+            return True
+        else :
+            return False    
