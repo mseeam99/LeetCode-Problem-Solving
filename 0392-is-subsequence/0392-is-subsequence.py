@@ -8,7 +8,9 @@ class Solution:
                 smallPointer+=1
             else:
                 bigPointer+=1
+                
         if smallPointer == len(s):
             return True
         else:
             return False
+
