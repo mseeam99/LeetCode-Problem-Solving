@@ -1,15 +1,17 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        bigPointer = 0
-        smallPointer = 0
-        
-        while bigPointer < len(t) and smallPointer<len(s):
-            if smallPointer == len(s): break
-            if t[bigPointer] == s[smallPointer]:
-                bigPointer+=1
-                smallPointer+=1
+        pointerSmall = 0
+        pointerBig   = 0
+        while pointerSmall<len(s) and pointerBig<len(t):
+            if s[pointerSmall] == t[pointerBig]:
+                pointerSmall+=1
+                pointerBig+=1
             else:
-                bigPointer+=1
+                pointerBig+=1
+        if pointerSmall == len(s):
+            return True
+        else:
+            return False
 
-        if smallPointer == len(s): return True
-        else: return False
+
+        
