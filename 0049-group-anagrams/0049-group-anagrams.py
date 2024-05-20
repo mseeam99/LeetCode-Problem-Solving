@@ -8,3 +8,5 @@ class Solution:
             else:
                 hashMap[tempString].append(strs[i])
         return hashMap.values()
+
+        
