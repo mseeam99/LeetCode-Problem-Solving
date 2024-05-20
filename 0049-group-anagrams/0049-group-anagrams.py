@@ -1,7 +1,10 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        myDictionary = defaultdict(list)
-        for words in strs:
-            sortedWord = "".join(sorted(words))
-            myDictionary[sortedWord].append(words)
-        return list(myDictionary.values())
+        hashMap = defaultdict(list)
+        for i in range(len(strs)):
+            tempString = ''.join(sorted(strs[i]))
+            if tempString not in hashMap.keys():
+                hashMap[tempString] = [strs[i]]
+            else:
+                hashMap[tempString].append(strs[i])
+        return hashMap.values()
