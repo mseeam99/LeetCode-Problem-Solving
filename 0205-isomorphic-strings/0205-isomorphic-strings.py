@@ -13,3 +13,5 @@ class Solution:
                 if hashMap[s[i]] != t[i]:
                     return False
         return True
+        
+
