@@ -15,3 +15,7 @@ class Solution:
         hashMap['o'] //= 2  
 
         return min(hashMap.values())
+
+
+
+        
