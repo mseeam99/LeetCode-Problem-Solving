@@ -12,3 +12,4 @@ class Solution:
         key     = list(hashMap.keys())
         values  = list(hashMap.values())
         return key[values.index(max(values))]
+        
