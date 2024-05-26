@@ -18,3 +18,6 @@ class Solution:
             answer[i] = left[i] * right[i]
         
         return answer
+
+
+        
