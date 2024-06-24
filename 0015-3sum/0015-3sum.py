@@ -44,3 +44,8 @@ class Solution:
                     rightPointer-=1
         answer = list(answer)
         return answer
+
+
+        
+
+        
