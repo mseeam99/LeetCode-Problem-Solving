@@ -5,3 +5,7 @@ class Solution:
             nums.remove(0)
         for i in range(count):
             nums.append(0)
+
+
+            
+            
