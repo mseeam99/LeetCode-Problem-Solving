@@ -1,9 +1,7 @@
 class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
-
         answer  = 0
         pointer = 0
-
         while pointer < len(colors):
             tempColor  = colors[pointer]
             max_time   = 0
@@ -14,6 +12,10 @@ class Solution:
                 pointer+=1
             answer += (total_time-max_time)
         return answer
+
+        
+
+
 
         
 
