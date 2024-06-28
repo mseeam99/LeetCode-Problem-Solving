@@ -5,6 +5,8 @@ class Solution:
         right = len(people) - 1  
         boats_count = 0  
 
+        print(people)
+
         while left <= right:
             if people[left] + people[right] <= limit:
                 boats_count += 1  
@@ -16,4 +18,3 @@ class Solution:
 
         return boats_count  
 
-        
