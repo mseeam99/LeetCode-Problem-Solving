@@ -24,10 +24,12 @@ class Solution:
         answer = int(strAnswer)
         return answer
 '''
+
 class Solution:
     def kthGrammar(self, n: int, k: int) -> int:
         if n == 1:
             return 0
+            
         length = 2 ** (n - 1)
         
         mid = length // 2
@@ -36,4 +38,7 @@ class Solution:
             return self.kthGrammar(n - 1, k)
         else:
             return 1 - self.kthGrammar(n - 1, k - mid)
+
+
+
 
