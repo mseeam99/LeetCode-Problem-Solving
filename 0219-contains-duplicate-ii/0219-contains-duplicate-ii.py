@@ -11,3 +11,9 @@ class Solution:
             else:
                 hashMap[nums[i]] = i
         return answerAsBoolean
+
+
+
+
+
+        
