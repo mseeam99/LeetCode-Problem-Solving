@@ -12,3 +12,8 @@ class Solution:
                 leftPointer +=1
                 rightPointer = leftPointer + 1
         return price
+
+
+
+        
+        
