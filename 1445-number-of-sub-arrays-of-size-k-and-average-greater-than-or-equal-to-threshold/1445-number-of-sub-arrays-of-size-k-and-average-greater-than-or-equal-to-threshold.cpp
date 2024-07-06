@@ -1,3 +1,34 @@
+static const bool Booster = [](){
+    #pragma GCC optimize("OFast")
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return true;
+}();
+
+class Solution {
+public:
+    int numOfSubarrays(vector<int>& arr, int k, int threshold) {
+        int currentSum = 0;
+        int count = 0;
+        for(int i=0; i<arr.size(); i++){
+            if(i<k){
+                currentSum+=arr.at(i);
+            }else{
+                if((currentSum / k) >= threshold){
+                    count++;
+                }
+                currentSum-=arr.at(i-k);
+                currentSum+=arr.at(i);
+            }
+        }
+        if((currentSum / k) >= threshold){
+            count++;
+        }
+        return count;
+    }
+};
+
 /*
 class Solution {
 public:
@@ -24,13 +55,7 @@ public:
 };
 */
 
-static const bool Booster = [](){
-    std::ios_base::sync_with_stdio(false);
-    std::cin.tie(nullptr);
-    std::cout.tie(nullptr);
-    return true;
-}();
-
+/*
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
@@ -60,29 +85,7 @@ public:
         return count;
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 
