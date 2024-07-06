@@ -6,6 +6,8 @@ static const bool Booster = [](){
     return true;
 }();
 
+
+
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
@@ -28,6 +30,8 @@ public:
         return count;
     }
 };
+
+
 
 /*
 class Solution {
