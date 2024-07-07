@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
+| [1764-maximum-repeating-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1764-maximum-repeating-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
