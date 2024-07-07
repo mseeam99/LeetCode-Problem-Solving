@@ -4,7 +4,8 @@
 using namespace std;
 
 static const bool Booster = [](){
-    std::ios_base::sync_with_stdio(false);
+    #pragma GCC optimize("OFast")
+    std::ios_base::sync_with_stdio(0);
     std::cin.tie(nullptr);
     std::cout.tie(nullptr);
     return true;
@@ -13,18 +14,21 @@ static const bool Booster = [](){
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> charSet;
-        int maxLength = 0;
-        int left  = 0;
-        int right = 0;
-        while (right < s.size()) {
-            if (charSet.find(s[right]) == charSet.end()) {
-                charSet.insert(s[right]);
-                maxLength = max(maxLength, right - left + 1);
-                right++;
-            } else {
-                charSet.erase(s[left]);
-                left++;
+
+        unordered_set<int> mySet; 
+
+        int maxLength    = 0;
+        int leftPointer  = 0;
+        int rightPointer = 0;
+
+        while(rightPointer < s.size()){
+            if(mySet.find(s[rightPointer]) != mySet.end()){
+                mySet.erase(s[leftPointer]);
+                leftPointer++;
+            }else if(mySet.find(s[rightPointer]) == mySet.end()){
+                mySet.insert(s[rightPointer]);
+                maxLength = max(maxLength,rightPointer-leftPointer+1);
+                rightPointer++;   
             }
         }
         return maxLength;
