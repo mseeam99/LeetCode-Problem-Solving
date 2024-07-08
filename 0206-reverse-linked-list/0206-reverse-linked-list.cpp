@@ -38,6 +38,3 @@ public:
         return tempHead;
     }
 };
-
-
-
