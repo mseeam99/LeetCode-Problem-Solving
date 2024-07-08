@@ -1,22 +1,43 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
 static const bool Booster = [](){
-    std::ios_base::sync_with_stdio(false);
+    #pragma GCC optimize("OFast")
+    std::ios_base::sync_with_stdio(0);
     std::cin.tie(nullptr);
     std::cout.tie(nullptr);
     return true;
 }();
 
-
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        while (curr) {
-            ListNode* tmp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = tmp;
+        ListNode* tempHead = head;
+        vector<int> variableStore;
+        while(tempHead != nullptr){
+            variableStore.push_back(tempHead->val);
+            tempHead = tempHead->next;
         }
-        return prev;
+        tempHead = head;
+        int index = 0;
+        reverse(variableStore.begin(),variableStore.end());
+        while(tempHead != nullptr){
+            tempHead->val = variableStore.at(index);
+            index++;
+            tempHead = tempHead->next;
+        }
+        tempHead = head;
+        return tempHead;
     }
 };
+
+
+
