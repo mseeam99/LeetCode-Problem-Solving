@@ -27,7 +27,7 @@ public:
             if(myHashMap.find(s[i-k]) != myHashMap.end()){
                 windowVowel--;  
             }
-
+            
             if(myHashMap.find(s[i]) != myHashMap.end()){
                 windowVowel++;  
             }
