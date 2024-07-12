@@ -18,19 +18,15 @@ public:
         vector<int> newVector;
 
         for (int i = 0; i < operations.size(); i++) {
-            if (operations[i] == "+" ) {
-                if (newVector.size() >= 2) {
-                    int last = newVector[newVector.size() - 1];
-                    int leftLast = newVector[newVector.size() - 2];
-                    int tempSum = last + leftLast;
-                    newVector.push_back(tempSum);
-                }
-            }else if (operations[i] == "D") {
-                if (newVector.size() > 0) {
-                    int tempValue = newVector[newVector.size() - 1];
-                    tempValue = tempValue * 2;
-                    newVector.push_back(tempValue);
-                }
+            if (operations[i] == "+" && newVector.size() >= 2)  {
+                int last = newVector[newVector.size() - 1];
+                int leftLast = newVector[newVector.size() - 2];
+                int tempSum = last + leftLast;
+                newVector.push_back(tempSum);
+            }else if (operations[i] == "D" && !newVector.empty()) {
+                int tempValue = newVector[newVector.size() - 1];
+                tempValue = tempValue * 2;
+                newVector.push_back(tempValue);
             }else if (operations[i] == "C" && !newVector.empty()) {
                 newVector.pop_back();
             }else {
