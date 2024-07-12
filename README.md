@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
