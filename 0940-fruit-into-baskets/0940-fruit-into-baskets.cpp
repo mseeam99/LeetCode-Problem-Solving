@@ -1,14 +1,20 @@
-#define fast ios::sync_with_stdio(0),cin.tie(0),cout.tie(0)
+static const bool Booster = [](){
+    #pragma GCC optimize("OFast")
+    std::ios_base::sync_with_stdio(0);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return true;
+}();
 
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
         unordered_map <int,int> map;
-        int rightPointer = 0;
         int leftPointer  = 0;
         int maxLength    = 0;
-        for(rightPointer = 0; rightPointer < fruits.size(); rightPointer++){
+        for(int rightPointer = 0; rightPointer < fruits.size(); rightPointer++){
             map[fruits[rightPointer]]++;
+            
             if(map.size()>2){
                 while(map.size()>2){
                     map[fruits[leftPointer]]--;
@@ -18,6 +24,7 @@ public:
                     leftPointer++;
                 }
             }
+
             maxLength = max(maxLength,rightPointer-leftPointer + 1);
         }
         return maxLength;     
