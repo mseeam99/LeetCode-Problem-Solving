@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
@@ -73,8 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
