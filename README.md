@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
