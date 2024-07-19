@@ -10,29 +10,29 @@ class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
 
-        int maxElement = *max_element(nums.begin(), nums.end());
+        int maxValue = *max_element(nums.begin(),nums.end());
+        long long answer = 0;
+
         int count = 0;
-        long long result = 0;
-        
-        int left = 0;
-        int right = 0;
-        
-        for(int right = 0; right < nums.size(); right++){
-            if (nums[right] == maxElement) {
+        int leftPointer = 0;
+
+        for(int rightPointer = 0; rightPointer<nums.size(); rightPointer++){
+
+            if(nums[rightPointer] == maxValue){
                 count++;
             }
 
-
-            while (count >= k) {
-                result += nums.size() - right;
-                if (nums[left] == maxElement) {
+            while(count >= k){
+                answer += nums.size() - rightPointer; 
+                if(nums[leftPointer] == maxValue){
                     count--;
-                }left++;
+                }
+                leftPointer++;
             }
 
-            
         }
+
+        return answer;
         
-        return result;
     }
 };
