@@ -6,6 +6,7 @@ static const bool Booster = [](){
     return true;
 }();
 
+
 class Solution {
 public:
     bool isValid(string s) {
