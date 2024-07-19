@@ -47,8 +47,6 @@ public:
         if(myVector.size() == 0){
             answer = true;
         }
-
         return answer;
-
     }
 };
