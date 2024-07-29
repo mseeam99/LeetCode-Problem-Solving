@@ -9,6 +9,8 @@
  * };
  */
 
+#include <deque>
+
 static const bool Booster = [](){
     #pragma GCC optimize("OFast")
     std::ios_base::sync_with_stdio(0);
@@ -21,14 +23,13 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         ListNode* tempHead = head;
-        vector<int> variableStore;
+        deque<int> variableStore;
         while(tempHead != nullptr){
-            variableStore.push_back(tempHead->val);
+            variableStore.push_front(tempHead->val);
             tempHead = tempHead->next;
         }
         tempHead = head;
         int index = 0;
-        reverse(variableStore.begin(),variableStore.end());
         while(tempHead != nullptr){
             tempHead->val = variableStore.at(index);
             index++;
