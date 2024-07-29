@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
