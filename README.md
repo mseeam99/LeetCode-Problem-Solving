@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
