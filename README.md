@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
