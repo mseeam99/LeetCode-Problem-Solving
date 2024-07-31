@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
