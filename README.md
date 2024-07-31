@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
