@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
+| [0969-number-of-recent-calls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [1337-design-skiplist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1337-design-skiplist) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
