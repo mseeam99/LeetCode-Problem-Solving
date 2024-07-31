@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
