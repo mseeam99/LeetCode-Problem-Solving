@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
