@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
