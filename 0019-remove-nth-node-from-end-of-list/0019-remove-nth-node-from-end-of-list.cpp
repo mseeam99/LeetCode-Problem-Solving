@@ -6,8 +6,6 @@ static const bool Booster = [](){
     return true;
 }();
 
-
-
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
