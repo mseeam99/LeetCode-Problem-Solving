@@ -10,9 +10,11 @@ class Solution {
 public:
     string reversePrefix(string word, char ch) {
 
-        if(word.find(ch) == string::npos){
-            return word;
-        }
+        // if(word.find(ch) == string::npos){
+        //     return word;
+        // }
+
+        if(!word.contains(ch)){return word;}
 
         string reversedString = "";
         int pointer = 0;
