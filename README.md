@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1337-design-skiplist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1337-design-skiplist) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
