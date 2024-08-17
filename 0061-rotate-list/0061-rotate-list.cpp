@@ -36,6 +36,6 @@ public:
         }
         return returnHead;
     }
-    
+
 };
 
