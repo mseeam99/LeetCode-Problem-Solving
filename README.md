@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1337-design-skiplist) |
