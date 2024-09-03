@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,5 +336,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
