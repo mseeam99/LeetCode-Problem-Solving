@@ -1,25 +1,16 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        hashMap = {}
-        for i in range(len(nums)):
-            if nums[i] not in hashMap:
-                hashMap[nums[i]] = 1
-            elif nums[i] in hashMap:
-                hashMap[nums[i]]+=1
 
-        keys   = list(hashMap.keys())
-        values = list(hashMap.values())
+        freq_dict = {}
 
-        answer = []
-        for i in range(k):
-            maxValue = max(values)
-            maxValueIndex = values.index(maxValue)
-            answer.append(keys[maxValueIndex])
-            del keys[maxValueIndex]
-            del values[maxValueIndex]
+        for num in nums:
+            if num not in freq_dict:
+                freq_dict[num] = 1
+            else:
+                freq_dict[num] += 1
 
-        return answer
-
+        sorted_dict = sorted(freq_dict, key = freq_dict.get, reverse = True)
+        return sorted_dict[:k]
         
 
         
