@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0359-logger-rate-limiter) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
@@ -409,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
