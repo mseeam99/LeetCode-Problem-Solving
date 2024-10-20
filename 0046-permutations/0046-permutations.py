@@ -1,16 +1,14 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         result = []
-        tempArray = []
-        self.getPermutation(nums, tempArray, result)
+        self.getPermutations(nums,[],result)
         return result
 
-    def getPermutation(self, array, current, result):
+    def getPermutations(self,array,currentIndexElement,result):
         if len(array) == 0:
-            result.append(current)
+            result.append(currentIndexElement)
             return
-
+        
         for i in range(len(array)):
-            newArray = array[:i] + array[i+1:]  
-            self.getPermutation(newArray, current + [array[i]], result)
-
+            newArray = array[:i] + array[i+1:]
+            self.getPermutations(newArray,currentIndexElement+[array[i]],result)
