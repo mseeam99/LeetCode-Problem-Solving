@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
