@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
