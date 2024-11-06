@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
 ## String Matching
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
