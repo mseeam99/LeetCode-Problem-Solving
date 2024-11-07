@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
