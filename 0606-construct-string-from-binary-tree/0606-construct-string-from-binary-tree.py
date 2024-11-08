@@ -1,17 +1,27 @@
 class Solution:
     def tree2str(self, root: Optional[TreeNode]) -> str:
-        return self.recursion(root)
-    
-    def recursion(self, root):
-        if root is None:
+        answer = [""]
+        self.recursion(root,answer)
+        return answer[0]
+
+    def recursion(self,root,answer):
+
+        if root == None:
             return ""
+
+        answer[0] = answer[0] + str(root.val)
+
+        if root.left is not None:
+            answer[0] = answer[0] + "("
+            self.recursion(root.left,answer)
+            answer[0] = answer[0] + ")"
+
+        elif root.right is not None:
+            answer[0] += "()"
         
-        result = str(root.val)
-        
-        if root.left or root.right: 
-            result += "(" + str(self.recursion(root.left)) + ")"
-        
-        if root.right != None:
-            result += "(" + str(self.recursion(root.right)) + ")"
-        
-        return result
+        if root.right is not None:
+            answer[0] = answer[0] + "("
+            self.recursion(root.right,answer)
+            answer[0] = answer[0] + ")"
+
+        return answer[0]
