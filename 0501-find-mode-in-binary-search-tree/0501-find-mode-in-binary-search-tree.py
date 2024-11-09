@@ -2,9 +2,12 @@ class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         hashMap = {}
         self.recursion(root,hashMap)
-        max_frequency = max(hashMap.values(), default=0)
-        modes = [key for key, freq in hashMap.items() if freq == max_frequency]
-        return modes
+        max_frequency = max(hashMap.values())
+        array = []
+        for key,value in hashMap.items():
+            if value == max_frequency:
+                array.append(key)
+        return array
 
     def recursion(self,root,hashMap):
         if root == None:
