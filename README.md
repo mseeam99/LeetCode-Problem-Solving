@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
