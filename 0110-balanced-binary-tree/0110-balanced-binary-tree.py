@@ -7,6 +7,7 @@ class Solution:
     def recursion(self,root,answer):
         if root == None:
             return 0
+            
         left  = self.recursion(root.left, answer)
         right = self.recursion(root.right,answer)
 
