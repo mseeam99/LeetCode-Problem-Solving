@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
+| [0742-to-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
