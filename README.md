@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
