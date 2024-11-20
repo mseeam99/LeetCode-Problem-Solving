@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
+| [2235-capitalize-the-title](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
