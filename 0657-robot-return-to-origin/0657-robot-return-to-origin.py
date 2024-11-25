@@ -1,5 +1,6 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
+        
         hashMap = {}
         for i in range(len(moves)):
             if moves[i] not in hashMap:
