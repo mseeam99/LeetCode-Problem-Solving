@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0983-validate-stack-sequences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0983-validate-stack-sequences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
