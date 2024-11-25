@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
