@@ -21,8 +21,8 @@ class Solution:
                     current_node = queue.popleft()
                     current_node.left = TreeNode(val,current_node.left,None)
                     current_node.right = TreeNode(val,None,current_node.right)
-                break
-        
+                return root
+
             for _ in range(queueLength):
                 currentNode = queue.popleft()
                 if currentNode.left != None:
@@ -33,5 +33,3 @@ class Solution:
             level += 1
 
         return root
-
-        
