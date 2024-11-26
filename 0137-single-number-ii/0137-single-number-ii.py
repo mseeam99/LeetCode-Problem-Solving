@@ -15,4 +15,3 @@ class Solution:
         for i in range(len(values)):
             if values[i] == 1:
                 return keys[i]
-        
