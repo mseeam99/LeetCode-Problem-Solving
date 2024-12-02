@@ -22,4 +22,3 @@ class Solution:
                     myQueue.append(currentNode.right)
             finalAnswer.append(currentSum/index)
         return finalAnswer
-        
