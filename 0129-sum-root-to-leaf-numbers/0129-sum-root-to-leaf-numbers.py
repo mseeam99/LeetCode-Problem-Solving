@@ -14,11 +14,11 @@ class Solution:
 
     def recursion(self,root,tempString,answer):
         if root == None:
-            return
+            return False
         tempString += str(root.val)
         left  = self.recursion(root.left,tempString,answer)
         right = self.recursion(root.right,tempString,answer)
-        if left == None and right == None:
+        if left == False and right == False:
             print(int(tempString))
             answer[0] += int(tempString)
         return True
