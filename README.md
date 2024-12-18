@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
