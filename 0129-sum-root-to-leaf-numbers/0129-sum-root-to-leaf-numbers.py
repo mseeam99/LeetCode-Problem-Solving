@@ -7,20 +7,20 @@
 
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        answer = [0]
-        tempString = ""
-        self.recursion(root,tempString,answer)
-        return answer[0]
+        answer = []
+        self.depthFirstSearch(root,"",answer)
+        finalAnswer = 0
+        for i in range(len(answer)):
+            finalAnswer+=int(answer[i])
+        return finalAnswer
 
-    def recursion(self,root,tempString,answer):
+    def depthFirstSearch(self,root,string,answer):
         if root == None:
-            return False
-        tempString += str(root.val)
-        left  = self.recursion(root.left,tempString,answer)
-        right = self.recursion(root.right,tempString,answer)
-        if left == False and right == False:
-            print(int(tempString))
-            answer[0] += int(tempString)
+            return None
+        string += str(root.val)
+        left  = self.depthFirstSearch(root.left,string,answer)
+        right = self.depthFirstSearch(root.right,string,answer)
+        if left == None and right == None:
+            answer.append(int(string))
+            return True
         return True
-
-        
