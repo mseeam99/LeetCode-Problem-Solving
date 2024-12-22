@@ -12,16 +12,12 @@ class Solution:
         root.val = 1
         level = 1
         myQueue = deque([(root,root.val,level)] if root else None)
-
         while len(myQueue) != 0:
-
             currentNode,currentValue,level = myQueue.popleft()
-
             if currentNode.left != None:
                 myQueue.append((currentNode.left,(2 * currentValue),level+1))
             if currentNode.right != None:
                 myQueue.append((currentNode.right,((2 * currentValue) + 1),level+1))
-
             lowerstValue  = 0
             heightstValue = 0
             for i in range(len(myQueue)):
@@ -31,7 +27,6 @@ class Solution:
                     if i == len(myQueue)-1 :
                         heightstValue = myQueue[len(myQueue)-1][1]
             maxWidth = max(maxWidth,(heightstValue-lowerstValue)+1)
-
         return maxWidth
             
 
