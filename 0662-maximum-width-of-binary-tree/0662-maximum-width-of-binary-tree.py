@@ -20,13 +20,15 @@ class Solution:
                 myQueue.append((currentNode.right,((2 * currentValue) + 1),level+1))
             lowerstValue  = 0
             heightstValue = 0
-            for i in range(len(myQueue)):
+
+            for i, value in enumerate(myQueue):
                 if myQueue[0][2] == myQueue[len(myQueue)-1][2]:
                     if i == 0:
                         lowerstValue = myQueue[i][1]
                     if i == len(myQueue)-1 :
                         heightstValue = myQueue[len(myQueue)-1][1]
             maxWidth = max(maxWidth,(heightstValue-lowerstValue)+1)
+
         return maxWidth
             
 
