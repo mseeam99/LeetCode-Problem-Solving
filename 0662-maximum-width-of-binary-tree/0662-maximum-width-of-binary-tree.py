@@ -8,20 +8,41 @@
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
 
-        result = 0
-        myQueue = deque([[root,1]] if root else [])
+        maxWidth = 0
+        root.val = 1
+        level = 1
+        myQueue = deque([(root,root.val,level)] if root else None)
 
         while len(myQueue) != 0:
-           
-            firstValue = myQueue[0][1]
-            lastValue = myQueue[-1][1]
-            result = max(result, lastValue - firstValue + 1)
+
+            currentNode,currentValue,level = myQueue.popleft()
+
+            if currentNode.left != None:
+                myQueue.append((currentNode.left,(2 * currentValue),level+1))
+            if currentNode.right != None:
+                myQueue.append((currentNode.right,((2 * currentValue) + 1),level+1))
+
+            lowerstValue  = 0
+            heightstValue = 0
+            for i in range(len(myQueue)):
+                if myQueue[0][2] == myQueue[len(myQueue)-1][2]:
+                    if i == 0:
+                        lowerstValue = myQueue[i][1]
+                    if i == len(myQueue)-1 :
+                        heightstValue = myQueue[len(myQueue)-1][1]
+            maxWidth = max(maxWidth,(heightstValue-lowerstValue)+1)
+
+        return maxWidth
             
-            for _ in range(len(myQueue)):
-                currentNode,currentValue = myQueue.popleft()
-                if currentNode.left != None:
-                    myQueue.append([currentNode.left,(2*currentValue)])
-                if currentNode.right != None:
-                    myQueue.append([currentNode.right,(2*currentValue)+1])
-            
-        return result
+
+
+
+
+
+
+
+
+
+
+
+        
