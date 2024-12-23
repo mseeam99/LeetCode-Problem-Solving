@@ -3,7 +3,5 @@ class Solution:
 
         heapq.heapify(nums)
         theArray = heapq.nlargest(k,nums)
-
-        print(theArray)
         return theArray[len(theArray)-1]
         
