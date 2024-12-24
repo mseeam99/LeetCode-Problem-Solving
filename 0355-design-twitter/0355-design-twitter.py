@@ -24,7 +24,7 @@ class Twitter:
         for user in allConnectedUsers:
             if user in self.allTweets:
                 feedWithFullOfTweets.extend(self.allTweets[user])
-   
+
         answer = []
         copy = feedWithFullOfTweets
         for i in range(min(10,len(feedWithFullOfTweets))):
