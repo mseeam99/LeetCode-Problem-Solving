@@ -15,14 +15,9 @@ class Solution:
 
         heapq.heapify(theList)
 
-        print(theList)
-
         for i in range(k):
-
             t = heapq.heappop(theList)
             if t[0] > 1:
                 heapq.heappush(theList,(t[0]-1,t[1]))
-
-        print(theList)
 
         return len(theList)
