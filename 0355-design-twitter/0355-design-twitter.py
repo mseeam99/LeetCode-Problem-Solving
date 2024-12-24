@@ -27,8 +27,8 @@ class Twitter:
 
         answer = []
         copy = feedWithFullOfTweets
+        heapq.heapify(feedWithFullOfTweets)
         for i in range(min(10,len(feedWithFullOfTweets))):
-            heapq.heapify(feedWithFullOfTweets)
             tempTuple = heapq.heappop(feedWithFullOfTweets)
             if tempTuple[1] not in answer:
                 answer.append(tempTuple[1])
