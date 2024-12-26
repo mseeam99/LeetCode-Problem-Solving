@@ -14,9 +14,4 @@ class Solution:
                 ladders-=1
                 bricks += -heapq.heappop(maxHeap)
         return len(heights)-1
-
-
-
-
-
         
