@@ -3,9 +3,7 @@ class Solution:
         maxHeap = []
         heapq.heapify(maxHeap)
         for i in range(len(heights)-1):
-            currentStep = heights[i]
-            nextStep = heights[i+1]
-            difference = nextStep - currentStep
+            difference = heights[i+1] - heights[i]
             if difference < 0:
                 continue
             bricks -= difference
