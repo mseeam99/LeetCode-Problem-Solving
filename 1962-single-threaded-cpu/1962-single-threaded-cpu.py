@@ -10,8 +10,11 @@ class Solution:
 
         answerList = []
         minHeap = []  
+        heapq.heapify(minHeap)
         idx = 0
         cpuAvailableAt = tasks[0][0]  
+
+        print(tasks)
 
         while idx < len(tasks) or len(minHeap) != 0:
             while idx < len(tasks) and tasks[idx][0] <= cpuAvailableAt:
