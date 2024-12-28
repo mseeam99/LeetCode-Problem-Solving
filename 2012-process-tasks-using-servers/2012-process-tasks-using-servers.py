@@ -15,9 +15,7 @@ class Solution:
 
             currentTime = max(currentTime, i)  
 
-            while serverQueue and serverQueue[0][0] <= currentTime:
-                availableTime, weight, index = heapq.heappop(serverQueue)
-                heapq.heappush(servers, (weight, index))
+           
             
             if not servers:
                 currentTime = serverQueue[0][0]
