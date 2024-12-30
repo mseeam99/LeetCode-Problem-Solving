@@ -9,10 +9,11 @@ class Solution:
         heapq.heapify(alreadyInCarQueue)
         
         for bigTripFrom, bigTripTo, bigTripPerson in trips:
+            
             while alreadyInCarQueue and alreadyInCarQueue[0][0] <= bigTripFrom:
                 _, _, currentTripPerson = heapq.heappop(alreadyInCarQueue)
                 capacity += currentTripPerson 
-            
+                
             if bigTripPerson > capacity:
                 return False
             
