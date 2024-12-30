@@ -1,5 +1,6 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
+        
         for i in range(len(trips)):
             trips[i] = (trips[i][1], trips[i][2], trips[i][0])
         
