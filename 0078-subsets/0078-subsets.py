@@ -1,10 +1,26 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        result = []
-        self.getSubset(nums, [], 0, result)
-        return result
+        
+        res = []
+        subset = []
 
-    def getSubset(self, nums, array, index, result):
-        result.append(array)
-        for i in range(index, len(nums)):
-            self.getSubset(nums, array + [nums[i]], i + 1, result)
+        def dfs(i):
+
+            print(res)
+
+            if i >= len(nums):
+                res.append(subset.copy())
+                return
+
+            # decision to include nums[i]
+            subset.append(nums[i])
+            dfs(i + 1)
+
+            #MIDDLE
+
+            # decision NOT to include nums[i]
+            subset.pop()
+            dfs(i + 1)
+
+        dfs(0)
+        return res
