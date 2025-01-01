@@ -1,29 +1,28 @@
-# [0,1,2,3]
-# [2,3,6,7]
-
-# target = 7
-
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        index = 0
-        subArray = []
-        finalArray = []
-        self.recursion(index,target,candidates,subArray,finalArray)
-        return finalArray
 
-    def recursion(self, index, target, givenArray, subArray, finalArray):
-        if index == len(givenArray):
-            if target == 0:
-                finalArray.append(list(subArray))
-            return
-        
-        # pick element
-        if givenArray[index] <= target:
-            subArray.append(givenArray[index])
-            self.recursion(index, target - givenArray[index], givenArray, subArray, finalArray)
-            subArray.pop()
-        
-        # Not pick element 
-        self.recursion(index+1, target, givenArray, subArray, finalArray)
+        answer = []
+        subset = []
 
+        def dfs(index):
+
+            if sum(subset) > target or index >= len(candidates):
+                return
+           
+            if sum(subset) == target:
+                answer.append(subset.copy())
+                return
+
+            #CHOOSE 
+            subset.append(candidates[index])
+            dfs(index)
+
+            #MIDDLE
+
+            #NOT CHOOSE
+            subset.pop()
+            dfs(index+1)
+            
+        dfs(0)
+        return answer
         
