@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
