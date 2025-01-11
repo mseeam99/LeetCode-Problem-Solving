@@ -1,9 +1,11 @@
+import itertools
+
 class Solution:
     def numTilePossibilities(self, tiles: str) -> int:
-        unique_sequences = set()
+        answer = set()
         
         for length in range(1, len(tiles) + 1):
-            for perm in permutations(tiles, length):
-                unique_sequences.add(perm)
+            for perm in itertools.permutations(tiles, length):
+                answer.add(perm)
         
-        return len(unique_sequences)
+        return len(answer)
