@@ -7,7 +7,7 @@ class Solution:
             if (r,c) in visited:
                 return 0
             visited.add((r,c))
-            totalLand = backTracking(r,c+1)
+            totalLand  = backTracking(r,c+1)
             totalLand += backTracking(r+1,c)
             totalLand += backTracking(r,c-1)
             totalLand += backTracking(r-1,c)
