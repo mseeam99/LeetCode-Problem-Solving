@@ -2,7 +2,7 @@ class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
         visited = set()
         def backTracking(r,c):
-            if r < 0 or r >= len(grid) or c < 0 or c >= len(grid[0]) or grid[r][c] == 0 :
+            if r < 0 or r >= len(grid) or c < 0 or c >= len(grid[0]) or grid[r][c] == 0:
                 return 1
             if (r,c) in visited:
                 return 0
