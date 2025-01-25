@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Graph
 |  |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
