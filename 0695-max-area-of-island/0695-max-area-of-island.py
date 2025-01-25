@@ -11,7 +11,6 @@ class Solution:
 
             visited.add((r,c))
 
-
             backTrack(r,c+1,localArea)
             backTrack(r+1,c,localArea)
             backTrack(r,c-1,localArea)
@@ -23,10 +22,8 @@ class Solution:
             for j in range(len(grid[0])):
                 if (i,j) not in visited and grid[i][j] == 1:
                     backTrack(i,j,localArea)
-                    print("LOCAL: ", localArea)
                     maximumArea = max(maximumArea,localArea[0])
                     localArea[0] = 0
-
 
         return maximumArea
 
