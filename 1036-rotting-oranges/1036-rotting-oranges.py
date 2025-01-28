@@ -27,7 +27,7 @@ class Solution:
             time+=1
             for _ in range(lengthOfQueue):
                 i,j = queue.popleft()
-                for r,c in [(i,j+1), (i+1,j), (i,j-1), (i-1,j)]:
+                for r,c in [(i+1,j), (i-1,j), (i,j-1), (i,j+1)]:
                     if r >= 0 and r < ROWS and c >= 0 and c < COLS and grid[r][c] == FRESH:
                         grid[r][c] = ROTTEN
                         fresh_oragne-=1
@@ -36,11 +36,4 @@ class Solution:
         if fresh_oragne == 0:
             return time
         else:
-            return -1
-
-
-
-
-
-
-        
+            return -1        
