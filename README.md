@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Doubly-Linked List
