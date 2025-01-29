@@ -31,7 +31,8 @@ class Solution:
             left = backTrackFirstTwo(r, c - 1)
             right = backTrackFirstTwo(r, c + 1)
 
-            return up and down and left and right 
+            if up and down and left and right:
+                return True
 
         count = 0
         for i in range(rows):
