@@ -31,11 +31,14 @@ class Solution:
                 if board[i][j] == "O" and (i, j) not in visited:
                     toChange.clear()  
                     isEnclosed = True  
-
                     backTrack(i, j) 
-
-                    if isEnclosed:
+                    if isEnclosed == True:
                         for x, y in toChange:
                             board[x][y] = "X"  
-
         return board 
+
+
+
+
+
+
