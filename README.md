@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1916-find-center-of-star-graph](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1916-find-center-of-star-graph) |
 ## Data Stream
 |  |
 | ------- |
