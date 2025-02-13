@@ -16,15 +16,7 @@ class Solution:
                 gotIt = second
             elif edges[i][1] == second:
                 gotIt = second
-        
-        count = len(edges) - 2
-        i = 0
-        for i in range(2,len(edges)):
-            if gotIt in edges[i]:
-                i+=1
-        
-        if i == count:
-            return gotIt
+     
 
         return gotIt
 
