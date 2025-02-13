@@ -6,7 +6,6 @@ class Solution:
 
         gotIt = -100
 
-
         for i in range(1,2):
             if edges[i][0] == first:
                 gotIt = first
@@ -17,7 +16,6 @@ class Solution:
             elif edges[i][1] == second:
                 gotIt = second
      
-
         return gotIt
 
         
