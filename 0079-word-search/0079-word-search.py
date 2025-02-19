@@ -1,36 +1,45 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
 
-        ROWS = len(board)
-        COLS = len(board[0])
+        finalAnswer = [False]
 
-        path = set()
+        def backTracking(r, c, index, makingTheString):
+            # If finalAnswer[0] is True, no need to proceed further.
+            if finalAnswer[0]:
+                return
+            
+            # If out of bounds or the characters do not match:
+            if r < 0 or r >= len(board) or c < 0 or c >= len(board[0]) or board[r][c] != word[index]:
+                return
+            
+            # Update the string with the current character
+            makingTheString += board[r][c]
 
-        def recursion(r,c,i):
+            # Check if we have constructed the word
+            if makingTheString == word:
+                finalAnswer[0] = True
+                return
+            
+            # Mark this cell as visited by replacing it with a non-letter character
+            temp = board[r][c]
+            board[r][c] = '#'
 
-            if i == len(word):
-                return True
+            # Move to the next character in the word
+            if index + 1 < len(word):
+                backTracking(r + 1, c, index + 1, makingTheString)
+                backTracking(r - 1, c, index + 1, makingTheString)
+                backTracking(r, c + 1, index + 1, makingTheString)
+                backTracking(r, c - 1, index + 1, makingTheString)
 
-            if r < 0 or c < 0 or r >= ROWS or c >= COLS or i > len(word) or word[i] != board[r][c] or (r,c) in path:
-                return False
+            # Undo the visit
+            board[r][c] = temp
 
-            path.add((r,c))
-            res = recursion(r+1,c,i+1) or recursion(r-1,c,i+1) or recursion(r,c+1,i+1) or recursion(r,c-1,i+1)
-            path.remove((r,c))
-            return res
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if board[i][j] == word[0]:  # Start search from cells that contain the first letter of the word
+                    backTracking(i, j, 0, "")
+                    if finalAnswer[0]:
+                        return True
 
-        for r in range(ROWS):
-            for c in range(COLS):
-                if recursion(r,c,0) == True:
-                    return True
+        return finalAnswer[0]
 
-        return False
-
-
-
-
-        
-
-
-       
-        
