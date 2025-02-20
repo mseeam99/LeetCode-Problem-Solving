@@ -25,8 +25,6 @@ class Solution:
             myMap[c] = []
             return True
 
-
-
         for i in range(len(prerequisites)):
             if function(prerequisites[i][1]) == False:
                 return False
