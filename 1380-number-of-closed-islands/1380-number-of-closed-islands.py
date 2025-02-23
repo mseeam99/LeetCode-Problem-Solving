@@ -15,7 +15,6 @@ class Solution:
 
             visitedSet.add((r,c))
             
-
             right = function(r,c+1)
             down  = function(r+1,c)
             left  = function(r,c-1)
@@ -27,10 +26,6 @@ class Solution:
             if right == True and down == True and left == True and up == True:
                 return True
             
-
-    
-
-
         for i in range(len(grid)):
             for j in range(len(grid[i])):
                 if (i,j) not in visitedSet:
