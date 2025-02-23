@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1254-deepest-leaves-sum) |
+| [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Doubly-Linked List
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1254-deepest-leaves-sum) |
+| [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
