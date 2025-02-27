@@ -3,7 +3,7 @@ class Solution:
         
         theString = str(n)
 
-        for i in range(100):
+        for i in range(50):
             val = 0
             for i in range(len(theString)):
                 val += ((int(theString[i]))**2)
