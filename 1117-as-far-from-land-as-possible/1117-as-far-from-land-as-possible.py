@@ -14,7 +14,7 @@ class Solution:
 
         result = -1
         if not myQueue or len(visitedSet) == len(grid) * len(grid[0]):
-            return -1
+            return result
 
         while len(myQueue) != 0 :
 
