@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
