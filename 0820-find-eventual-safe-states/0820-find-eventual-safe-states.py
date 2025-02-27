@@ -7,7 +7,7 @@ class Solution:
 
         visitedIndex = set()  
         safeNode = {}  
-
+        
         def function(index):
             if index in safeNode:  
                 return safeNode[index]
@@ -26,7 +26,7 @@ class Solution:
             
             for i in range(len(theList)):
                 ans = function(theList[i])
-                if not ans:  
+                if ans == False:  
                     isSafe = False
                     break
             
@@ -38,6 +38,9 @@ class Solution:
         for index in range(len(graph)):
             function(index)
 
-        answer = [i for i in range(len(myMap)) if safeNode.get(i, False)]
+        answer = []
+        for i in range(len(myMap)):
+            if safeNode[i] == True:
+                answer.append(i)
 
         return answer
