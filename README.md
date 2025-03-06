@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
