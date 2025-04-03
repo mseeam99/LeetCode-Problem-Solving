@@ -1,20 +1,40 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        currentLongest = [0,1]
-        for i in range(1,len(s)):
-            odd  = self.expandAroundCenter(s,i-1,i+1)
-            even = self.expandAroundCenter(s,i-1,i)
-            if (odd[1] - odd[0]) > (even[1] - even[0]):
-                longest = odd
-            else:
-                longest = even        
-            if (longest[1] - longest[0]) > (currentLongest[1] - currentLongest[0]):
-                currentLongest = longest
-        return s[currentLongest[0]:currentLongest[1]]
 
-    def expandAroundCenter(self, string, left, right):
-        while left >= 0 and right < len(string) and string[left] == string[right]:
-            left -= 1
-            right += 1
-        return [left + 1, right]
+        if s == s[::-1]:
+            return s
 
+        answer = ""
+
+        def expand(left,right):
+
+            nonlocal answer
+            
+            while left >= 0 and right <= len(s)-1 and s[left] == s[right]:
+                
+                left -= 1
+                right += 1
+
+            newString = ""
+            
+            for i in range(left+1,right):
+                newString+=s[i]
+
+            if newString == newString[::-1]:
+                if len(newString) >= len(answer):
+                    answer = newString
+            
+        for i in range(len(s)):
+            expand(i,i)
+            expand(i,i+1)
+
+        return answer
+            
+
+
+
+
+
+
+        
+        
