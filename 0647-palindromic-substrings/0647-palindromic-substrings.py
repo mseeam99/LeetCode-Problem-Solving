@@ -35,13 +35,9 @@ class Solution:
                 else:
                     break
 
-
-    
         for i in range(len(s)):
             expandODD(i)
             expandEVEN(i)
-
-        print(count)
 
         return count
 
