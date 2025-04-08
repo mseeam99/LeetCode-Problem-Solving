@@ -6,7 +6,7 @@ class Solution:
         maxIndexAssociatedWithValue = 0
 
         while leftPointer < len(nums):
-
+            
             if (leftPointer + nums[leftPointer]) >= len(nums)-1:
                 return True
 
