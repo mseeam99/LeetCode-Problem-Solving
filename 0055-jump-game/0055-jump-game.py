@@ -14,9 +14,9 @@ class Solution:
 
             for i in range(leftPointer+1,min(leftPointer+nums[leftPointer]+1,len(nums))):
             
-                candidate = i + nums[i]  # total reach from index i
-                if candidate > prevMaxValueFound:
-                    prevMaxValueFound = candidate
+                maxValueFound = max(maxValueFound,i+nums[i])
+                if maxValueFound >= prevMaxValueFound:
+                    prevMaxValueFound = maxValueFound
                     maxValueFound = nums[i]
                     maxIndexAssociatedWithValue = i
             
