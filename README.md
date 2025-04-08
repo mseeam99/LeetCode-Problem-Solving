@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0079-word-search) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0091-decode-ways) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
