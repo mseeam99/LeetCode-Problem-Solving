@@ -10,4 +10,5 @@ class Solution:
             curMax = max(nums[i], currentValue, curMin * nums[i])
             curMin = min(nums[i], currentValue, curMin * nums[i])
             result = max(result, curMax)
+            print("CURMAX: ",curMax, " CURMIN: ", curMin, " RESULT: ", result)
         return result
