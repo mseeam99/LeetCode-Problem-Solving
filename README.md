@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0213-house-robber-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
 |  |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 ## Topological Sort
 |  |
