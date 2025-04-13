@@ -19,5 +19,6 @@ class Solution:
                     print("INDEX WE ARE PUTTING IN DP: ", (i+len(word)))
                     dp[i+len(word)] = True
                     print(dp)
+                   
 
         return dp[-1]
