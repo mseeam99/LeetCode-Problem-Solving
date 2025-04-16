@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
