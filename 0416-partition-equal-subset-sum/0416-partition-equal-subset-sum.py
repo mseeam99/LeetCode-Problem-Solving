@@ -14,7 +14,7 @@ class Solution:
         dp = set()
         dp.add(0)
 
-        for i in range(len(nums)-1,-1,-1):
+        for i in range(len(nums)):
             print(dp)
             dpTempArray = set()
             for val in dp:
