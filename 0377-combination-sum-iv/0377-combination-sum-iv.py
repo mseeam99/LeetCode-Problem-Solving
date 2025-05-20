@@ -2,6 +2,7 @@ from typing import List
 
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
+        
         dparray = [-1] * (target + 1)
 
         def dp(n):
@@ -13,9 +14,12 @@ class Solution:
                 return dparray[n]
 
             res = 0
+
             for num in nums:
                 res += dp(n + num)
+
             dparray[n] = res
+
             return res
 
         return dp(0)
