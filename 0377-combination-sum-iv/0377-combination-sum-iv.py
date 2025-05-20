@@ -6,7 +6,7 @@ class Solution:
         dparray = [-1] * (target + 1)
 
         def dp(n):
-            
+
             if n > target:
                 return 0
             elif n == target:
@@ -15,10 +15,8 @@ class Solution:
                 return dparray[n]
 
             res = 0
-
             for num in nums:
                 res += dp(n + num)
-
             dparray[n] = res
 
             return res
