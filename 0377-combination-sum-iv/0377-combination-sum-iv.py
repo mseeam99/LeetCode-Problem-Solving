@@ -1,10 +1,20 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+from typing import List
+
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
-        dp=[0]*(target+1)
-        dp[0]=1
-        for i in range(1,target+1):
+        dpa = [-1] * (target + 1)
+
+        def dp(n):
+            if n > target:
+                return 0
+            if n == target:
+                return 1
+            if dpa[n] != -1:
+                return dpa[n]
+            res = 0
             for num in nums:
-                if(i-num>=0):
-                    dp[i]+=dp[i-num]
-        return dp[target]
+                res += dp(n + num)
+            dpa[n] = res
+            return res
+
+        return dp(0)
