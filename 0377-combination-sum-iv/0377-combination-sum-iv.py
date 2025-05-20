@@ -7,9 +7,9 @@ class Solution:
         def dp(n):
             if n > target:
                 return 0
-            if n == target:
+            elif n == target:
                 return 1
-            if dpa[n] != -1:
+            elif dpa[n] != -1:
                 return dpa[n]
             res = 0
             for num in nums:
