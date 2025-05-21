@@ -9,7 +9,7 @@ class Solution:
 
             best_product = float('-inf')
 
-            end_range = current if current == n else current + 1  # Moving the condition outside
+            end_range = current if current == n else current + 1
             for i in range(1, end_range):
                 best_product = max(best_product, find_max_product(current - i) * i)
 
