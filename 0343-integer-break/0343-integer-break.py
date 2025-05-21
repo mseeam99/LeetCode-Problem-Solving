@@ -3,14 +3,16 @@ from functools import cache
 class Solution:
     def integerBreak(self, n: int) -> int:
         @cache
-        def dp(cur):
-            # base case
-            if cur == 0:
+        def find_max_product(current):
+            if current == 0:
                 return 1
 
-            max_product = -float('inf')
-            for i in range(1, cur + 1 if cur != n else cur):
-                max_product = max(max_product, dp(cur - i) * i)
-            return max_product
+            best_product = float('-inf')
 
-        return dp(n)
+            end_range = current if current == n else current + 1  # Moving the condition outside
+            for i in range(1, end_range):
+                best_product = max(best_product, find_max_product(current - i) * i)
+
+            return best_product
+
+        return find_max_product(n)
