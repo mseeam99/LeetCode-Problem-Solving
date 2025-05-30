@@ -6,6 +6,7 @@ class Solution:
         answer      = max(nums)
 
         for i in range(len(nums)):
+            
             if nums[i] == 0:
                 maxValue, minValue = 1, 1  
                 continue
@@ -15,6 +16,7 @@ class Solution:
 
             maxValue = max(nums[i], temp_max, temp_min)
             minValue = min(nums[i], temp_max, temp_min)
+            print(maxValue , minValue)
 
             answer = max(answer, maxValue)
 
