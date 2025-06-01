@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Design
 |  |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
