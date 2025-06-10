@@ -1,34 +1,20 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-
-        total = sum(nums)
-
-        if total % 2 != 0:
+        totalSum = sum(nums)
+        if totalSum % 2 != 0:
             return False
+        searchingFor = totalSum // 2
+        memo = {}
 
-        half = total // 2
+        def dfs(index, currentSum):
+            if currentSum == searchingFor:
+                return True
+            if currentSum > searchingFor or index >= len(nums):
+                return False
+            if (index, currentSum) in memo:
+                return memo[(index, currentSum)]
+            result = dfs(index + 1, currentSum + nums[index]) or dfs(index + 1, currentSum)
+            memo[(index, currentSum)] = result
+            return result
 
-        print("TOTAL: ", total)
-        print("HALF : ", half)
-
-        dp = set()
-        dp.add(0)
-
-        for i in range(len(nums)):
-            print(dp)
-            dpTempArray = set()
-            for val in dp:
-                if nums[i] + val == half:
-                    return True
-                dpTempArray.add(val)
-                dpTempArray.add(nums[i]+val)
-            dp = dpTempArray
-            
-        print(dp)
-        return True if half in dp else False
-
-        
-
-
-
-        
+        return dfs(0, 0)
