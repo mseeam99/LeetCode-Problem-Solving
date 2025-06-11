@@ -1,10 +1,14 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
+
         memo = {}
 
         def recursion(index, current):
             if index == len(nums):
-                return 1 if current == target else 0
+                if current == target:
+                    return 1 
+                else:
+                    return 0
 
             if (index, current) in memo:
                 return memo[(index, current)]
