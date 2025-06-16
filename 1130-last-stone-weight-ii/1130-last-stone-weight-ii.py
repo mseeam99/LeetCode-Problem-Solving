@@ -15,7 +15,7 @@ class Solution:
             if index == len(stones):
                 need = total - current
                 answer = min(answer,abs(current-need))
-                return answer
+                return min(answer,abs(current-need))
 
             memo[(index,current)] = recursion(current+stones[index],index+1)
             memo[(index,current)] = recursion(current,index+1)
