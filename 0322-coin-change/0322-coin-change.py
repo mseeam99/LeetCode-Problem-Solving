@@ -1,4 +1,14 @@
 class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        self.memo = {}
+        self.memo[0] = 0
+        for coin in coins:
+            if coin <= amount:
+                self.memo[coin] = 1
+        coins.sort()
+        value = self.helper(coins, amount)
+        return value if value != float('inf') else -1
+
     def helper(self, coins, amount):
         if amount in self.memo:
             return self.memo[amount]
@@ -12,13 +22,4 @@ class Solution:
         self.memo[amount] = min_coins_needed
         return min_coins_needed
 
-    def coinChange(self, coins: List[int], amount: int) -> int:
-        self.memo = {}
-        self.memo[0] = 0
-        for coin in coins:
-            if coin <= amount:
-                self.memo[coin] = 1
-        coins.sort()
-        value = self.helper(coins, amount)
-        return value if value != float('inf') else -1
-
+    
