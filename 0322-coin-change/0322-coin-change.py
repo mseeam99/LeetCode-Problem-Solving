@@ -12,7 +12,7 @@ class Solution:
 
             minCoinNeed = float('inf')
             for coin in coins:
-                if totalAmount <= amount:
+                if totalAmount <= amount and coin <= amount:
                     coinNeed = recursion(coins, totalAmount - coin)
                     minCoinNeed = min(minCoinNeed, coinNeed + 1)
 
