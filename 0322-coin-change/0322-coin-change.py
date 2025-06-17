@@ -12,8 +12,9 @@ class Solution:
 
             minCoinNeed = float('inf')
             for coin in coins:
-                coinNeed = recursion(coins, totalAmount - coin)
-                minCoinNeed = min(minCoinNeed, coinNeed + 1)
+                if totalAmount <= amount:
+                    coinNeed = recursion(coins, totalAmount - coin)
+                    minCoinNeed = min(minCoinNeed, coinNeed + 1)
 
             memo[totalAmount] = minCoinNeed
             return minCoinNeed
