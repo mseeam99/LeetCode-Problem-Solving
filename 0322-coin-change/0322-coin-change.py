@@ -1,25 +1,22 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        self.memo = {}
-        self.memo[0] = 0
-        for coin in coins:
-            if coin <= amount:
-                self.memo[coin] = 1
-        coins.sort()
-        value = self.helper(coins, amount)
-        return value if value != float('inf') else -1
+        memo = {}
 
-    def helper(self, coins, amount):
-        if amount in self.memo:
-            return self.memo[amount]
-        min_coins_needed = float('inf')
-        for coin in coins:
-            if coin <= amount:
-                coins_needed = self.helper(coins, amount - coin)
-                min_coins_needed = min(min_coins_needed, coins_needed)
-        if min_coins_needed != float('inf'):
-            min_coins_needed += 1
-        self.memo[amount] = min_coins_needed
-        return min_coins_needed
+        def recursion(coins, totalAmount):
+            if totalAmount in memo:
+                return memo[totalAmount]
+            if totalAmount < 0:
+                return float('inf')
+            if totalAmount == 0:
+                return 0
 
-    
+            minCoinNeed = float('inf')
+            for coin in coins:
+                coinNeed = recursion(coins, totalAmount - coin)
+                minCoinNeed = min(minCoinNeed, coinNeed + 1)
+
+            memo[totalAmount] = minCoinNeed
+            return minCoinNeed
+
+        val = recursion(coins, amount)
+        return val if val != float('inf') else -1
