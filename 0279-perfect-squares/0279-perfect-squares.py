@@ -1,4 +1,3 @@
-import math
 class Solution:
     def numSquares(self, n: int) -> int:
         if n == 1:
@@ -6,7 +5,6 @@ class Solution:
 
         max_root = math.isqrt(n)
         numbers = [i*i for i in range(max_root, 0, -1)]
-        print(numbers)
 
         leastNumberOfPerfectSquare = float('inf')
         memo = {}
@@ -30,8 +28,6 @@ class Solution:
                 if num > currentNumber:
                     continue
                 recursion(currentNumber-num,coinCount+1)
-
-
 
             return
 
