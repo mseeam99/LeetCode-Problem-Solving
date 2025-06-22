@@ -4,7 +4,6 @@ class Solution:
         if n == 1:
             return 1
 
-        # Precompute squares in descending order (so we try big squares first for faster pruning)
         max_root = math.isqrt(n)
         numbers = [i*i for i in range(max_root, 0, -1)]
         print(numbers)
@@ -20,7 +19,7 @@ class Solution:
                 return
 
             if currentNumber in memo and coinCount >= memo[currentNumber]:
-                return 
+                return memo[currentNumber]
             memo[currentNumber] = coinCount
             
             if currentNumber == 0:
