@@ -1,5 +1,4 @@
 import math
-
 class Solution:
     def numSquares(self, n: int) -> int:
         if n == 1:
@@ -10,32 +9,32 @@ class Solution:
         numbers = [i*i for i in range(max_root, 0, -1)]
         print(numbers)
 
-        least = float('inf')
-        memo = {}  # memo[rem] = best (smallest) coinCount we've used so far to reach rem
+        leastNumberOfPerfectSquare = float('inf')
+        memo = {}
 
-        def dfs(rem: int, coinCount: int):
-            nonlocal least
+        def recursion(currentNumber,coinCount):
 
-            # 1) If we've already used at least as many coins as the best solution, stop
-            if coinCount >= least:
+            nonlocal leastNumberOfPerfectSquare, n, numbers, memo
+            
+            if coinCount >= leastNumberOfPerfectSquare:
                 return
 
-            # 2) If we've been in this state with an equal or better coinCount, stop
-            if rem in memo and coinCount >= memo[rem]:
-                return
-            # record that we're exploring rem with coinCount
-            memo[rem] = coinCount
-
-            # 3) If we hit zero, update global best
-            if rem == 0:
-                least = coinCount
+            if currentNumber in memo and coinCount >= memo[currentNumber]:
+                return 
+            memo[currentNumber] = coinCount
+            
+            if currentNumber == 0:
+                leastNumberOfPerfectSquare = min(leastNumberOfPerfectSquare,coinCount)
                 return
 
-            # 4) Recurse, but skip any square > rem
-            for sq in numbers:
-                if sq > rem:
+            for num in numbers:
+                if num > currentNumber:
                     continue
-                dfs(rem - sq, coinCount + 1)
+                recursion(currentNumber-num,coinCount+1)
 
-        dfs(n, 0)
-        return least
+
+
+            return
+
+        recursion(n,0)
+        return leastNumberOfPerfectSquare
