@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
