@@ -1,4 +1,3 @@
-fmax = lambda x,y: x if x > y else y
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         memo = {}
