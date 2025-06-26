@@ -1,21 +1,11 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        s.sort()
         g.sort()
-
-        pointerOne = 0
-        pointerTwo = 0
-        count      = 0
-
-        while pointerOne < len(g) and pointerTwo < len(s):
-            if s[pointerTwo] >= g[pointerOne]:
-                count+=1
-                pointerOne+=1
-                pointerTwo+=1
-            else:
-                pointerTwo+=1
-            
-        return count
-
-
-        
+        s.sort()
+        i = 0
+        j = 0
+        while i < len(g) and j < len(s):
+            if g[i] <= s[j]:
+                i += 1
+            j += 1
+        return i
