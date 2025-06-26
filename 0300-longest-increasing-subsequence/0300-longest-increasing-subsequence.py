@@ -5,7 +5,7 @@ class Solution:
             for j in range(i+1,len(nums)):
                 if nums[i] < nums[j]:
                     dp[i] = max(dp[i],1+dp[j])
-                 #   continue
+                    continue
         return max(dp)
 
         
