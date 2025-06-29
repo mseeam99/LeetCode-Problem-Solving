@@ -10,8 +10,6 @@ class Solution:
         for i in range(len(prices)):
             if prices[i] >= first and i != indexTrack:
                 second = min(second,prices[i])
-        print(first)
-        print(second)
         totalCost = (first+second)
         leftOver = money-(totalCost)
         if leftOver >= 0:
