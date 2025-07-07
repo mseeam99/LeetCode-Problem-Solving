@@ -1,24 +1,32 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
 
-        open_paren = 0  
-        close_paren = 0
+        leftParen = []
+        star = []
 
-        for char in s:
-            if char == '(':
-                open_paren += 1
-                close_paren += 1
-            elif char == ')':
-                open_paren -= 1
-                close_paren -= 1
-            else: 
-                open_paren -= 1  
-                close_paren += 1 
+        for i in range(len(s)):
+            char = s[i]
+            if char == "(":
+                leftParen.append(i)
+            elif char == "*":
+                star.append(i)
+            elif char == ")":
+                if leftParen:
+                    leftParen.pop()
+                elif star:
+                    star.pop()
+                else:
+                    return False
 
-            if close_paren < 0:
+        while star and leftParen:
+            if leftParen[-1] < star[-1]:
+                star.pop()
+                leftParen.pop()
+            else:
                 return False
-
-            if open_paren < 0:
-                open_paren = 0 
-
-        return open_paren == 0
+                
+        if len(leftParen) == 0:
+            return True
+        else:
+            return False
+    
