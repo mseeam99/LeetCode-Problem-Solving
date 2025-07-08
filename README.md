@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0742-to-lower-case) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
