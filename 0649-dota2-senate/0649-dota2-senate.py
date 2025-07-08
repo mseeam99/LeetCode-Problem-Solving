@@ -11,9 +11,6 @@ class Solution:
             elif senate[i] == "D":
                 queueForDire.append(i)
 
-        print(queueForRadiant) 
-        print(queueForDire)
-
         while queueForRadiant and queueForDire:
             if len(queueForRadiant) == 0:
                 return "Dire"
@@ -37,7 +34,5 @@ class Solution:
             return "Radiant"
         else:
             return "Dire"
-
-
 
             
