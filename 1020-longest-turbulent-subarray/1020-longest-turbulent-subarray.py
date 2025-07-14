@@ -1,5 +1,6 @@
 class Solution:
     def maxTurbulenceSize(self, arr: List[int]) -> int:
+        
         if len(arr) < 2:
             return len(arr)
 
@@ -14,18 +15,21 @@ class Solution:
                 elif arr[i] < arr[i - 1]:
                     sign = "<"
                 else:
-                    break  # equal elements break turbulence
+                    break  
 
                 if i == pointer + 1:
                     currentLength += 1
                 else:
-                    if (arr[i - 1] > arr[i - 2] and arr[i] < arr[i - 1]) or \
-                       (arr[i - 1] < arr[i - 2] and arr[i] > arr[i - 1]):
+                    if (arr[i - 1] > arr[i - 2] and arr[i] < arr[i - 1]) or (arr[i - 1] < arr[i - 2] and arr[i] > arr[i - 1]):
                         currentLength += 1
                     else:
                         break
 
             maxLength = max(maxLength, currentLength)
-            pointer += max(1, currentLength - 1)
+
+            if currentLength > 1:
+                pointer += currentLength - 1
+            else:
+                pointer += 1
 
         return maxLength
