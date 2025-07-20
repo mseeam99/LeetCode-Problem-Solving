@@ -24,6 +24,8 @@ class Solution:
                 else:
                     currentArrayDP[col] = previousArrayDP[col] + currentArrayDP[col-1]
 
+            print(currentArrayDP)
+
             previousArrayDP = currentArrayDP
 
         return previousArrayDP[-1]
