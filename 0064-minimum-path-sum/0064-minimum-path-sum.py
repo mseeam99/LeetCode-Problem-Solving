@@ -30,8 +30,6 @@ class Solution:
 
                 currentRow[col] += minimumNeigbour 
             
-            print(currentRow)
-
             outerArray = currentRow
         
         return outerArray[0]
