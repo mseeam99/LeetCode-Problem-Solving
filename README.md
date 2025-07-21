@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0079-word-search) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
