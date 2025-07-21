@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
