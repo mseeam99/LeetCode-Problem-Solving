@@ -7,7 +7,6 @@ class Solution:
 
         rows, cols = len(matrix), len(matrix[0])
 
-        # Preprocess: count consecutive '1's to the right
         for row in range(rows - 1, -1, -1):
             for col in range(cols - 1, -1, -1):
                 if matrix[row][col] != '0':
@@ -20,7 +19,6 @@ class Solution:
 
         maxSquareSize = 0
 
-        # Check for maximal square
         for i in range(rows):
             for j in range(cols):
                 currentWidth = matrix[i][j]
