@@ -18,7 +18,6 @@ class Solution:
 
                 if col-1 >= 0:
                     leftDiagonal = outerArray[col-1]
-                
 
                 innerCurrentArray[col] += min(rightDiagonal, down, leftDiagonal)
 
