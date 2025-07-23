@@ -1,30 +1,31 @@
 class Solution:
     def cherryPickup(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
-        dp = [[[0] * n for _ in range(n)] for _ in range(m)]
-
+        
+        dp = [[0] * n for _ in range(n)]
         for i in range(n):
             for j in range(n):
                 if i == j:
-                    dp[m-1][i][j] = grid[m-1][i]
+                    dp[i][j] = grid[m-1][i]
                 else:
-                    dp[m-1][i][j] = grid[m-1][i] + grid[m-1][j]
+                    dp[i][j] = grid[m-1][i] + grid[m-1][j]
 
         for row in range(m-2, -1, -1):
+            new_dp = [[0] * n for _ in range(n)]
             for i in range(n):
                 for j in range(n):
-                    maxValue = 0
-                    for moveForI in range(-1, 2):
-                        for moveForJ in range(-1, 2):
-                            newI = i + moveForI
-                            newJ = j + moveForJ
-                            if 0 <= newI < n and 0 <= newJ < n:
-                                value = dp[row+1][newI][newJ]
+                    max_val = 0
+                    for di in [-1, 0, 1]:
+                        for dj in [-1, 0, 1]:
+                            ni, nj = i + di, j + dj
+                            if 0 <= ni < n and 0 <= nj < n:
+                                val = dp[ni][nj]
                                 if i == j:
-                                    value += grid[row][i]
+                                    val += grid[row][i]
                                 else:
-                                    value += grid[row][i] + grid[row][j]
-                                maxValue = max(maxValue, value)
-                    dp[row][i][j] = maxValue
+                                    val += grid[row][i] + grid[row][j]
+                                max_val = max(max_val, val)
+                    new_dp[i][j] = max_val
+            dp = new_dp 
 
-        return dp[0][0][n-1]
+        return dp[0][n-1]
