@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
