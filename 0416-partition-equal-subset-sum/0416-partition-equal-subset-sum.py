@@ -1,6 +1,5 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-
         def subsetFunction(arr,sum):
             previousDp = [False] * (sum+1)
             previousDp[0] = True
