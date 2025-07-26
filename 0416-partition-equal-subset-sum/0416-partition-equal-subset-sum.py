@@ -1,22 +1,34 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        def subsetFunction(arr,sum):
-            previousDp = [False] * (sum+1)
-            previousDp[0] = True
-            for row in range(len(arr)):
-                currentDp = [False] * (sum+1)
-                currentDp[0] = True
-                for col in range(1,sum+1):
-                    notTake = previousDp[col]
-                    take = False
-                    if arr[row] <= col:
-                        take = previousDp[col-arr[row]]
-                    currentDp[col] = take or notTake
-                previousDp = currentDp
-            return previousDp[sum]
-        if sum(nums) % 2 != 0:
+
+        total = sum(nums)
+
+        if total % 2 != 0:
             return False
-        target = sum(nums) // 2
-        return subsetFunction(nums,target)
+
+        half = total // 2
+
+        print("TOTAL: ", total)
+        print("HALF : ", half)
+
+        dp = set()
+        dp.add(0)
+
+        for i in range(len(nums)):
+            print(dp)
+            dpTempArray = set()
+            for val in dp:
+                if nums[i] + val == half:
+                    return True
+                dpTempArray.add(val)
+                dpTempArray.add(nums[i]+val)
+            dp = dpTempArray
+            
+        print(dp)
+        return True if half in dp else False
+
+        
 
 
+
+        
