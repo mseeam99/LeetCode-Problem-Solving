@@ -16,4 +16,4 @@ class Solution:
                 innerdp[col] = take + notTake
             outerdp = innerdp
 
-        return outerdp[amount]
+        return outerdp[-1]
