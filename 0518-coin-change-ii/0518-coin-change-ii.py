@@ -5,7 +5,7 @@ class Solution:
         
         for T in range(amount + 1):
             outerdp[T] = int(T % coins[0] == 0)
-
+        
         for row in range(1, len(coins)):
             innerdp = outerdp.copy()
             for col in range(amount + 1):
