@@ -1,23 +1,25 @@
+from typing import List
+
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        memo = {}
+        coins.sort()
+        outerdp = [float("inf")] * (amount + 1)
+        outerdp[0] = 0  # base case: 0 coins to make amount 0
 
-        def recursion(coins, totalAmount):
-            if totalAmount in memo:
-                return memo[totalAmount]
-            if totalAmount < 0:
-                return float('inf')
-            if totalAmount == 0:
-                return 0
+        # First row initialization using only coins[0]
+        for i in range(coins[0], amount + 1):
+            if i % coins[0] == 0:
+                outerdp[i] = i // coins[0]
 
-            minCoinNeed = float('inf')
-            for coin in coins:
-                if totalAmount <= amount and coin <= amount:
-                    coinNeed = recursion(coins, totalAmount - coin)
-                    minCoinNeed = min(minCoinNeed, coinNeed + 1)
+        # Process remaining coins
+        for row in range(1, len(coins)):
+            innerdp = outerdp.copy()
+            for col in range(amount + 1):
+                notTake = outerdp[col]
+                take = float("inf")
+                if coins[row] <= col:
+                    take = 1 + innerdp[col - coins[row]]
+                innerdp[col] = min(take, notTake)
+            outerdp = innerdp
 
-            memo[totalAmount] = minCoinNeed
-            return minCoinNeed
-
-        val = recursion(coins, amount)
-        return val if val != float('inf') else -1
+        return -1 if outerdp[amount] == float("inf") else int(outerdp[amount])
