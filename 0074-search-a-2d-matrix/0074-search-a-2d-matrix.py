@@ -13,7 +13,6 @@ class Solution:
                 elif array[middlePointer] > target:
                     rightPointer = middlePointer-1
                     
-
         for row in matrix:
             ans = binarySearch(row,target)
             if ans == True:
