@@ -30,8 +30,6 @@ class Solution:
         maxString = ""
         tempVal = 0
 
-        print(hashMap)
-
         for key,val in hashMap.items():
             if val == "":
                 continue
