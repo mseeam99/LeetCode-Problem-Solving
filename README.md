@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
