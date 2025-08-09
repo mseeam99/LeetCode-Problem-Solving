@@ -1,40 +1,25 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-
-        if s == s[::-1]:
-            return s
-
-        answer = ""
-
-        def expand(left,right):
-
-            nonlocal answer
-            
-            while left >= 0 and right <= len(s)-1 and s[left] == s[right]:
-                
-                left -= 1
-                right += 1
-
-            newString = ""
-            
-            for i in range(left+1,right):
-                newString+=s[i]
-
-            if newString == newString[::-1]:
-                if len(newString) >= len(answer):
-                    answer = newString
-            
+        maxLPalindromeLength = float("-inf")
+        maxLPalindromeString = ""
         for i in range(len(s)):
-            expand(i,i)
-            expand(i,i+1)
+            leftPointer = i
+            rightPointer = i
+            while leftPointer >= 0 and rightPointer <= len(s)-1 and s[leftPointer] == s[rightPointer]:
+                leftPointer -= 1
+                rightPointer += 1
+            currentLength = rightPointer - leftPointer - 1 
+            if currentLength > maxLPalindromeLength:
+                maxLPalindromeLength = currentLength
+                maxLPalindromeString = s[leftPointer + 1:rightPointer]
 
-        return answer
-            
-
-
-
-
-
-
-        
-        
+            leftPointer = i
+            rightPointer = i + 1
+            while leftPointer >= 0 and rightPointer <= len(s)-1 and s[leftPointer] == s[rightPointer]:
+                leftPointer -= 1
+                rightPointer += 1
+            currentLength = rightPointer - leftPointer - 1
+            if currentLength > maxLPalindromeLength:
+                maxLPalindromeLength = currentLength
+                maxLPalindromeString = s[leftPointer + 1:rightPointer]        
+        return maxLPalindromeString
