@@ -14,6 +14,5 @@ class Solution:
                     otherArray[-1][1] = max(endValue,otherArray[-1][1])
                 else:
                     otherArray.append(intervals[i])
-
         return otherArray
         
