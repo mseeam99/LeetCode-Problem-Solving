@@ -1,23 +1,21 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-       
-        if len(nums) == 1 and target == 0:
-            return 0
         
-        if len(nums) == 1 and target == 1:
-            return 0
+        left = 0
+        right = len(nums)
 
-        answer = 0
-        for i in range(len(nums)):
-            if target <= nums[i] :
-                answer =  i
-                return answer
-           
-        if answer == 0:
-            return len(nums)
-        return answer
+        while left < right:
+            middle = (left + right) // 2
 
-        
+            if nums[middle] == target:
+                return middle
 
-
-        
+            if nums[middle] < target:
+                left = middle + 1
+                continue
+                
+            elif nums[middle] > target:
+                right = middle
+                continue
+            
+        return left
