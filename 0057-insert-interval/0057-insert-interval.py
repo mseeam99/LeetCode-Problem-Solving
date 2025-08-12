@@ -5,11 +5,14 @@ class Solution:
         right = len(intervals)
 
         while left < right:
-            mid = (left + right) // 2
-            if intervals[mid][0] < newInterval[0]:
-                left = mid + 1
-            else:
-                right = mid
+            middle = (left + right) // 2
+            if intervals[middle][0] < newInterval[0]:
+                left = middle + 1
+                continue
+            elif intervals[middle][0] > newInterval[0]:
+                right = middle
+                continue
+            left+=1
 
         intervals.insert(left,newInterval)
 
@@ -25,7 +28,3 @@ class Solution:
             outerArray.append(intervals[i])
 
         return outerArray
-
-
-
-        
