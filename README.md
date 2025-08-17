@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
 | [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
