@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0649-dota2-senate) |
