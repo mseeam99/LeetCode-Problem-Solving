@@ -11,23 +11,11 @@ class Solution:
                 shortInterval.append(meetings[i])
 
         count = 0
-        pointer = 1
-
         for i in range(len(shortInterval)):
-            if i == 0:
-                if shortInterval[i][0] != 1:
-                    count += shortInterval[i][0] - 1
-                    pointer = shortInterval[i][1] 
-                else:
-                    pointer = shortInterval[i][1] 
-            if shortInterval[i][0] - pointer > 1:
-                count += shortInterval[i][0] - pointer - 1
-                pointer = shortInterval[i][1] 
-            elif shortInterval[i][0] - pointer == 1:
-                pointer = shortInterval[i][1] 
+            count += shortInterval[i][1] - shortInterval[i][0] + 1 
 
-        if pointer < days:
-            count += days - pointer
+        return days - count
+
         
-        return count
+        
             
