@@ -19,9 +19,9 @@ class MyCalendar:
             return True
         else:
             i = self.bisectLeft(startTime)
-            if i != 0 and self.array[i - 1][1] > startTime:
+            if i > 0 and self.array[i - 1][1] > startTime:
                 return False
-            if i != len(self.array) and endTime > self.array[i][0]:
+            if i < len(self.array) and endTime > self.array[i][0]:
                 return False
             self.array.insert(i, [startTime, endTime])
             return True
