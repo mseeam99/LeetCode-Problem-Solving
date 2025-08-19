@@ -4,17 +4,11 @@ class Solution:
         meetings.sort()
         shortInterval = [meetings[0]]
 
-        print(meetings)
-
         for i in range(1,len(meetings)):
             if meetings[i][0] <= shortInterval[-1][1]:
                 shortInterval[-1][1] = max(shortInterval[-1][1],meetings[i][1])
             else:
                 shortInterval.append(meetings[i])
-
-        print(shortInterval)
-
-        # 1, 2, 3, 4 ,5, 6 , 7 , 8, 9, 10
 
         count = 0
         pointer = 1
@@ -26,7 +20,6 @@ class Solution:
                     pointer = shortInterval[i][1] 
                 else:
                     pointer = shortInterval[i][1] 
-
             if shortInterval[i][0] - pointer > 1:
                 count += shortInterval[i][0] - pointer - 1
                 pointer = shortInterval[i][1] 
@@ -36,25 +29,5 @@ class Solution:
         if pointer < days:
             count += days - pointer
         
-
         return count
             
-
-
-
-        
-            
-        
-       
-
-
-
-        return count
-
-
-
-
-                
-
-
-        
