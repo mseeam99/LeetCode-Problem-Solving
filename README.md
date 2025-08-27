@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sorting
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
