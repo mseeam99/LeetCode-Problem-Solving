@@ -14,17 +14,13 @@ class Solution:
         heapq.heapify(availableRoomsArray)
         heapq.heapify(currentlyUsingRoomsArray)
 
-
         for i in range(len(meetings)):
-
             startTime = meetings[i][0]
             endTime = meetings[i][1]
-
             # can use a room which finished before or just before interval starts
             while currentlyUsingRoomsArray and currentlyUsingRoomsArray[0][0] <= startTime:
                 finishingTime, roomNumber = heapq.heappop(currentlyUsingRoomsArray)
                 heapq.heappush(availableRoomsArray,roomNumber)
-                
             if availableRoomsArray:
                 roomNumber = heapq.heappop(availableRoomsArray)
                 heapq.heappush(currentlyUsingRoomsArray,(endTime,roomNumber))
@@ -43,14 +39,12 @@ class Solution:
                     hashMap[roomNumber] = 1
                 else:
                     hashMap[roomNumber] += 1
-
         maxRoomNumber = float("-inf")
         maxValue = float("-inf")
         for key,val in hashMap.items():
             if val > maxValue:
                 maxValue = val
                 maxRoomNumber = key
-
         return maxRoomNumber
                     
 
