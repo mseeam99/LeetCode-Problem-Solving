@@ -9,15 +9,13 @@ class Solution:
         a = self.minInterval(leftToRightArray)
         b = self.minInterval(bottomToTopArray)
         return a or b
-        
+    
     def minInterval(self,array):
         array.sort(key=lambda x: x[0])
         count = 0
-        prev = -1
+        prev = [0,0]
         for i in range(len(array)):
-            if prev <= array[i][0]:
+            if prev[1] <= array[i][0]:
                 count += 1
-            prev = max(prev,array[i][1])
+            prev[1] = max(prev[1],array[i][1])
         return count >= 3
-
-
