@@ -6,7 +6,6 @@ class Solution:
 
         meetings.sort()
         hashMap = {}
-        print(meetings)
 
         availableRoomsArray = []
         for i in range(n):
@@ -18,7 +17,6 @@ class Solution:
 
         for i in range(len(meetings)):
 
-        
             startTime = meetings[i][0]
             endTime = meetings[i][1]
 
@@ -52,8 +50,6 @@ class Solution:
             if val > maxValue:
                 maxValue = val
                 maxRoomNumber = key
-
-        print(hashMap)
 
         return maxRoomNumber
                     
