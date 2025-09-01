@@ -1,6 +1,6 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-
+        
         if x == 1:
             return 1
 
@@ -20,7 +20,6 @@ class Solution:
             elif val > x: 
                 right = middle - 1
             
-
         return answer
 
         
