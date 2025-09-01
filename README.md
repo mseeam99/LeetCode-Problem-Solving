@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
