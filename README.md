@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
