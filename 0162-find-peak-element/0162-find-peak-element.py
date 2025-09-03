@@ -8,7 +8,7 @@ class Solution:
             middle = left + (right - left) // 2
             if (middle == 0 or nums[middle] > nums[middle-1]) and (middle == len(nums)-1 or nums[middle] > nums[middle+1]):
                 return middle
-            elif middle < len(nums)-1 and nums[middle] < nums[middle+1]:
+            elif nums[middle] < nums[middle+1]:
                 left = middle + 1
             else:
                 right = middle - 1
