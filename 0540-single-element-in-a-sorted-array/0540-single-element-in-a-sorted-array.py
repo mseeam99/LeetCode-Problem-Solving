@@ -8,7 +8,6 @@ class Solution:
         if nums[-1] != nums[-2]:
             return nums[-1]
 
-
         left = 1
         right = len(nums) - 2
         middle = 0
@@ -28,7 +27,6 @@ class Solution:
                 #pattern bad
                 right = middle - 1
           
-        
         return nums[left]
 
 
