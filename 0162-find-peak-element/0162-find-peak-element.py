@@ -6,18 +6,13 @@ class Solution:
         middle = 0
 
         while left < right:
-
-            middle = (left + right) // 2
-
-           # middle = left + (right - ) // 2
-
-           
-
-            if nums[middle] > nums[middle+1]:
+            middle = left + (right - left) // 2
+            if nums[middle] > nums[middle-1] and nums[middle] > nums[middle+1]:
+                return middle
+            if nums[middle] >= nums[middle+1]:
                 right = middle 
             else:
                 left = middle + 1
 
-        
         return left
         
