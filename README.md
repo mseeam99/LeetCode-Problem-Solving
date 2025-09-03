@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
