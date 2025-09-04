@@ -1,6 +1,5 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-
         def binarySearch(potions,spellElement,success):
             left = 0
             right = len(potions)-1
@@ -12,14 +11,10 @@ class Solution:
                 elif multipliedValue < success:
                     left = middle + 1
             return len(potions) - left
-
-
         potions.sort()
         answer = []
-
         for i in range(len(spells)):
             answer.append(binarySearch(potions,spells[i],success))
-        
         return answer
 
 
