@@ -10,7 +10,6 @@ class Solution:
                     totalHourUsed += ceil(array[i]/bananaEatingRate)
             return totalHourUsed
 
-        
         left = 1
         right = max(piles)
         while left <= right:
@@ -20,13 +19,4 @@ class Solution:
                 right = middleValue - 1
             else:
                 left = middleValue + 1
-        return left
-
-       
-
-
-
-
-            
-
-        
+        return left        
