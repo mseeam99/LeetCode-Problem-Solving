@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
 | [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
