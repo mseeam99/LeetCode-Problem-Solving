@@ -6,10 +6,10 @@ class Solution:
         if total < k:
             return 0
 
-        def can_give(x):
+        def can_give(mid):
             given = 0
             for pile in candies:
-                given += pile // x
+                given += pile // mid
                 if given >= k:
                     return True
             return False
