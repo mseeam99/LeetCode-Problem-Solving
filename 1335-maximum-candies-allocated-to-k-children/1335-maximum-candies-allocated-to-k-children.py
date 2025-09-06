@@ -7,12 +7,13 @@ class Solution:
             return 0
 
         def can_give(x: int) -> bool:
-            need = k
+            given = 0
             for pile in candies:
-                need -= pile // x
-                if need <= 0:
+                given += pile // x
+                if given >= k:
                     return True
             return False
+
 
         left, right = 1, total // k
         ans = 0
