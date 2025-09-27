@@ -8,19 +8,19 @@ class Solution:
             count += r - l
         return count
 
-    def bisect_left_manual(self, a, x, lo, hi):
+    def bisect_left_manual(self, nums, lowerBound, lo, hi):
         while lo < hi:
-            mid = (lo + hi) // 2
-            if a[mid] < x:
+            mid = lo + (hi-lo) // 2
+            if nums[mid] < lowerBound:
                 lo = mid + 1
             else:
                 hi = mid
         return lo
     
-    def bisect_right_manual(self, a, x, lo, hi):
+    def bisect_right_manual(self, nums, upperBound, lo, hi):
         while lo < hi:
-            mid = (lo + hi) // 2
-            if a[mid] <= x:
+            mid = lo + (hi-lo) // 2
+            if nums[mid] <= upperBound:
                 lo = mid + 1
             else:
                 hi = mid
