@@ -1,9 +1,7 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
-
         leftTime = 1
         rightTime = max(ranks)*cars*cars
-
         while leftTime < rightTime:
             middleTime = leftTime + (rightTime-leftTime) // 2
             totalCarFixed = 0
