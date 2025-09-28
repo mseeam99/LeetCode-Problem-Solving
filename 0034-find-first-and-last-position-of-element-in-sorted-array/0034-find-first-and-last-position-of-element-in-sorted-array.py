@@ -28,8 +28,6 @@ class Solution:
 
         leftIndex = bisectLeft(nums,target)
         rightIndex = bisectRight(nums,target) - 1
-        print(leftIndex)
-        print(rightIndex)
         found = False
         for i in range(leftIndex,rightIndex+1):
             if nums[i] == target:
