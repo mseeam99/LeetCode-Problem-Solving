@@ -1,27 +1,22 @@
+import math
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
 
-        def checkIfPossible(maxproducts):
+        def storeNeeded(x):
             nonlocal quantities, n
-            j = 0
-            currentProducts = quantities[j]
-            for i in range(n):
-                if currentProducts <= maxproducts:
-                    currentProducts = 0 
-                    j+=1
-                    if j < len(quantities):
-                        currentProducts = quantities[j]
-                    if currentProducts == 0 and i <= n:
-                        return True
-                else:
-                    currentProducts -= maxproducts
-            return False
+            storeNeeded = 0
+            for i in range(len(quantities)):
+                storeNeeded += math.ceil(quantities[i] / x)
+            if storeNeeded <= n:
+                return True
+            else:
+                return False
                 
-        left = 0
+        left = 1
         right = max(quantities)
         while left <= right:
             middle = left + (right-left) // 2
-            if checkIfPossible(middle) == True:
+            if storeNeeded(middle) == True:
                 right = middle - 1
             else:
                 left = middle + 1
