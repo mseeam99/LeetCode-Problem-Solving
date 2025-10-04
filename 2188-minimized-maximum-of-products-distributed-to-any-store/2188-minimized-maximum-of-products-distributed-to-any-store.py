@@ -7,38 +7,22 @@ class Solution:
             currentProducts = quantities[j]
             for i in range(n):
                 if currentProducts <= maxproducts:
-                    currentProducts = 0 # after giving rest we have 0
+                    currentProducts = 0 
                     j+=1
                     if j < len(quantities):
                         currentProducts = quantities[j]
-
                     if currentProducts == 0 and i <= n:
                         return True
-                  
                 else:
                     currentProducts -= maxproducts
-
             return False
                 
-
-
         left = 0
         right = max(quantities)
-        while left < right:
+        while left <= right:
             middle = left + (right-left) // 2
             if checkIfPossible(middle) == True:
-                right = middle
+                right = middle - 1
             else:
                 left = middle + 1
-        return left
-            
-
-        
-
-
-
-
-
-
-
-        
+        return left        
