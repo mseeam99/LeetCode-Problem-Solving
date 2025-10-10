@@ -29,4 +29,5 @@ class Solution:
                     left = right + single
                     curr.clear()
                     window = 0
+
         return res
