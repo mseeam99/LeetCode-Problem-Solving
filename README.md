@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1454-remove-palindromic-subsequences) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2012-process-tasks-using-servers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
