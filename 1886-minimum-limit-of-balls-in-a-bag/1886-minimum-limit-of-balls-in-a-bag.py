@@ -4,7 +4,8 @@ class Solution:
         def tryIfItIsValid(middleIndex):
             ops = 0
             for i in range(len(nums)):                
-                ops += ceil(nums[i]-1) // middleIndex
+                pieces = ceil(nums[i] / middleIndex)
+                ops += pieces - 1
                 if ops > maxOperations:
                     return False
             return True
