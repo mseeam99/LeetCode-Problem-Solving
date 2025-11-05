@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2012-process-tasks-using-servers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
