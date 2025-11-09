@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
