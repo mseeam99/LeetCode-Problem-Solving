@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
