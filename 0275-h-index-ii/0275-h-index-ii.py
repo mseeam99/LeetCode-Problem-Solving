@@ -5,6 +5,8 @@ class Solution:
             for i in range(len(citations)):
                 if citations[i] >= idx:
                     count+=1
+                if count >= idx:
+                    break
             return True if count>=idx else False
         left = 0
         right = max(citations)
