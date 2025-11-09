@@ -7,9 +7,10 @@ class Solution:
 
             if nums[left] < nums[right]:
                 result = min(result,nums[left])
-                break
+                return result
 
             middle = left + (right-left) // 2
+            
             result = min(result,nums[middle])
 
             if nums[middle] >= nums[left]:
