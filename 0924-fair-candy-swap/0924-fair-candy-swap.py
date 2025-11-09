@@ -25,6 +25,3 @@ class Solution:
             if binarySearch(need) == True:
                 return [aliceSizes[i],need]
         
-
-        
-        
