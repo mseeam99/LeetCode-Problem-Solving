@@ -10,7 +10,6 @@ class Solution:
                 left = h - radius
                 right = h + radius
                 intervals.append((left, right))
-          #  intervals.sort()
             i = 0  
             j = 0 
             while j < len(houses) and i < len(intervals):
