@@ -1,6 +1,5 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-
         mySet = set()
         for i in range(len(arr)):
             mySet.add(arr[i])
