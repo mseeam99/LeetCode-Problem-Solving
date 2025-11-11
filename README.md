@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1646-kth-missing-positive-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
