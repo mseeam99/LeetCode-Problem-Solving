@@ -5,35 +5,22 @@ class Solution:
         heaters.sort()
 
         def linearIter(radius):
-            # Build intervals efficiently
             intervals = []
             for h in heaters:
                 left = h - radius
                 right = h + radius
                 intervals.append((left, right))
-            
-            # Sort intervals by left bound
-            intervals.sort()
-
-            # Two-pointer sweep to check houses
-            i = 0  # pointer for intervals
-            j = 0  # pointer for houses
-
+          #  intervals.sort()
+            i = 0  
+            j = 0 
             while j < len(houses) and i < len(intervals):
                 left, right = intervals[i]
-
-                # If the house is smaller than interval start → move to next interval?
                 if houses[j] < left:
-                    return False  # this house can't be covered
-
-                # If house fits inside interval → move to next house
+                    return False  
                 if left <= houses[j] <= right:
                     j += 1
                 else:
-                    # house > right → move to next interval
                     i += 1
-
-            # After loop, if any houses remain → not covered
             return j == len(houses)
 
         left = 0
