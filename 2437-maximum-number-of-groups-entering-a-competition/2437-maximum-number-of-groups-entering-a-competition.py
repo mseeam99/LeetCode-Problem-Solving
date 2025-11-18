@@ -2,8 +2,10 @@ class Solution:
     def maximumGroups(self, grades: List[int]) -> int:
         if len(grades) == 1:
             return 1
-            
+
         grades.sort()
+        print(grades) 
+        
         def linearIterCheck(group):
             if (group * (group + 1) / 2) <= len(grades):
                 return True
