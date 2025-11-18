@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
