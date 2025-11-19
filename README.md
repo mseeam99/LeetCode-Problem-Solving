@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
+| [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
