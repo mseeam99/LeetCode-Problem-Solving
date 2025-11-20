@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
