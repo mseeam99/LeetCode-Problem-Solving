@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0463-island-perimeter) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
