@@ -2,7 +2,6 @@ class Solution:
     def captureForts(self, forts: List[int]) -> int:
 
         pointerOne = 0
-
         maxDifference = 0
 
         for i in range(len(forts)):
