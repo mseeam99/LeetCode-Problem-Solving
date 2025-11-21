@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
