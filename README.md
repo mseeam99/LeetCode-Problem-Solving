@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1254-deepest-leaves-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
