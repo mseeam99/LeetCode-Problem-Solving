@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2235-add-two-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Design
