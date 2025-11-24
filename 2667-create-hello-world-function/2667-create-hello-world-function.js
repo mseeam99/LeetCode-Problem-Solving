@@ -2,9 +2,6 @@
  * @return {Function}
  */
 var createHelloWorld = function() {
-
-
-    
     return function(...args) {
 
         string = "Hello World"
