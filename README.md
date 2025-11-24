@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Geometry
 |  |
