@@ -25,7 +25,6 @@ class Solution:
                     stack.append(c)
             else:
                 stack.append(char)
-        
         temp = ""
         while stack:
             temp += stack.pop()
