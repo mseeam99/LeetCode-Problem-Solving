@@ -6,7 +6,7 @@ class Solution:
         for i in range(len(w)):
             self.total += w[i]
             self.weightCumilative[i] = self.total
-        print(self.weightCumilative[i])
+        print(self.weightCumilative)
         return None
     
     def binarySearch(self,val):
