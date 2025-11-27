@@ -14,7 +14,6 @@ class Codec:
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
         """
-        print(s)
         answer = []
         pointerOne = 0
         tempString = ""
@@ -35,11 +34,7 @@ class Codec:
             answer.append(tempString)
             tempString = ""
         return answer
-
-
         
-
-
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
 # codec.decode(codec.encode(strs))
