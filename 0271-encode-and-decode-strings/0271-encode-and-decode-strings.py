@@ -22,19 +22,18 @@ class Codec:
             intLenthToIncrease = ""
             for i in range(pointerOne,len(s)):
                 if s[i] == "#":
+                    pointerOne+=1
                     break
                 else:
                     intLenthToIncrease += s[i]
                     pointerOne+=1
             intLenthToIncrease = int(intLenthToIncrease)
             nextLoopUntil = pointerOne + intLenthToIncrease
-            while pointerOne <= nextLoopUntil:
+            while pointerOne < nextLoopUntil:
                 tempString += s[pointerOne]
                 pointerOne+=1
             answer.append(tempString)
             tempString = ""
-        for i in range(len(answer)):
-            answer[i] = answer[i][1:]
         return answer
 
 
