@@ -1,11 +1,8 @@
 class Solution:
     def countAndSay(self, n: int) -> str:
-
         if n == 1:
             return "1"
-    
-        answer = "11" # after processing 2
-
+        answer = "11"
         def takeAndReturn():
             nonlocal answer
             tempAnswer = ""
@@ -25,10 +22,7 @@ class Solution:
                     pointerOne = pointerTwo
                     tempAnswer+=str(count)
                     tempAnswer+=str(answer[pointerTwo-1])
-                
-
             answer = tempAnswer
-            
         for i in range(3,n+1):
             takeAndReturn()
         return answer
