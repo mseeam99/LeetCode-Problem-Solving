@@ -13,7 +13,7 @@ class Solution:
             i-=1
             j-=1
         if carry:
-            result = "1" + result
+            result = str(carry) + result
         return result
 
 
