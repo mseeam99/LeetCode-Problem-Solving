@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0136-single-number) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
