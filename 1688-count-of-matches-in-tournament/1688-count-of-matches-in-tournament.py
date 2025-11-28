@@ -4,8 +4,8 @@ class Solution:
         proceed = 0
         while n != 0:
             if n%2 != 0 :
-                proceed += (ceil(n - 1) / 2)+1
-                n = floor(n - 1) / 2
+                proceed += (ceil(n-1)/2)+1
+                n = ceil(n-1)/2
             elif n%2 == 0:
                 proceed += n // 2
                 n = n // 2
