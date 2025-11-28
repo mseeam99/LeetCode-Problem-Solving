@@ -9,8 +9,6 @@ class Solution:
                 for col in range(len(grid[row])):
                     if row == len(grid)-1 and col == len(grid[0])-1:
                         grid[0][0] = lastVal
-                    if row == len(grid)-1 and col == len(grid[0])-1:
-                        break
                     if col == len(grid[0])-1:    
                         if row+1 <= len(grid)-1:
                             nextElementTrack = grid[row+1][0]
