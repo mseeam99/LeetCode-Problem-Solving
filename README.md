@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
