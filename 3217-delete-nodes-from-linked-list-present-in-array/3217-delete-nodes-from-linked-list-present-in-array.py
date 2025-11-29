@@ -7,14 +7,23 @@ class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
         mySet = set(nums)
         pointerOne = head
-        myNewlist = ListNode()
-        headTrack = myNewlist
+        currentPointer = head
+        newHead = None
+
         while pointerOne != None:
-            if pointerOne and pointerOne.val in mySet:
+            while pointerOne and pointerOne.val in mySet:
                 pointerOne = pointerOne.next
-            else:
-                newNode = ListNode(pointerOne.val)
-                myNewlist.next = newNode
-                myNewlist = myNewlist.next
+            if pointerOne:
+                if newHead == None:
+                    newHead = pointerOne
+                    currentPointer = pointerOne
+                else:
+                    currentPointer.next = pointerOne
+                    currentPointer = currentPointer.next
                 pointerOne = pointerOne.next
-        return headTrack.next
+
+            
+        if currentPointer:
+            currentPointer.next = None
+        return newHead
+            
