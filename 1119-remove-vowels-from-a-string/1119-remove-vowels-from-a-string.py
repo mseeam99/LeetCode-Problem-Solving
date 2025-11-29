@@ -1,6 +1,5 @@
 class Solution:
     def removeVowels(self, s: str) -> str:
-
         mySet = set()
         mySet.add("a")
         mySet.add("e")
