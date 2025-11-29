@@ -18,5 +18,3 @@ class Solution:
                 myNewlist = myNewlist.next
                 pointerOne = pointerOne.next
         return headTrack.next
-
-
