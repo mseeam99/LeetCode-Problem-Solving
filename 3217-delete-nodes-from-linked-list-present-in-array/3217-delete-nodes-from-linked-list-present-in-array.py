@@ -9,7 +9,6 @@ class Solution:
         pointerOne = head
         currentPointer = head
         newHead = None
-
         while pointerOne != None:
             while pointerOne and pointerOne.val in mySet:
                 pointerOne = pointerOne.next
@@ -21,8 +20,7 @@ class Solution:
                     currentPointer.next = pointerOne
                     currentPointer = currentPointer.next
                 pointerOne = pointerOne.next
-
-            
+                
         if currentPointer:
             currentPointer.next = None
         return newHead
