@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1337-design-skiplist) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
