@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0252-meeting-rooms](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
