@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
 | [0252-meeting-rooms](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
