@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Geometry
