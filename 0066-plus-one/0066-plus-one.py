@@ -29,7 +29,6 @@ class Solution:
             for i in range(len(string)):
                 answer.append(int(string[i]))
 
-
         return answer[::-1]
 
 
