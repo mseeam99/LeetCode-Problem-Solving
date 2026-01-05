@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0343-integer-break) |
@@ -1218,4 +1220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
