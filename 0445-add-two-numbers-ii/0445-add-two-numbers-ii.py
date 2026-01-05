@@ -36,8 +36,6 @@ class Solution:
         if current != 0:
             answerArray.append(current)
         answerArray = answerArray[::-1]
-
-        
         newList = ListNode()
         answer = newList
         for i in range(len(answerArray)):
@@ -45,10 +43,6 @@ class Solution:
             if i != len(answerArray)-1:
                 newList.next = ListNode()
                 newList = newList.next
-       
-            
-
-
         return answer
 
         
