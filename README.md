@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
 | [0989-add-to-array-form-of-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
