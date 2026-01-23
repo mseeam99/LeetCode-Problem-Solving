@@ -21,10 +21,7 @@ class Solution:
                 if count == n+1: 
                     return currentValue
        
-            if count > n:
-                break
-            
-
+           
        
             
             
