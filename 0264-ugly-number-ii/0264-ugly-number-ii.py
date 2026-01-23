@@ -17,17 +17,15 @@ class Solution:
                 if val not in mySet:
                     heapq.heappush(myHeap,val)
                     mySet.add(val)
+                    
+                if count == n+1: 
+                    return currentValue
        
             if count > n:
                 break
             
 
-        myList = list(mySet)
-        print(myList)
-        myList.sort()
-        return myList[n-1]
-            
-                
+       
             
             
         
