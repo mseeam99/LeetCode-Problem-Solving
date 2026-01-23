@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0355-design-twitter) |
+| [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
