@@ -13,5 +13,7 @@ class Solution:
                 if val not in mySet:
                     heapq.heappush(myHeap,val)
                     mySet.add(val)   
-                if count == n+1: 
+                if count == n+1:
                     return currentValue
+
+        
