@@ -1,14 +1,10 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        
         mySet = set()
         mySet.add(1)
-        
         myHeap = [1]
         heapq.heapify(myHeap)
-
         count = 1
-
         while heapq:
             currentValue = heapq.heappop(myHeap)
             count += 1
@@ -16,22 +12,6 @@ class Solution:
                 val = currentValue * item
                 if val not in mySet:
                     heapq.heappush(myHeap,val)
-                    mySet.add(val)
-                    
+                    mySet.add(val)   
                 if count == n+1: 
                     return currentValue
-       
-           
-       
-            
-            
-        
-
-    
-
-
-        
-            
-
-
-        
