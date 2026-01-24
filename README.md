@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0066-plus-one) |
