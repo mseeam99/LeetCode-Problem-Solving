@@ -12,7 +12,6 @@ class Solution:
             veryLeftValue = dp[i-2]
             current = (lastValue + veryLeftValue) % modVal
             dp[i] = current
-            print("AT: ", i , "WAYS ", current)
         total = (dp[-1] * dp[-1]) % modVal
 
         return total
