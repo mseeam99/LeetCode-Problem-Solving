@@ -4,13 +4,10 @@ class Solution:
         dp = [float('inf')] * (n + 1)
         dp[0] = 0
 
-        for i in range(0, n):              
-            for k in (1, 2, 3):            
-                j = i + k                 
-                if j <= n:
-                    dp[j] = min(dp[j], dp[i] + (costs[j - 1] + k * k))
+        for i in range(0, n):
+            for k in (1, 2, 3):
+                
+                if i+k <= n:
+                    dp[i+k] = min(dp[i+k], dp[i] + (costs[i + k   - 1] + k * k))
 
         return dp[n]
-
-
-        
