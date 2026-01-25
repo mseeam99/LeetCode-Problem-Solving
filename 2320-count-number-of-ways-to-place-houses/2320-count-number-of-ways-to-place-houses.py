@@ -10,7 +10,9 @@ class Solution:
         for i in range(2,n+1):    
             lastValue = dp[i-1]
             veryLeftValue = dp[i-2]
-            dp[i] = (lastValue + veryLeftValue) % modVal
+            current = (lastValue + veryLeftValue) % modVal
+            dp[i] = current
+            print("AT: ", i , "WAYS ", current)
         total = (dp[-1] * dp[-1]) % modVal
 
         return total
