@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3693-climbing-stairs-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3693-climbing-stairs-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
