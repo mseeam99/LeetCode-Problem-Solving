@@ -1,24 +1,22 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-
-        leftPointer  = 0
-        rightPointer = leftPointer + 1
-
+        
+        previousLowestValue = prices[0]
+        maxProfitTotal = 0
         profit = 0
 
-        while rightPointer < len(prices):
-            if prices[rightPointer] > prices[leftPointer]:
-                tempDifference = prices[rightPointer] - prices[leftPointer]
-                profit += tempDifference
-                leftPointer += 1
-                rightPointer = leftPointer + 1 
-            elif prices[rightPointer] <= prices[leftPointer]:
-                leftPointer += 1
-                rightPointer = leftPointer + 1 
+        for i in range(1,len(prices)):
+
+            currentDayValue = prices[i]
+            profit = currentDayValue-previousLowestValue
+            if profit > 0:
+                maxProfitTotal += profit
+                previousLowestValue = prices[i]
+                continue
             
-        return profit
+            previousLowestValue = min(previousLowestValue,prices[i])
+
+        return maxProfitTotal
 
 
-
-        
         
