@@ -1,8 +1,6 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
         
-
-        
         mySet = set()
         for i in range(len(nums)):
             mySet.add(nums[i] * - 1)
