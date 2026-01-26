@@ -9,7 +9,7 @@ class Solution:
             for j in [1,2,3]:
 
                 if i+j <= n:
-                    dp[i + j] = min(dp[i+j], (dp[i] + costs[ i + j - 1] + (j**2)))
+                    dp[i + j] = min(dp[i+j], (dp[i] + costs[ i + j - 1] + ((i+j-i)**2)))
 
         return dp[-1]
 
