@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0436-find-right-interval) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
