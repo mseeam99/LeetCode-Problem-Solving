@@ -1,12 +1,20 @@
 class Solution:
     def climbStairs(self, n: int, costs: List[int]) -> int:
 
-        dp = [float('inf')] * (n + 1)
+        dp = [float('inf')] * (n+1)
         dp[0] = 0
 
-        for i in range(0, n):
-            for k in [1, 2, 3]:
-                if i + k <= n:
-                    dp[i + k] = min(dp[i + k], dp[i] + (costs[i + k - 1] + (i+k-i) * (i+k-i)))
+        for i in range(n+1):
 
-        return dp[n]
+            for j in [1,2,3]:
+
+                if i+j <= n:
+                    dp[i + j] = min(dp[i+j], (dp[i] + costs[ i + j - 1] + (j**2)))
+
+        return dp[-1]
+
+
+
+
+
+       
