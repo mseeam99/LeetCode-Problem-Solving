@@ -5,11 +5,11 @@ class Solution:
 
         def recursion(index, ifBuyingPossible, capacity):
 
-            if (index,ifBuyingPossible,capacity) in memo:
-                return memo[(index,ifBuyingPossible,capacity)]
-
             if (index >= len(prices)) or (capacity <= 0):
                 return 0
+
+            if (index,ifBuyingPossible,capacity) in memo:
+                return memo[(index,ifBuyingPossible,capacity)]
 
             if ifBuyingPossible == True:
                 x = -prices[index] + recursion(index+1,False,capacity)
