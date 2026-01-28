@@ -12,16 +12,16 @@ class Solution:
                 return memo[(index,ifBuyingPossible,capacity)]
 
             if ifBuyingPossible == True:
-                x = -prices[index] + recursion(index+1,False,capacity)
-                y = 0 + recursion(index+1,True,capacity)
-                result = max(x,y)
+                pick = -prices[index] + recursion(index+1,False,capacity)
+                notPick = 0 + recursion(index+1,True,capacity)
+                result = max(pick,notPick)
                 memo[(index,ifBuyingPossible,capacity)] = result
                 return result
 
             elif ifBuyingPossible == False:
-                x = prices[index] + recursion(index+1,True,capacity-1)
-                y = 0 + recursion(index+1,False,capacity)
-                result = max(x,y)
+                pick = prices[index] + recursion(index+1,True,capacity-1)
+                notPick = 0 + recursion(index+1,False,capacity)
+                result = max(pick,notPick)
                 memo[(index,ifBuyingPossible,capacity)] = result
                 return result
 
