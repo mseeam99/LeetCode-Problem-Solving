@@ -25,7 +25,6 @@ class Solution:
                 memo[(index,ifBuyingPossible,capacity)] = result
                 return result
 
-
         return recursion(0,True,2)
         
 
