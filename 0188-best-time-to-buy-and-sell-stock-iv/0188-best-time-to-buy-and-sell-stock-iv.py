@@ -23,5 +23,4 @@ class Solution:
                 memo[(index,canBuy,allowed)] = profit
                 return profit
             
-
         return recursion(0,True,k)
