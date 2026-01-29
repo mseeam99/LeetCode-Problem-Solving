@@ -1,22 +1,25 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
+        INF = 10**9
+        memo = {}
 
-        coins.sort()
-        outerdp = [float("inf")] * (amount + 1)
-        outerdp[0] = 0 
+        def dfs(i, rem):
+            if rem == 0:
+                return 0
+            if i == len(coins) or rem < 0:
+                return INF
 
-        for i in range(amount + 1):
-            if i % coins[0] == 0:
-                outerdp[i] = i // coins[0]
+            if (i, rem) in memo:
+                return memo[(i, rem)]
 
-        for row in range(1, len(coins)):
-            innerdp = outerdp.copy()
-            for col in range(amount + 1):
-                notTake = outerdp[col]
-                take = float("inf")
-                if coins[row] <= col:
-                    take = 1 + innerdp[col - coins[row]]
-                innerdp[col] = min(take, notTake)
-            outerdp = innerdp
+            # pick coin i (unlimited -> stay on i)
+            pick = 1 + dfs(i, rem - coins[i])
 
-        return -1 if outerdp[amount] == float("inf") else int(outerdp[amount])
+            # skip coin i
+            skip = dfs(i + 1, rem)
+
+            memo[(i, rem)] = min(pick, skip)
+            return memo[(i, rem)]
+
+        ans = dfs(0, amount)
+        return -1 if ans >= INF else ans
