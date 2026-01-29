@@ -3,20 +3,31 @@ class Solution:
 
         memo = {}
 
-        def recursion(index, current):
-            if index == len(nums):
-                if current == target:
+        def recursion(index,currentSum):
+
+            if index >= len(nums):
+                if currentSum == target:
                     return 1 
                 else:
                     return 0
+                
+            if (index,currentSum) in memo:
+                return memo[index,currentSum]
+            
+            add = recursion(index + 1, currentSum + nums[index])
+            subtract = recursion(index + 1, currentSum - nums[index])
 
-            if (index, current) in memo:
-                return memo[(index, current)]
+            memo[index,currentSum] = add + subtract
 
-            add = recursion(index + 1, current + nums[index])
-            subtract = recursion(index + 1, current - nums[index])
+            return add + subtract
 
-            memo[(index, current)] = add + subtract
-            return memo[(index, current)]
 
-        return recursion(0, 0)
+        return recursion(0,0)
+        
+
+
+
+        
+
+
+        
