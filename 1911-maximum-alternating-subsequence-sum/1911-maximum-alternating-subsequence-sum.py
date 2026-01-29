@@ -1,8 +1,6 @@
 class Solution:
     def maxAlternatingSum(self, nums: List[int]) -> int:
 
-        maxValue = float('-inf')
-
         memo = {}
 
         def recursion(index,positive):
@@ -23,13 +21,6 @@ class Solution:
             memo[(index,positive)] = max(pick,notPick)
             return max(pick,notPick)
 
-            
-             
-              
-            
-           
-
-           
         return recursion(0,True)
 
        
