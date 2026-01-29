@@ -1,22 +1,32 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        def subsetFunction(arr,sum):
-            previousDp = [False] * (sum+1)
-            previousDp[0] = True
-            for row in range(len(arr)):
-                currentDp = [False] * (sum+1)
-                currentDp[0] = True
-                for col in range(1,sum+1):
-                    notTake = previousDp[col]
-                    take = False
-                    if arr[row] <= col:
-                        take = previousDp[col-arr[row]]
-                    currentDp[col] = take or notTake
-                previousDp = currentDp
-            return previousDp[sum]
-        if sum(nums) % 2 != 0:
+        total = sum(nums)
+        if total % 2 != 0:
             return False
-        target = sum(nums) // 2
-        return subsetFunction(nums,target)
 
+        target = total // 2
+        n = len(nums)
 
+        # 0 = uncomputed, 1 = False, 2 = True (saves a TON of memory vs dict)
+        memo = [bytearray(target + 1) for _ in range(n + 1)]
+
+        def recursion(index, value):
+            if value == target:
+                return True
+            if index == n or value > target:
+                return False
+
+            cached = memo[index][value]
+            if cached != 0:
+                return cached == 2
+
+            pick = recursion(index + 1, value + nums[index])
+            if pick:
+                memo[index][value] = 2
+                return True
+
+            notPick = recursion(index + 1, value)
+            memo[index][value] = 2 if notPick else 1
+            return notPick
+
+        return recursion(0, 0)
