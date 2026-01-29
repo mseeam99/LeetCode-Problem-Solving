@@ -7,7 +7,6 @@ class Solution:
         target = total // 2
         n = len(nums)
 
-        # 0 = uncomputed, 1 = False, 2 = True (saves a TON of memory vs dict)
         memo = [bytearray(target + 1) for _ in range(n + 1)]
 
         def recursion(index, value):
