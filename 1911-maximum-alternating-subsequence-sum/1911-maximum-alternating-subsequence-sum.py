@@ -11,12 +11,14 @@ class Solution:
             if (index,positive) in memo:
                 return memo[(index,positive)]
 
-            notPick = recursion(index + 1, positive)
+
         
             if positive == True:
                 pick = +nums[index] + recursion(index+1,False)
             elif positive == False:
                 pick = -nums[index] + recursion(index+1,True)
+
+            notPick = recursion(index + 1, positive)
 
             memo[(index,positive)] = max(pick,notPick)
             return max(pick,notPick)
