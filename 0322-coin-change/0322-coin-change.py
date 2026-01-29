@@ -1,24 +1,30 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        INF = 10**9
+
         memo = {}
 
-        def dfs(i, rem):
+        def recursion(index,totalSum):
 
-            if rem == amount:
+            if (index >= len(coins)) or (totalSum > amount):
+                return float("+inf")
+            
+            if totalSum == amount:
                 return 0
-                
-            if rem > amount or i == len(coins):
-                return INF
+            
+            if (index,totalSum) in memo:
+                return memo[(index,totalSum)]
 
-            if (i, rem) in memo:
-                return memo[(i, rem)]
+            pick = 1 + recursion(index,totalSum+coins[index])
+            notPick = 0 + recursion(index+1,totalSum)
 
-            pick = 1 + dfs(i, rem + coins[i])
-            skip = dfs(i + 1, rem)
+            bestDeal = min(pick,notPick)
+            memo[(index,totalSum)] = bestDeal
+            return bestDeal
+        
+        answer = recursion(0,0)
+        return -1 if answer >= float(+inf) else answer
 
-            memo[(i, rem)] = min(pick, skip)
-            return memo[(i, rem)]
+            
 
-        ans = dfs(0, 0)
-        return -1 if ans >= INF else ans
+
+        
