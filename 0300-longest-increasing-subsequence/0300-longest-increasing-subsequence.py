@@ -1,10 +1,10 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
+        
         n = len(nums)
         if n == 0:
             return 0
 
-        # dp[i][prev+1] where prev in [-1..n-1]
         dp = [[-1] * (n + 1) for _ in range(n)]
 
         def recursion(i, prev):
