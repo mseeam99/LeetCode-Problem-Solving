@@ -16,20 +16,20 @@ class Solution:
                 return memo[(index,zeroPicked)]
             
             pick, notPick = 0,0
+
             if index == 0:
                 zeroPicked = True
             if index == len(nums) - 1 and zeroPicked == True:
-                notPick     = 0 + recursion(index+1,zeroPicked)
+                notPick = 0 + recursion(index+1,zeroPicked)
             else:
-                pick        = nums[index] + recursion(index+2,zeroPicked)
+                pick = nums[index] + recursion(index+2,zeroPicked)
             
             if index == 0:
                 zeroPicked = False
             if index == len(nums) - 1 and zeroPicked == False:
-                pick        = nums[index] + recursion(index+2,zeroPicked)
+                pick = nums[index] + recursion(index+2,zeroPicked)
             else:
-                notPick     = 0 + recursion(index+1,zeroPicked)
-
+                notPick = 0 + recursion(index+1,zeroPicked)
 
             maxRobbery  = max(pick,notPick)
             memo[(index,zeroPicked)] = maxRobbery
