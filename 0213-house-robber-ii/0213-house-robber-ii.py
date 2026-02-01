@@ -1,25 +1,40 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
-        if len(nums) == 1:
-            return nums[0]
-        if len(nums) == 2:
-            return max(nums)
+
+        memo = {}
         
-        n = len(nums)
-        profitArray1 = [0] * (n - 1)
-        profitArray1[0] = nums[0]
-        profitArray1[1] = max(nums[0], nums[1])
-        for i in range(2, n - 1):
-            profitArray1[i] = max(nums[i] + profitArray1[i - 2], profitArray1[i - 1])
-        option1 = profitArray1[-1]
+        def recursion(index,zeroPicked):
+            nonlocal nums, memo
+
+            if index > len(nums):
+                return 0
+            
+            if index == len(nums):
+                return 0
+
+            if (index,zeroPicked) in memo:
+                return memo[(index,zeroPicked)]
+            
+            pick, notPick = 0,0
+            if index == 0:
+                zeroPicked = True
+            if index == len(nums) - 1 and zeroPicked == True:
+                notPick     = 0 + recursion(index+1,zeroPicked)
+            else:
+                pick        = nums[index] + recursion(index+2,zeroPicked)
+            
+            if index == 0:
+                zeroPicked = False
+            if index == len(nums) - 1 and zeroPicked == False:
+                pick        = nums[index] + recursion(index+2,zeroPicked)
+            else:
+                notPick     = 0 + recursion(index+1,zeroPicked)
+
+
+            maxRobbery  = max(pick,notPick)
+            memo[(index,zeroPicked)] = maxRobbery
+            return maxRobbery
+
+        return recursion(0,False)
+            
         
-        profitArray2 = [0] * (n - 1)
-        profitArray2[0] = nums[1]
-        profitArray2[1] = max(nums[1], nums[2])
-        for i in range(2, n - 1):
-            profitArray2[i] = max(nums[i + 1] + profitArray2[i - 2], profitArray2[i - 1])
-        option2 = profitArray2[-1]
-        
-        return max(option1, option2)
