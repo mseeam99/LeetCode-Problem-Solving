@@ -1,11 +1,28 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
-        dp = [1] * (n+1)
-        dp[0] = 0
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3,len(dp)):
-            dp[i] = dp[i-1] + dp[i-2]
-        return dp[-1]
+
+        memo = {}
+
+        def recursion(index):
+            nonlocal memo
+
+            if index > n:
+                return 0
+            
+            if index == n:
+                return 1
+            
+            if index in memo:
+                return memo[index]
+
+            oneStep = recursion(index+1)
+            twoStep = recursion(index+2)
+
+            memo[index] = oneStep + twoStep
+
+            return oneStep + twoStep
+
+        return recursion(0)
+            
+
+        
