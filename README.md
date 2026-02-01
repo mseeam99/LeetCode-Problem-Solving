@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
