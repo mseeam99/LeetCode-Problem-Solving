@@ -1,20 +1,35 @@
 class Solution:
     def climbStairs(self, n: int, costs: List[int]) -> int:
 
-        dp = [float('inf')] * (n+1)
-        dp[0] = 0
+        memo = {}
 
-        for i in range(n+1):
+        def recursion(index, prevIndex):
+            if index > n:
+                return float("inf")
+            if index == n:
+                return 0
 
-            for j in [1,2,3]:
+            if (index, prevIndex) in memo:
+                return memo[(index, prevIndex)]
 
-                if i+j <= n:
-                    dp[i + j] = min(dp[i+j], (dp[i] + costs[ i + j - 1] + ((i+j-i)**2)))
+            answer = float("inf")
 
-        return dp[-1]
+            if index + 1 <= n:
+                j = index + 1
+                jumpOneScore = costs[j - 1] + (1 * 1) 
+                answer = min(answer, jumpOneScore + recursion(j, index))
 
+            if index + 2 <= n:
+                j = index + 2
+                jumpTwoScore = costs[j - 1] + (2 * 2)
+                answer = min(answer, jumpTwoScore + recursion(j, index))
 
+            if index + 3 <= n:
+                j = index + 3
+                jumpThreeScore = costs[j - 1] + (3 * 3)
+                answer = min(answer, jumpThreeScore + recursion(j, index))
 
+            memo[(index, prevIndex)] = answer
+            return answer
 
-
-       
+        return recursion(0, -1)
