@@ -2,24 +2,26 @@ class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         
         maxValue = float("-inf")
+        memo = {}
 
         def recursion(index, currentSum):
-            nonlocal maxValue
+            nonlocal maxValue, memo
             if index == len(nums):
                 return
-
-            # choice 1: extend subarray
+    
+            if (index, currentSum) in memo:
+                return memo[(index, currentSum)]
+            
             if currentSum < 0:
                 currentSum = 0
+
             currentSum = currentSum + nums[index]
             maxValue = max(maxValue, currentSum)
-
-            recursion(index + 1, currentSum)
+            
+            memo[(index, currentSum)]=recursion(index + 1, currentSum)
 
         recursion(0, 0)
         return maxValue
-
-
 
         '''
         currentSum = 0
