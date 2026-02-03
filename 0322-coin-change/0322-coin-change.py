@@ -3,7 +3,6 @@ class Solution:
 
         memo = {}
 
-
         def recursion(index,currentSum):
             nonlocal memo
             if index >= len(coins) or currentSum > amount:
@@ -22,17 +21,8 @@ class Solution:
             memo[(index,currentSum)] = minCoins
             return minCoins
 
-        
         ans = recursion(0,0)
         if ans == float("inf"):
             return -1
         else:
             return ans
-
-
-
-            
-
-
-
-        
