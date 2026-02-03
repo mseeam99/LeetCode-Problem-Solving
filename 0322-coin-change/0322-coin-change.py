@@ -3,28 +3,36 @@ class Solution:
 
         memo = {}
 
-        def recursion(index,totalSum):
 
-            if (index >= len(coins)) or (totalSum > amount):
-                return float("+inf")
+        def recursion(index,currentSum):
+            nonlocal memo
+            if index >= len(coins) or currentSum > amount:
+                return float("inf")
             
-            if totalSum == amount:
+            if currentSum == amount:
                 return 0
             
-            if (index,totalSum) in memo:
-                return memo[(index,totalSum)]
+            if (index,currentSum) in memo:
+                return memo[(index,currentSum)]
 
-            pick = 1 + recursion(index,totalSum+coins[index])
-            notPick = 0 + recursion(index+1,totalSum)
+            pick = 1 + recursion(index,currentSum+coins[index]) 
+            notPick = 0 + recursion(index+1,currentSum+0)
 
-            bestDeal = min(pick,notPick)
-            memo[(index,totalSum)] = bestDeal
-            return bestDeal
+            minCoins = min(pick,notPick)
+            memo[(index,currentSum)] = minCoins
+            return minCoins
+
         
-        answer = recursion(0,0)
-        return -1 if answer >= float(+inf) else answer
+        ans = recursion(0,0)
+        if ans == float("inf"):
+            return -1
+        else:
+            return ans
+
+
 
             
+
 
 
         
