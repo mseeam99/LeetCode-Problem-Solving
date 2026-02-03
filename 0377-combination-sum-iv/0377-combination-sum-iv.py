@@ -1,24 +1,30 @@
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
+
+        memo = {}
         
-        array = [-1] * (target+1)
-        
-        def recursion(n):
+        def recursion(currentSum):
 
-            if n > target:
-                return 0
-            if n == target:
-                return 1
-            if array[n] != -1:
-                return array[n]
-
-            res = 0
-
-            for num in nums:
-                res += recursion(n + num)
+            nonlocal memo
             
-            array[n] = res
-            return res
+            if currentSum > target:
+                return 0
 
+            if currentSum == target:
+                return 1
+
+            if currentSum in memo:
+                return memo[currentSum]
+
+            ways = 0
+            for i in range(len(nums)):
+                ways += recursion(currentSum + nums[i])
+
+            memo[currentSum] = ways
+
+            return ways
+        
         return recursion(0)
 
+        
+        
