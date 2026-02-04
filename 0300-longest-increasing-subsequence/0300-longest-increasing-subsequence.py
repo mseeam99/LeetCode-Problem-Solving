@@ -1,27 +1,25 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        
         n = len(nums)
-        if n == 0:
-            return 0
 
-        dp = [[-1] * (n + 1) for _ in range(n)]
+        dp = [[-1] * (n + 1) for _ in range(n + 1)]
 
-        def recursion(i, prev):
-            if i == n:
+        def recursion(index, prevIdx):
+            if index == n:
                 return 0
 
-            col = prev + 1
-            if dp[i][col] != -1:
-                return dp[i][col]
+            prevKey = prevIdx + 1  
 
-            notPick = recursion(i + 1, prev)
+            if dp[index][prevKey] != -1:
+                return dp[index][prevKey]
+
+            notPick = recursion(index + 1, prevIdx)
 
             pick = 0
-            if prev == -1 or nums[i] > nums[prev]:
-                pick = 1 + recursion(i + 1, i)
+            if prevIdx == -1 or nums[index] > nums[prevIdx]:
+                pick = 1 + recursion(index + 1, index)
 
-            dp[i][col] = max(pick, notPick)
-            return dp[i][col]
+            dp[index][prevKey] = max(pick, notPick)
+            return dp[index][prevKey]
 
         return recursion(0, -1)
