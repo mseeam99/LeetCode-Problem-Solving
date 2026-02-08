@@ -11,8 +11,6 @@ class Solution:
             if (index,positive) in memo:
                 return memo[(index,positive)]
 
-
-        
             if positive == True:
                 pick = +nums[index] + recursion(index+1,False)
             elif positive == False:
