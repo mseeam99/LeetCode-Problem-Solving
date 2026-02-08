@@ -1,27 +1,27 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        n = len(prices)
+
         memo = {}
-        NEG = -10**18
 
-        def dp(i: int, holding: int) -> int:
-            if i == n:
-                return 0 if holding == 0 else NEG
+        def recursion(index,holding):
+            if index >= len(prices):
+                return 0
 
-            key = (i, holding)
-            if key in memo:
-                return memo[key]
+            if (index,holding) in memo:
+                return memo[(index,holding)]
 
-            if holding == 0:
-                buy = -prices[i] + dp(i + 1, 1)   # pick: buy
-                skip = dp(i + 1, 0)               # not pick
-                memo[key] = max(buy, skip)
-            else:
-                sell = prices[i]                  # pick: sell (end transaction)
-                hold = dp(i + 1, 1)               # not pick
-                memo[key] = max(sell, hold)
+            if holding == False:
+                buy = -prices[index] + recursion(index+1,True)
+                skip = recursion(index+1,False)
+                memo[(index,holding)] = max(buy, skip)
+            elif holding == True:
+                sell = prices[index]
+                skip = recursion(index+1,True)
 
-            return memo[key]
+                memo[(index,holding)] = max(sell, skip)
 
-        ans = dp(0, 0)
-        return max(0, ans)
+            return memo[(index,holding)]
+
+        return recursion(0,False)
+            
+        
