@@ -1,8 +1,6 @@
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:
 
-      
-
         memo = {}
         
         def recursion(index,prevIndex,increasing):
@@ -13,10 +11,9 @@ class Solution:
             if (index,prevIndex,increasing) in memo:
                 return memo[(index,prevIndex,increasing)]
 
-            # option 1: not pick nums[index]
+           
             best = recursion(index + 1, prevIndex, increasing)
 
-            # option 2: pick nums[index]
             if prevIndex == -1:
                 best = max(best,1+recursion(index + 1, index, increasing))
             else:
