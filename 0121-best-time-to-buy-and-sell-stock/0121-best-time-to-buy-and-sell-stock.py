@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
@@ -16,11 +14,11 @@ class Solution:
 
             if holding == 0:
                 buy = -prices[i] + dp(i + 1, 1)   # pick: buy
-                skip = dp(i + 1, 0)              # not pick
+                skip = dp(i + 1, 0)               # not pick
                 memo[key] = max(buy, skip)
             else:
-                sell = prices[i]                 # pick: sell (end transaction)
-                hold = dp(i + 1, 1)              # not pick
+                sell = prices[i]                  # pick: sell (end transaction)
+                hold = dp(i + 1, 1)               # not pick
                 memo[key] = max(sell, hold)
 
             return memo[key]
