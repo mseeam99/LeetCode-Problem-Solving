@@ -1,39 +1,37 @@
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
 
-        rowLength = len(obstacleGrid)
-        colLength = len(obstacleGrid[0])
+        if obstacleGrid[len(obstacleGrid)-1][len(obstacleGrid[0])-1] == 1:
+            return 0
 
-        previousArrayDP = [0] * colLength
+        memo = {}
 
-        for row in range(rowLength):
+        def recursion(row,col):
 
-            currentArrayDP = [0] * colLength
+            if (row < 0 or col < 0 or row >= len(obstacleGrid) or col >= len(obstacleGrid[0])):
+                return 0
+            
+            if (row == len(obstacleGrid)-1) and (col == len(obstacleGrid[0])-1):
+                return 1
+            
+            if obstacleGrid[row][col] == 1:
+                return 0
+            
+            if (row,col) in memo:
+                return memo[(row,col)]
 
-            for col in range(colLength):
+            right = recursion(row,col+1)
+            down  = recursion(row+1,col)
 
-                if row >= 0 and col >= 0 and obstacleGrid[row][col] == 1:
-                    currentArrayDP[col] = 0
+            totalWays = right + down
 
-                elif row < 0 or col < 0:
-                    currentArrayDP[col] = 0
+            memo[(row,col)] = totalWays
 
-                elif row == 0 and col == 0:
-                    currentArrayDP[col] = 1
-
-                else:
-                    currentArrayDP[col] = previousArrayDP[col] + currentArrayDP[col-1]
-
-            print(currentArrayDP)
-
-            previousArrayDP = currentArrayDP
-
-        return previousArrayDP[-1]
-
+            return totalWays
 
 
+        return recursion(0,0)
 
-
-
-
-      
+            
+            
+        
