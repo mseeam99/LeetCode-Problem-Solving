@@ -7,4 +7,3 @@ class Solution:
             maxProfit = max(maxProfit,(currentDayValue-previousLowestValue))
             previousLowestValue = min(previousLowestValue,prices[i])
         return maxProfit
-
