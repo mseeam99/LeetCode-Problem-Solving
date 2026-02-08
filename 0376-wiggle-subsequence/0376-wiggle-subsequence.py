@@ -1,14 +1,7 @@
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:
 
-        if len(nums) == 1:
-            return 1
-
-        if len(nums) == 2:
-            if nums[0] == nums[1]:
-                return 1
-            else:
-                return len(nums)
+      
 
         memo = {}
         
