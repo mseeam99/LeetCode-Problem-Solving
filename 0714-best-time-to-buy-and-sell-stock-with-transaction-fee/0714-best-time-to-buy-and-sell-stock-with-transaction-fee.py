@@ -23,5 +23,4 @@ class Solution:
                 memo[(index,canBuy)] = maxProfit
                 return maxProfit
 
-
         return recursion(0,True)
