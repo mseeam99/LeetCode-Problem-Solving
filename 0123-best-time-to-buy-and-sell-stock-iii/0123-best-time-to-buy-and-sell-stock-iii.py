@@ -26,9 +26,3 @@ class Solution:
                 return result
 
         return recursion(0,True,2)
-        
-
-
-
-
-        
