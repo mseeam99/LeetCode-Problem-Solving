@@ -1,36 +1,35 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
 
-        outerArray = [0] * len(grid[0])     
+        memo = {}
 
-        for row in range(len(grid)-1,-1,-1):
+        def recursion(row,col):
+            nonlocal memo
 
-            currentRow = grid[row]
+            if row < 0 or col < 0 or row >= len(grid) or col >= len(grid[0]):
+                return float("inf")
 
-            for col in range(len(grid[0])-1,-1,-1):
-
-                if col == len(grid[0])-1 and row == len(grid)-1:
-                    continue
-                elif col == len(grid[0])-1:
-                    currentRow[col] += outerArray[col] 
-                    continue
-                elif row == len(grid)-1:
-                    currentRow[col] += currentRow[col+1]
-                    continue
-
-                rightValue = 0
-                downValue = 0
-
-                if col+1 <= len(currentRow)-1:
-                    rightValue = currentRow[col+1]
-                if col <= len(outerArray)-1:
-                    downValue = outerArray[col]
-
-                minimumNeigbour = min(rightValue,downValue)
-
-                currentRow[col] += minimumNeigbour 
+            if row == len(grid)-1 and col == len(grid[0])-1:
+                return grid[row][col]
             
-            outerArray = currentRow
-        
-        return outerArray[0]
+            if (row,col) in memo:
+                return memo[(row,col)]
 
+            right =  grid[row][col] + recursion(row,col+1)
+            down  =  grid[row][col] + recursion(row+1,col)
+            memo[(row,col)] = min(right,down)
+            return min(right,down)
+        
+        return recursion(0,0)
+       
+
+            
+
+            
+            
+
+
+
+
+            
+        
