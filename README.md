@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
