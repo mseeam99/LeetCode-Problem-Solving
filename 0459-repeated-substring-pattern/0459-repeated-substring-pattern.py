@@ -9,9 +9,3 @@ class Solution:
             if multiplyBy >= 2 and (currentString * multiplyBy == s):
                 return True
         return False
-            
-
-                
-            
-
-
