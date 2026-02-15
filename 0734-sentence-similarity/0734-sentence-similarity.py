@@ -13,17 +13,11 @@ class Solution:
             if sentence1[i] == sentence2[i]:
                 count += 1
                 continue
-                
+
             for j in range(len(similarPairs)):
                 if (similarPairs[j][0] == sentence1[i]) and (similarPairs[j][1] == sentence2[i]) or (similarPairs[j][1] == sentence1[i]) and (similarPairs[j][0] == sentence2[i]) :
                     count += 1
                     break
-
-
-
-
-
-            
 
         return True if count == len(sentence1) else False
         
