@@ -25,12 +25,7 @@ class Solution:
 
             currentArray.pop()
             
-    
-
         recursion(root,0,[])
         return totalAnswer
-
-        
-        
 
         
