@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3693-climbing-stairs-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
