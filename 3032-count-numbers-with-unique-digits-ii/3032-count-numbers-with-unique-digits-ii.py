@@ -1,6 +1,5 @@
 class Solution:
     def numberCount(self, a: int, b: int) -> int:
-
         def calculateIfADigitIsUnique(val):
             s = str(abs(val)) 
             if len(set(s)) == len(s):
