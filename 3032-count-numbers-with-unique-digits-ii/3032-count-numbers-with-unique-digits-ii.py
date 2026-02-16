@@ -6,7 +6,6 @@ class Solution:
             if len(set(s)) == len(s):
                 return True
             return False
-            
         count = 0
         for i in range(a,b+1):
             ans = calculateIfADigitIsUnique(i)
