@@ -14,9 +14,8 @@ class Solution:
             best = recursion(index + 1, previousIndex)
 
             if previousIndex == -1 or groups[index] != groups[previousIndex]:
-                pick = [words[index]] + recursion(index + 1, index)
+                best = [words[index]] + recursion(index + 1, index)
                 
-                best = pick
 
             memo[key] = best
             return best
