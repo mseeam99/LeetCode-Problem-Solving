@@ -1,37 +1,46 @@
-from typing import List
-
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
-        if len(matrix) == 1 and len(matrix[0]) == 1:
-            return int(matrix[0][0])
 
-        rows, cols = len(matrix), len(matrix[0])
-
-        for row in range(rows - 1, -1, -1):
-            for col in range(cols - 1, -1, -1):
-                if matrix[row][col] != '0':
-                    if col < cols - 1:
-                        matrix[row][col] = int(matrix[row][col]) + int(matrix[row][col + 1])
-                    else:
-                        matrix[row][col] = int(matrix[row][col])
+        newArray = matrix[:]
+        
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if i == 0 or j == 0:
+                    newArray[i][j] = int(matrix[i][j])
                 else:
-                    matrix[row][col] = 0
+                    
+                    newArray[i][j] = int(matrix[i][j])
 
-        maxSquareSize = 0
-
-        for i in range(rows):
-            for j in range(cols):
-                currentWidth = matrix[i][j]
-                if currentWidth == 0:
+        for i in range(len(newArray)):
+            for j in range(len(newArray[0])):
+                if i == 0 or j == 0:
                     continue
+                else:
+                    top      = newArray[i-1][j]
+                    diagonal = newArray[i-1][j-1]
+                    left     = newArray[i][j-1]
+                    if newArray[i][j] == 0:
+                        continue
+                    if top == diagonal == left:
+                        newArray[i][j] = 1 + top 
+                    else:
+                        newArray[i][j] = 1 + min(top,diagonal,left)
 
-                minWidth = currentWidth
-                for k in range(i, i + currentWidth):
-                    if k >= rows:
-                        break
-                    minWidth = min(minWidth, matrix[k][j])
-                    if minWidth < (k - i + 1):
-                        break
-                    maxSquareSize = max(maxSquareSize, k - i + 1)
+        maxValue = 0
+        for i in range(len(newArray)):
+            for j in range(len(newArray[i])):
+                maxValue = max(maxValue,newArray[i][j])
+        return maxValue ** 2
+                
 
-        return maxSquareSize * maxSquareSize
+
+
+                   
+
+        
+        
+       
+
+        
+
+        
