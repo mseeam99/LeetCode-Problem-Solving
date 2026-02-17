@@ -5,11 +5,8 @@ class Solution:
         
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
-                if i == 0 or j == 0:
-                    newArray[i][j] = int(matrix[i][j])
-                else:
-                    
-                    newArray[i][j] = int(matrix[i][j])
+                newArray[i][j] = int(matrix[i][j])
+                
 
         for i in range(len(newArray)):
             for j in range(len(newArray[0])):
