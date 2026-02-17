@@ -7,15 +7,12 @@ class Solution:
                     return False
             return True
 
-
-
         array = sentence.split(" ")
         for i in range(len(array)):
             if searchWord in array[i]:
                 if checkIfPrefix(array[i],searchWord) == True:
                     return i+1
-                
-        
+            
         return -1
 
         
