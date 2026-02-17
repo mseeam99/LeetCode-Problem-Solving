@@ -7,7 +7,6 @@ class Solution:
             for j in range(len(matrix[0])):
                 newArray[i][j] = int(matrix[i][j])
                 
-
         for i in range(len(newArray)):
             for j in range(len(newArray[0])):
                 if i == 0 or j == 0:
@@ -28,16 +27,4 @@ class Solution:
             for j in range(len(newArray[i])):
                 maxValue = max(maxValue,newArray[i][j])
         return maxValue ** 2
-                
-
-
-
-                   
-
-        
-        
-       
-
-        
-
-        
+          
