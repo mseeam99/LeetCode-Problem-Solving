@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Memoization
 |  |
 | ------- |
