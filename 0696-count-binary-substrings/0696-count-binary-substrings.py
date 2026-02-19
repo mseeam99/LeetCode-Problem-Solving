@@ -17,7 +17,6 @@ class Solution:
             if i == len(s)-1:
                 answer += min(curr,prev)
 
-
         return answer 
 
 
