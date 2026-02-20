@@ -5,9 +5,6 @@ class Solution:
        
         def recursion(r1,c1,r2):
 
-            if (r1,c1,r2) in memo:
-                return memo[(r1,c1,r2)]
-
             c2 = (r1+c1) - r2
 
             if r1 >= len(grid) or c1 >= len(grid) or r2 >= len(grid) or c2 >= len(grid):
@@ -15,6 +12,9 @@ class Solution:
             
             if grid[r1][c1] == -1 or grid[r2][c2] == -1:
                 return (float("-inf"))
+
+            if (r1,c1,r2) in memo:
+                return memo[(r1,c1,r2)]
 
             if (r1 == len(grid)-1 and c1 == len(grid)-1) or (r2 == len(grid)-1 and c2 == len(grid)-1):
                 return grid[len(grid)-1][len(grid)-1]
