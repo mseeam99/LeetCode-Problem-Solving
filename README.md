@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
