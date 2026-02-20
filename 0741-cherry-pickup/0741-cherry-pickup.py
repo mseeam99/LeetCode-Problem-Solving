@@ -35,11 +35,3 @@ class Solution:
 
         answer = recursion(0,0,0)
         return max(0,answer)
-
-
-
-        
-
-
-
-        
