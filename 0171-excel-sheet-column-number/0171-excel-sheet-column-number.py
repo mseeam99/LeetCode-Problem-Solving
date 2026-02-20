@@ -7,7 +7,6 @@ class Solution:
         for i in range(n):
             char_value = ord(columnTitle[i]) - 64
             power = n - i - 1
-            
             value += char_value * (26 ** power)
         
         return value
