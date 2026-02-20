@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
