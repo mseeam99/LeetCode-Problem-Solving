@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
