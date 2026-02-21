@@ -5,9 +5,7 @@ class Solution:
 
         for i in range(len(array)):
             changedString = ""
-
             currentWord = array[i]
-
             if currentWord[0].lower() == "a" or currentWord[0].lower() == "e" or currentWord[0].lower() == "i" or currentWord[0].lower() == "o" or currentWord[0].lower() == "u":
                 modifiedWord = currentWord+"ma"
                 aAdded = "a" * (i+1)
