@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1454-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1507-reformat-date) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
