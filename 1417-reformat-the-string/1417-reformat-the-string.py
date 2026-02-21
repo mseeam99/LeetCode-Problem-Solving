@@ -28,16 +28,11 @@ class Solution:
                 answer += numArray[i]
                 answer += charArray[i]
                 
-
-                
-
         if i < len(charArray)-1:
             answer += "".join((charArray[i+1:]))
         elif i < len(numArray)-1:
             answer += "".join((numArray[i+1:]))
 
-
-        
         return answer
 
 
