@@ -15,19 +15,11 @@ class Solution:
         for i in range(len(targetWord)):
             targetValue += str(hashMap[targetWord[i]])
         
-
         firstValue = int(firstValue)
         secondValue = int(secondValue)
         targetValue = int(targetValue)
-
-        print(firstValue)
-        print(secondValue)
-        print(targetValue)
 
         if firstValue + secondValue == targetValue:
             return True
         else:
             return False
-
-        
-        
