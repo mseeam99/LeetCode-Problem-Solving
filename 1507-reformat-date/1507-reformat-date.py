@@ -17,7 +17,6 @@ class Solution:
 
         answer = ""
         array = date.split(" ")
-        print(array)
         for i in range(len(array)-1,-1,-1):
             if i == 2:
                 answer += array[i]
@@ -26,21 +25,16 @@ class Solution:
                 answer += hashMap[str(array[i])]
                 answer += "-"
             elif i == 0:
-
                 s = ""
                 currentString = array[0]
                 for j in range(len(currentString)):
                     if currentString[j].isnumeric():
                         s+=currentString[j]
-
                 if len(s)==2:
                     answer += s
                 else:
                     p = "0"+s
                     answer += p
-                  
-                
-
         return answer
 
         
