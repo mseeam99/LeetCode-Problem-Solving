@@ -9,7 +9,6 @@ class Solution:
             minLength = words2
             maxLength = words1
 
-
         hashMap = {}
         for i in range(len(maxLength)):
             if maxLength[i] not in hashMap:
@@ -23,8 +22,7 @@ class Solution:
                     continue
                 else:
                     hashMap[minLength[i]] -= 1
-
-        print(hashMap)
+                    
         count = 0
         for key,val in hashMap.items():
             if val == 0:
