@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Memoization
 |  |
