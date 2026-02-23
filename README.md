@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1207-unique-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
 | [1260-shift-2d-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1207-unique-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
