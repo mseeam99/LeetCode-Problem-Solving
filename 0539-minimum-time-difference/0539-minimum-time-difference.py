@@ -16,7 +16,6 @@ class Solution:
             fast = newArray[i+1]
             slow = newArray[i]
             difference = int(fast)-int(slow)
-
             res = min(res,difference)
 
         return res
