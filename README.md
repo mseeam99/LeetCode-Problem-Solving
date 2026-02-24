@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0989-add-to-array-form-of-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
