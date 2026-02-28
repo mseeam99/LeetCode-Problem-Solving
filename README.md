@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
+| [0408-valid-word-abbreviation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0415-add-strings) |
