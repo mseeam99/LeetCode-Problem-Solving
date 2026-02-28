@@ -22,7 +22,6 @@ class Solution:
                 wordPointer += 1
                 abbrPointer += 1
                 
-            
         if wordPointer == len(word) and abbrPointer == len(abbr):
             return True
         else:
