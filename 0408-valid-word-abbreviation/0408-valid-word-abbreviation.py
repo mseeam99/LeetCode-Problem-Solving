@@ -5,12 +5,9 @@ class Solution:
         abbrPointer = 0
 
         while wordPointer <= len(word)-1 and abbrPointer <= len(abbr)-1:
-                    
-            if abbrPointer <= len(abbr)-1 and abbr[abbrPointer].isdigit() == True:
+            if abbr[abbrPointer].isdigit() == True:
                 if abbr[abbrPointer] == "0":
                     return False
-
-
                 trackIndexApproach = ""
                 while abbrPointer <= len(abbr)-1 and abbr[abbrPointer].isdigit() == True:
                     trackIndexApproach += abbr[abbrPointer]
