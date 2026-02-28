@@ -9,10 +9,13 @@ class Solution:
             if abbrPointer <= len(abbr)-1 and abbr[abbrPointer].isdigit() == True:
                 if abbr[abbrPointer] == "0":
                     return False
-                trackIndexApproach = 0
+
+
+                trackIndexApproach = ""
                 while abbrPointer <= len(abbr)-1 and abbr[abbrPointer].isdigit() == True:
-                    trackIndexApproach = trackIndexApproach * 10 + (ord(abbr[abbrPointer]) - ord('0'))
+                    trackIndexApproach += abbr[abbrPointer]
                     abbrPointer += 1
+                trackIndexApproach = int(trackIndexApproach)
                 wordPointer += trackIndexApproach
                 if wordPointer > len(word):
                     return False
