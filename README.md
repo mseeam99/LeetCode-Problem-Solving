@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0541-reverse-string-ii) |
