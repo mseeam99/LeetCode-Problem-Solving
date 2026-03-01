@@ -19,7 +19,6 @@ class StringIterator:
             self.string += (lastChar*frequency)
     
     def next(self) -> str:
-        
         self.pointer += 1
         if self.pointer < len(self.string):
             return self.string[self.pointer]
