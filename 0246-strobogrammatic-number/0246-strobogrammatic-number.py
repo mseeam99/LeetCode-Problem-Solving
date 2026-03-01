@@ -17,14 +17,12 @@ class Solution:
             else:
                hashMap[i] = "BAD"
         
-
         answer = ""
         for i in range(len(num)):
             if hashMap[int(num[i])] == "BAD":
                 return False
             else:
                 answer += str(hashMap[int(num[i])])
-        print(answer)
 
         return True if answer[::-1] == num else False
 
