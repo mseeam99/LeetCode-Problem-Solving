@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0266-palindrome-permutation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
 | [0293-flip-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0293-flip-game) |
 | [0301-remove-invalid-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
+| [0266-palindrome-permutation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
+| [0266-palindrome-permutation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0348-design-tic-tac-toe) |
