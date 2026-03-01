@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Memoization
 |  |
