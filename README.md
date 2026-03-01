@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
+| [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
 | [0293-flip-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0293-flip-game) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
