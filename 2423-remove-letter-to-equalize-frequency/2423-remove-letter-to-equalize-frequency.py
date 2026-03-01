@@ -14,16 +14,12 @@ class Solution:
                     return False
             return True
                 
-
-        
         for i in range(len(word)):
             tempString = ""
             for j in range(0,i):
                 tempString += word[j]
             for j in range(i+1,len(word)):
                 tempString += word[j]
-            
-            print(tempString)
             ans = checkfrequency(tempString)
             if ans == True:
                 return True
