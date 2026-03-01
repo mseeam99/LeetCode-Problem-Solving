@@ -15,7 +15,6 @@ class Solution:
             elif s[rightPointer].isalpha() == False:
                 rightPointer -= 1
 
-
         return "".join(s)
 
             
