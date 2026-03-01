@@ -7,12 +7,6 @@ class Solution:
             for row in range(len(strs)):
                 tempString += strs[row][col]
 
-            print(tempString)
-
-                
-
-           
-            
             starting = ord(tempString[0])
             for i in range(len(tempString)):
                 if ord(tempString[i]) < starting:
@@ -21,7 +15,6 @@ class Solution:
                 else:
                     starting = ord(tempString[i])
                 
-        
         return count
 
 
