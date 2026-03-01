@@ -1,7 +1,6 @@
 class Solution:
     def similarRGB(self, color: str) -> str:
         
-
         def getVal(s):
             minValue = float("inf")
             ans = -1
@@ -10,12 +9,8 @@ class Solution:
                 if currValue < minValue:
                     minValue = currValue
                     ans = i
+            return hex(ans)[-1] * 2
             
-            return hex(ans)[-1]
-            
-
-
-
         answer = "#"
         for i in range(1,6,2):
             answer += getVal(color[i:i+2])
