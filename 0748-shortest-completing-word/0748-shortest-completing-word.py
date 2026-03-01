@@ -9,7 +9,7 @@ class Solution:
                     hashMap[licensePlate[i].lower()] = 1
                 else:
                     hashMap[licensePlate[i].lower()] += 1
-        print(hashMap)
+        
         answer = []
 
         for i in range(len(words)):
@@ -28,9 +28,6 @@ class Solution:
                     break
             if canReturn == True:
                 answer.append(words[i])
-
-        
-      
 
         shortLength = float("inf")
         shortAns = ""
