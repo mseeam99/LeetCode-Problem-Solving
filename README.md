@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0796-rotate-string) |
+| [0800-similar-rgb-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0800-similar-rgb-color) |
 | [0806-number-of-lines-to-write-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0824-goat-latin) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
+| [0800-similar-rgb-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0800-similar-rgb-color) |
 | [0989-add-to-array-form-of-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0800-similar-rgb-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0800-similar-rgb-color) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
 ## Monotonic Queue
 |  |
