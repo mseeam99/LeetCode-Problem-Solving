@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1119-remove-vowels-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1119-remove-vowels-from-a-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1049-last-stone-weight-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
@@ -1369,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 ## Topological Sort
 |  |
