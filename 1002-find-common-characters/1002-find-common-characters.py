@@ -8,9 +8,6 @@ class Solution:
             for key,val in firstHashMap.items():    
                 firstHashMap[key] = min(firstHashMap[key],currentHashMap[key])
                 
-                    
-
-
         answer = []
         for key,val in firstHashMap.items():
             for _ in range(val):
