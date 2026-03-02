@@ -13,5 +13,5 @@ class Solution:
                 answer.append(hi)
                 hi-=1
 
-        answer.append(lo)
+        answer.append(hi)
         return answer
