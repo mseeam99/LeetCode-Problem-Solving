@@ -18,9 +18,5 @@ class Solution:
             else:
                 s[i] = speciaArray.pop()
 
-
-
-        
-
         return "".join(s)
         
