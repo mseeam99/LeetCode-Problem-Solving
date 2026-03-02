@@ -5,11 +5,10 @@ class Solution:
 
         for i in range(1,len(words)):
             currentHashMap = Counter(words[i])
-            for key,val in firstHashMap.items():
-                if key in currentHashMap:
-                    firstHashMap[key] = min(firstHashMap[key],currentHashMap[key])
-                else:
-                    firstHashMap[key] = 0
+            for key,val in firstHashMap.items():    
+                firstHashMap[key] = min(firstHashMap[key],currentHashMap[key])
+                
+                    
 
 
         answer = []
