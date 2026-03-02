@@ -8,7 +8,7 @@ class Solution:
             j = 0
             while j < len(w1) and j < len(w2) and w1[j] == w2[j]:
                 j += 1
-            if (j == len(w1) or j == len(w2)) and len(w1) > len(w2):
+            if (j >= len(w1) or j >= len(w2)) and len(w1) > len(w2):
                 return False
             if j < len(w1) and j < len(w2) and rank[w1[j]] > rank[w2[j]]:
                 return False
