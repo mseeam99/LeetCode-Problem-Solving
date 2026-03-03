@@ -5,9 +5,7 @@ class Solution:
 
         for i in range(len(s)):
             mySet.add(s[i])
-            distinct = len(mySet)
-
-            if distinct == (i + 1) % 3:
+            if len(mySet) == (i + 1) % 3:
                 residueCount+=1
 
         return residueCount
