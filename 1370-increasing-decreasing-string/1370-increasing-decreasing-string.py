@@ -19,7 +19,6 @@ class Solution:
                     answer += sortedKeys[i]
                     hashMap[sortedKeys[i]] -= 1
 
-
             # backward pass
             for i in range(len(sortedKeys)-1,-1,-1):
                 if hashMap[sortedKeys[i]] > 0:
