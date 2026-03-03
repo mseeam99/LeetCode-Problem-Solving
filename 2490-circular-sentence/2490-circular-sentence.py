@@ -9,7 +9,6 @@ class Solution:
         if sentence[0][0] != sentence[-1][-1]:
             return False
 
-
         return True
 
         
