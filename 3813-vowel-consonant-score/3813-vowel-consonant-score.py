@@ -7,6 +7,8 @@ class Solution:
                 vCount+=1
             elif "a" <= s[i] <= "z":
                 cCount+=1
+            else:
+                continue
         if cCount != 0:
             return floor(vCount/cCount)
         else:
