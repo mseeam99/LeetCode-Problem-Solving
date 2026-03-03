@@ -12,8 +12,6 @@ class Solution:
                 rightDistance = abs(min(rightDistance, abs(len(words)-i)+startIndex))
                 leftDistance  = abs(min(leftDistance, startIndex-i))
                 leftDistance  = abs(min(leftDistance, abs(i+len(words)-startIndex)))
-
                 closest = min(closest, rightDistance, leftDistance)
-
 
         return -1 if closest == float("inf") else closest
