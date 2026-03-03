@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
