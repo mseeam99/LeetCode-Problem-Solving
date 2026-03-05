@@ -17,10 +17,5 @@ class Solution:
             
             pointerOne = pointerTwo
 
-
-
-
-
-
         return returnString
         
