@@ -1,6 +1,5 @@
 class Solution:
     def mergeSimilarItems(self, items1: List[List[int]], items2: List[List[int]]) -> List[List[int]]:
-
         for i in range(len(items2)):
             items1.append(items2[i])
         items1.sort()
