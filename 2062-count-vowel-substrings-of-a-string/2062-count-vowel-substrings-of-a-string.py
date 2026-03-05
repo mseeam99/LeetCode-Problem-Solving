@@ -1,5 +1,6 @@
 class Solution:
     def countVowelSubstrings(self, word: str) -> int:
+        
         vowels = set(["a", "e", "i", "o", "u"])
         returnCount = 0
 
