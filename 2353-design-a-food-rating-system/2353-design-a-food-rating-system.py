@@ -1,23 +1,21 @@
 class FoodRatings:
 
     def __init__(self, foods: List[str], cuisines: List[str], ratings: List[int]):
-        self.food_data = {}
-        self.cuisine_data = defaultdict(SortedList)
-        for food, cuisine, rating in zip(foods, cuisines, ratings):
-            self.food_data[food] = (cuisine, rating)
-            self.cuisine_data[cuisine].add((-rating, food))
-
-        print(self.cuisine_data)
+        self.foodToRating_HashMap = {}
+        self.cuisineToHeap = defaultdict(SortedList)
+        for food,cuisine,rating in zip(foods,cuisines,ratings):
+            self.foodToRating_HashMap[food] = (rating,cuisine)
+            self.cuisineToHeap[cuisine].add((-rating,food))
 
     def changeRating(self, food: str, newRating: int) -> None:
-        cuisine, rating = self.food_data[food]
-        self.food_data[food] = cuisine, newRating
-        self.cuisine_data[cuisine].remove((-rating, food))
-        self.cuisine_data[cuisine].add((-newRating, food))
+        rating, cuisine = self.foodToRating_HashMap[food]
+        self.foodToRating_HashMap[food] = [newRating,cuisine]
+        self.cuisineToHeap[cuisine].remove((-rating, food))
+        self.cuisineToHeap[cuisine].add((-newRating, food))
 
     def highestRated(self, cuisine: str) -> str:
-        return self.cuisine_data[cuisine][0][1]
-
+        return self.cuisineToHeap[cuisine][0][1]
+        
 # Your FoodRatings object will be instantiated and called as such:
 # obj = FoodRatings(foods, cuisines, ratings)
 # obj.changeRating(food,newRating)
