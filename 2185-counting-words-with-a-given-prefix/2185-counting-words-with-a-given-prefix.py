@@ -10,5 +10,4 @@ class Solution:
                     if j == len(pref)-1:
                         count += 1
         return count
-
         
