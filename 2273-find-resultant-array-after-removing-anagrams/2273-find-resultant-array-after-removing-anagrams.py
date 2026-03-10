@@ -22,7 +22,6 @@ class Solution:
             if compare(words[i],answer[-1]) == True:
                 continue
             answer.append(words[i])
-        
         return answer
 
 
