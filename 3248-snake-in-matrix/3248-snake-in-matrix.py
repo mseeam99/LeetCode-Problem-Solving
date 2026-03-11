@@ -2,18 +2,13 @@ class Solution:
     def finalPositionOfSnake(self, n: int, commands: List[str]) -> int:
 
         grid = []
-        start = 0
 
         for i in range(n):
             array = []
-            for j in range(start,start+n):
-                array.append(j)
-                start += 1
+            for j in range(n):
+                val = (i * n) + j
+                array.append(val)
             grid.append(array)
-
-        for i in range(len(grid)):
-            for j in range(len(grid[i])):
-                grid[i][j] = (i * n) + j
         
         answer = 0
         i,j = 0,0
