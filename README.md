@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3456-find-special-substring-of-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3636-check-balanced-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3636-check-balanced-string) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3813-vowel-consonant-score) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 ## Greedy
 |  |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -1440,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Memoization
 |  |
 | ------- |
