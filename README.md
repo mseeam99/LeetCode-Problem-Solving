@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3379-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3456-find-special-substring-of-length-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3456-find-special-substring-of-length-k) |
 | [3636-check-balanced-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3636-check-balanced-string) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3813-vowel-consonant-score) |
