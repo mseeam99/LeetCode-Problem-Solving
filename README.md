@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
 | ------- |
