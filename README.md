@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3210-find-the-encrypted-string) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3379-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Binary Search
 |  |
 | ------- |
