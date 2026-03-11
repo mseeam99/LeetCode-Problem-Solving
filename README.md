@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-find-the-encrypted-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3248-snake-in-matrix) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3379-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
 ## Stack
