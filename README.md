@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2810-faulty-keyboard) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3019-number-of-changing-keys](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2810-faulty-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3248-snake-in-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
