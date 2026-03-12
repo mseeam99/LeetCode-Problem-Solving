@@ -1,6 +1,5 @@
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
-
         minHeap = [[0,0,0]]
         heapq.heapify(minHeap)
         visitedSet = set()
