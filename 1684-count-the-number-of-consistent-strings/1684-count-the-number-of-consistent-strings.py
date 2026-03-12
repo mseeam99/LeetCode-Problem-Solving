@@ -6,7 +6,6 @@ class Solution:
                 hashMap[allowed[i]] = 1
             else:
                 hashMap[allowed[i]] += 1
-
         count = 0
         for i in range(len(words)):
             isItCountable = True
@@ -15,9 +14,5 @@ class Solution:
                     isItCountable = False
             if isItCountable == True:
                 count += 1
-
-
-
-
         return count
                 
