@@ -14,7 +14,6 @@ class Solution:
             return returnStatement
 
         array = []
-
         hashMap = {}
         hashMap["electronics"] = 1
         hashMap["grocery"] = 2
@@ -23,27 +22,11 @@ class Solution:
         
         for i in range(len(code)):
             if (checkIsCodeValid(code[i]) == True) and (businessLine[i] == "electronics" or businessLine[i] == "grocery" or businessLine[i] == "pharmacy" or businessLine[i] == "restaurant") and isActive[i] == True:
-
                 array.append((hashMap[businessLine[i]],code[i]))
 
-        print(array)
-
         newArray = []
-
         heapq.heapify(array)
         while array:
             number, val = heapq.heappop(array)
             newArray.append(val)
-    
-
         return newArray
-
-
-
-
-
-
-
-
-        
-
