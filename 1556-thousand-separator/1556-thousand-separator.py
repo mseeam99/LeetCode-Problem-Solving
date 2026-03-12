@@ -1,6 +1,5 @@
 class Solution:
     def thousandSeparator(self, n: int) -> str:
-
         n = str(n)
         answer = ""
         count = 0
@@ -10,6 +9,5 @@ class Solution:
                 count = 0
             count += 1 
             answer += n[i]
-
         return answer[::-1]
         
