@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3456-find-special-substring-of-length-k) |
+| [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-count-odd-letters-from-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3581-count-odd-letters-from-number) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1488,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 ## Topological Sort
 |  |
 | ------- |
