@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3019-number-of-changing-keys](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3019-number-of-changing-keys) |
+| [3136-valid-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3210-find-the-encrypted-string) |
