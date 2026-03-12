@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3636-check-balanced-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3636-check-balanced-string) |
+| [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 ## Greedy
 |  |
@@ -1454,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
 ## Memoization
 |  |
 | ------- |
