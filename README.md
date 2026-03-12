@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-special-substring-of-length-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3456-find-special-substring-of-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3582-generate-tag-for-video-caption](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3636-check-balanced-string) |
 | [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3248-snake-in-matrix) |
+| [3582-generate-tag-for-video-caption](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3582-generate-tag-for-video-caption) |
 | [3790-fruits-into-baskets-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3813-vowel-consonant-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
