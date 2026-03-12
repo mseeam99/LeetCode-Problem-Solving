@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 ## Matrix
 |  |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1465,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
