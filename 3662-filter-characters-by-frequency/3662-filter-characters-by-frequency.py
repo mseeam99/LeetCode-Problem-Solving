@@ -5,5 +5,4 @@ class Solution:
         for i in range(len(s)):
             if hashMap[s[i]] < k:
                 answer += s[i]
-        return answer
-        
+        return answer   
