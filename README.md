@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1143-longest-common-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1250-longest-common-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1200-minimum-absolute-difference) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1002-find-common-characters) |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1466,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
