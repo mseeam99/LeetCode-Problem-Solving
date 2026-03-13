@@ -15,39 +15,8 @@ class Solution:
             "11": 304,
             "12": 334
         }
-
         year, month, day = date.split("-")
         totalDays = hashMap[month] + int(day)
         if calendar.isleap(int(year)) and int(month) > 2:
             totalDays += 1
         return totalDays
-
-            
-
-
-
-        
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-            
-
-
-
-
-
-
-        
