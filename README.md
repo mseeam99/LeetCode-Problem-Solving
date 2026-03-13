@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1507-reformat-date) |
 | [1556-thousand-separator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1556-thousand-separator) |
+| [1592-rearrange-spaces-between-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
