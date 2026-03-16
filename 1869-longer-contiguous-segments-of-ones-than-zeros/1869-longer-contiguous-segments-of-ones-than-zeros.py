@@ -1,7 +1,6 @@
 class Solution:
     def checkZeroOnes(self, s: str) -> bool:
         
-
         longestOneLength = 0
         longestZeroLength = 0
 
@@ -14,7 +13,6 @@ class Solution:
                     break
             longestOneLength = max(longestOneLength,currentOneLength)
 
-
         for i in range(len(s)):
             currentZeroLength = 0
             for j in range(i,len(s)):
@@ -23,10 +21,6 @@ class Solution:
                 else:
                     break
             longestZeroLength = max(longestZeroLength,currentZeroLength)
-
-        print(longestOneLength)
-        print(longestZeroLength)
-
 
         if longestOneLength > longestZeroLength:
             return True
