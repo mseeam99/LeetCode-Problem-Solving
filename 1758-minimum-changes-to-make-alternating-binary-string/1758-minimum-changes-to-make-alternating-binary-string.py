@@ -7,25 +7,17 @@ class Solution:
             else:
                 return 1
         
-
         startsWithZero = "" 
         startsWithOne  = ""
 
         for i in range(len(s)):
             if i % 2 == 0:
                 startsWithZero += "0"
+                startsWithOne += "1"
             else:
                 startsWithZero += "1"
-        
-        for i in range(len(s)):
-            if i % 2 != 0:
                 startsWithOne += "0"
-            else:
-                startsWithOne += "1"
-
-        print(startsWithZero)
-        print(startsWithOne)
-
+                
         minChangeZero = 0
         minChangeOne = 0
         for i in range(len(s)):
