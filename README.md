@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1797-goal-parser-interpretation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1935-maximum-number-of-words-you-can-type) |
