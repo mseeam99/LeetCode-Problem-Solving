@@ -24,13 +24,7 @@ class Solution:
                     newTime += time
                     heapq.heappush(minHeap,[newTime,newSource])    
                
-
         if len(mySet) == n:
             return maxTime
         else:
             return -1
-
-
-
-
-        
