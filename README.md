@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2353-design-a-food-rating-system](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2353-design-a-food-rating-system) |
