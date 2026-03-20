@@ -1,6 +1,5 @@
 class Solution:
-    def findItinerary(self, tickets: List[List[str]]) -> List[str]:
-        
+    def findItinerary(self, tickets: List[List[str]]) -> List[str]: 
         tickets.sort(reverse=True)
         graph = defaultdict(list)
         for start, end in tickets:
