@@ -12,10 +12,8 @@ class Solution:
         minCost = float("-inf")
 
         while minHeap:
-
             cost,end = heapq.heappop(minHeap)
-            cost = -cost
-
+            cost = abs(cost)
             if end in visitedSet:
                 continue
             visitedSet.add(end)
@@ -23,20 +21,11 @@ class Solution:
             if end == end_node:
                 return cost
 
-            
-            theList = hashMap[end]
-            for i in range(len(theList)):
-
-                if theList[i][0] not in visitedSet:
-
-                    newEnd = theList[i][0]
-                    newCost = theList[i][1]*cost
-
+            for i in range(len(hashMap[end])):
+                if hashMap[end][i][0] not in visitedSet:
+                    newEnd = hashMap[end][i][0]
+                    newCost = hashMap[end][i][1]*cost
                     heapq.heappush(minHeap,(-newCost,newEnd))
-                     
-
-                
-        
         return 0.0
         
 
