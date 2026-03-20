@@ -13,14 +13,12 @@ class Solution:
 
         while minHeap:
             cost,end = heapq.heappop(minHeap)
-            cost = abs(cost)
+            cost = -cost
             if end in visitedSet:
                 continue
             visitedSet.add(end)
-
             if end == end_node:
                 return cost
-
             for i in range(len(hashMap[end])):
                 if hashMap[end][i][0] not in visitedSet:
                     newEnd = hashMap[end][i][0]
