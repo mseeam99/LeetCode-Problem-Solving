@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -1448,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
@@ -1611,10 +1613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 ## Union-Find
 |  |
 | ------- |
