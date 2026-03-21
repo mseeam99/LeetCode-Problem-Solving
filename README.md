@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0748-shortest-completing-word) |
 | [0760-find-anagram-mappings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0760-find-anagram-mappings) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0741-cherry-pickup) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0907-koko-eating-bananas) |
@@ -1191,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1005-univalued-binary-tree) |
@@ -1336,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
@@ -1443,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1046-last-stone-weight) |
@@ -1622,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Eulerian Circuit
 |  |
