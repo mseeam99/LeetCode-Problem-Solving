@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2353-design-a-food-rating-system](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2353-design-a-food-rating-system) |
 | [2363-merge-similar-items](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2363-merge-similar-items) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1465,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2353-design-a-food-rating-system](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2353-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1620,11 +1624,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Union-Find
 |  |
 | ------- |
