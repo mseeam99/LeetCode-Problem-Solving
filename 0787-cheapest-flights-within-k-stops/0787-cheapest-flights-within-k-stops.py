@@ -10,7 +10,6 @@ class Solution:
         minHeap = [[0,0,src]] # cost, increm, stop
         heapq.heapify(minHeap)
         visitedSet = set()
-        minPriceNeeded = float("-inf")
        
         while minHeap:
             cost, stopIncrement, stop = heapq.heappop(minHeap)
