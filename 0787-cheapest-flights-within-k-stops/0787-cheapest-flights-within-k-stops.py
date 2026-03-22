@@ -28,10 +28,9 @@ class Solution:
                 continue
             visitedSet.add((stop,cost))
 
-            arrayOfDirections = list(hashMap[stop])
-            for i in range(len(arrayOfDirections)):
+            for i in range(len(hashMap[stop])):
                 
-                newStop, newCost = arrayOfDirections[i][0],arrayOfDirections[i][1]+cost
+                newStop, newCost = hashMap[stop][i][0],hashMap[stop][i][1]+cost
                 newStopIncrement = stopIncrement + 1
 
 
