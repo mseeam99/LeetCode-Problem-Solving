@@ -7,33 +7,21 @@ class Solution:
             hashMap[start].append([stop,price])
             # start -> stop, price
 
-        print(hashMap)
-
         minHeap = [[0,0,src]] # cost, increm, stop
         heapq.heapify(minHeap)
         visitedSet = set()
         minPriceNeeded = float("-inf")
        
-       
-
         while minHeap:
-
             cost, stopIncrement, stop = heapq.heappop(minHeap)
-
-
             if stop == dst and stopIncrement - 1 <= k:
                 return cost
-            
             if (stop,cost) in visitedSet or stopIncrement > k:
                 continue
             visitedSet.add((stop,cost))
-
             for i in range(len(hashMap[stop])):
-                
                 newStop, newCost = hashMap[stop][i][0],hashMap[stop][i][1]+cost
                 newStopIncrement = stopIncrement + 1
-
-
                 heapq.heappush(minHeap,[newCost,newStopIncrement,newStop])
 
         return -1
