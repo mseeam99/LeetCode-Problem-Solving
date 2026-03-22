@@ -27,7 +27,6 @@ class Solution:
                 if (newRow, newCol) in visitedSet:
                     continue
 
-    
                 arrival_time = time + 1
 
                 if arrival_time >= grid[newRow][newCol]:
@@ -41,8 +40,6 @@ class Solution:
 
                 nextTime = arrival_time + wait_time
                             
-               
-
                 heapq.heappush(minHeap, [nextTime, newRow, newCol])
 
             
