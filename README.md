@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3019-number-of-changing-keys](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2965-find-missing-and-repeated-values) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1652,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Union-Find
 |  |
 | ------- |
