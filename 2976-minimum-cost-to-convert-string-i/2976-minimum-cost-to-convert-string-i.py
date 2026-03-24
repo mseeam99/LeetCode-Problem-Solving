@@ -6,13 +6,8 @@ class Solution:
             s, c, d = original[i], cost[i], changed[i]
             hashMap[s].append([c, d])  # cost, destination
 
-        memo = {}
-
         def function(s, t):
-            if (s, t) in memo:
-                return memo[(s, t)]
             if s == t:
-                memo[(s, t)] = 0
                 return 0
             minHeap = [[0, s]]  # cost, destination
             heapq.heapify(minHeap)
@@ -20,7 +15,6 @@ class Solution:
             while minHeap:
                 cost, destination = heapq.heappop(minHeap)
                 if destination == t:
-                    memo[(s, t)] = cost
                     return cost
                 if destination in visitedSet:
                     continue
@@ -30,14 +24,19 @@ class Solution:
                     newCost = theOtherDestinationsList[i][0] + cost
                     newDestination = theOtherDestinationsList[i][1]
                     heapq.heappush(minHeap, [newCost, newDestination])
-            memo[(s, t)] = -1
             return -1
 
+        memo = {}
         totalCost = 0
         for i in range(len(source)):
-            val = function(source[i], target[i])
+            val = 0
+            s,t = source[i], target[i]
+            if (s,t) in memo:
+                val = memo[(s,t)]
+            else:
+                val = function(source[i], target[i])
+                memo[(s,t)] = val
             if val == -1:
                 return -1
             totalCost += val
-
         return totalCost
