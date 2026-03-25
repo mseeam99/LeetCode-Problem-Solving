@@ -31,6 +31,9 @@ class Solution:
                 
                 elif newTime == mini_time[newDestination]:
                     path_cont[newDestination] = (path_cont[destination] + path_cont[newDestination])
+                    
+                else:
+                    continue
 
         return path_cont[n-1] % MOD
 
