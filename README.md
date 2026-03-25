@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -1565,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
 |  |
 | ------- |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1653,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
