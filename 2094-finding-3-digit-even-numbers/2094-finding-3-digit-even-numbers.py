@@ -7,9 +7,8 @@ class Solution:
         def recursion(string):
 
 
-            if len(string) == 3:
-                if int(string) % 2 == 0 and string[0] != "0":
-                    mySet.add(int(string))
+            if len(string) == 3 and (int(string) % 2 == 0) and string[0] != "0":
+                mySet.add(int(string))
                 return
 
             
