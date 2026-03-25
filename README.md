@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -1572,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0800-similar-rgb-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0800-similar-rgb-color) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Monotonic Queue
