@@ -10,18 +10,14 @@ class Solution:
         
         minHeap = [[0,0]] #time, destination
         heapq.heapify(minHeap)
-        visitedSet = set()
         mini_time = [float("inf")] * n
         path_cont = [0] * n
         mini_time[0] = 0
         path_cont[0] = 1
 
-
-    
         while minHeap:
 
             time, destination = heapq.heappop(minHeap)
-
 
             for i in range(len(hashMap[destination])):
 
@@ -30,7 +26,7 @@ class Solution:
                 if newTime < mini_time[newDestination]:
 
                     mini_time[newDestination] = newTime
-                    path_cont[newDestination] = path_cont[destination]
+                    path_cont[newDestination] = path_cont[destination] % MOD
                     heapq.heappush(minHeap,[newTime, newDestination])
                 
                 elif newTime == mini_time[newDestination]:
