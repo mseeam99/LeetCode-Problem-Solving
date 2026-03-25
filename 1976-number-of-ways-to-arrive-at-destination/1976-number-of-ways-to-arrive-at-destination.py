@@ -26,13 +26,13 @@ class Solution:
                 if newTime < mini_time[newDestination]:
 
                     mini_time[newDestination] = newTime
-                    path_cont[newDestination] = path_cont[destination] % MOD
+                    path_cont[newDestination] = path_cont[destination]
                     heapq.heappush(minHeap,[newTime, newDestination])
                 
                 elif newTime == mini_time[newDestination]:
-                    path_cont[newDestination] = (path_cont[destination] + path_cont[newDestination]) % MOD
+                    path_cont[newDestination] = (path_cont[destination] + path_cont[newDestination])
 
-        return path_cont[n-1]
+        return path_cont[n-1] % MOD
 
 
 
