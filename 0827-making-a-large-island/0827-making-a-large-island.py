@@ -31,14 +31,11 @@ class Solution:
 
         maxAnswer = 0
     
-
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 0:
-                    
                     currentLength = 1
                     areaUsed = set()
-
                     if j + 1 < len(grid[0]) and grid[i][j + 1] not in areaUsed:
                         if grid[i][j + 1] in hashMap:
                             currentLength += hashMap[grid[i][j + 1]]
