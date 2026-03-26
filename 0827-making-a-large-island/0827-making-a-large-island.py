@@ -13,13 +13,11 @@ class Solution:
                 return 0
             visitedSet.add((row, col))
             grid[row][col] = block
-            
             dfs(row, col + 1, block)
             dfs(row + 1, col, block)
             dfs(row, col - 1, block)
             dfs(row - 1, col, block)
             
-
         block = 2
 
         for i in range(len(grid)):
@@ -32,12 +30,12 @@ class Solution:
                     block += 1
 
         maxAnswer = 0
-        hasZero = False
+    
 
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 0:
-                    hasZero = True
+                    
                     currentLength = 1
                     areaUsed = set()
 
@@ -63,7 +61,7 @@ class Solution:
 
                     maxAnswer = max(maxAnswer, currentLength)
 
-        if hasZero == False:
+        if maxAnswer == 0:
             return len(grid) * len(grid[0])
 
         return maxAnswer
