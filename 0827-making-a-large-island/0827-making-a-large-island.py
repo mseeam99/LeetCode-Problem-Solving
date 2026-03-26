@@ -13,12 +13,12 @@ class Solution:
                 return 0
             visitedSet.add((row, col))
             grid[row][col] = block
-            length = 1
-            length += dfs(row, col + 1, block)
-            length += dfs(row + 1, col, block)
-            length += dfs(row, col - 1, block)
-            length += dfs(row - 1, col, block)
-            return length
+            
+            dfs(row, col + 1, block)
+            dfs(row + 1, col, block)
+            dfs(row, col - 1, block)
+            dfs(row - 1, col, block)
+            
 
         block = 2
 
@@ -26,7 +26,9 @@ class Solution:
             for j in range(len(grid[0])):
                 if grid[i][j] == 1:
                     visitedSet.clear()
-                    hashMap[block] = dfs(i, j, block)
+                    dfs(i, j, block)
+                    hashMap[block] = len(visitedSet)
+                    visitedSet.clear()
                     block += 1
 
         maxAnswer = 0
@@ -38,7 +40,7 @@ class Solution:
                     hasZero = True
                     currentLength = 1
                     areaUsed = set()
-                    
+
                     if j + 1 < len(grid[0]) and grid[i][j + 1] not in areaUsed:
                         if grid[i][j + 1] in hashMap:
                             currentLength += hashMap[grid[i][j + 1]]
