@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3668-restore-finishing-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3668-restore-finishing-order) |
 | [3693-climbing-stairs-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-count-odd-letters-from-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3581-count-odd-letters-from-number) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
+| [3668-restore-finishing-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3668-restore-finishing-order) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
 ## Greedy
 |  |
