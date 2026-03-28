@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
