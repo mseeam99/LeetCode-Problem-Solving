@@ -1219,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
@@ -1370,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1684,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
