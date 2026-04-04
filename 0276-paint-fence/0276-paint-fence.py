@@ -13,7 +13,6 @@ class Solution:
             if index in memo:
                 return memo[index]
 
-
             memo[index] = (k-1) * (recursion(index-1)+recursion(index-2))
 
             return memo[index]
