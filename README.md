@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
+| [0276-paint-fence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
