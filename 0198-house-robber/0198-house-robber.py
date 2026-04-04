@@ -4,26 +4,21 @@ class Solution:
         memo = {}
 
         def recursion(index):
-            nonlocal nums, memo
 
-            if index > len(nums):
+            if index >= len(nums):
                 return 0
             
-            if index == len(nums):
-                return 0
-
             if index in memo:
                 return memo[index]
-
-            pick    = nums[index] + recursion(index+2)
+            
+            pick = nums[index] + recursion(index+2)
             notPick = 0 + recursion(index+1)
-            maxRobbery = max(pick, notPick)
-            memo[index] = maxRobbery
-            return maxRobbery
-        
-        return recursion(0)
-            
 
+            memo[index] = max(pick,notPick)
+            return memo[index]
+        
+        startAtZero =  recursion(0)
+        startAtOne  =  recursion(1)
+        return max(startAtZero,startAtOne)
 
             
-        
