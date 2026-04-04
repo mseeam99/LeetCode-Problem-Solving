@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
 | [0252-meeting-rooms](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
+| [0256-paint-house](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0275-h-index-ii) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
+| [0256-paint-house](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
