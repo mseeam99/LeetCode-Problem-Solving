@@ -1,26 +1,34 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
 
-        answer = float("+inf")
         memo = {}
 
-        def recursion(index):
+        def recursion(index,currentCost):
+
             nonlocal memo
-            if index > len(cost):
+
+            if index >= len(cost):
                 return 0
-            
-            if index == len(cost):
-                return 0
-            
+          
             if index in memo:
                 return memo[index]
 
-            pickOne    = cost[index] + recursion(index+1)
-            pickTwo    = cost[index] + recursion(index+2)
-            returnMinimumAnswer = min(pickOne,pickTwo)
-            memo[index] = returnMinimumAnswer
-            return returnMinimumAnswer
-    
-        answer = min(answer,recursion(0))        
-        answer = min(answer,recursion(1))         
-        return answer
+            oneStep = cost[index] + recursion(index+1,currentCost+cost[index])
+            twoStep = cost[index] + recursion(index+2,currentCost+cost[index])
+
+            memo[index] = min(oneStep,twoStep)
+            return memo[index]
+
+
+        answer1 = recursion(0,0)
+        answer2 = recursion(1,0)
+        return min(answer1,answer2)
+
+        
+
+            
+            
+
+
+
+        
