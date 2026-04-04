@@ -2,39 +2,42 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
 
         memo = {}
-        
-        def recursion(index,zeroPicked):
-            nonlocal nums, memo
 
-            if index > len(nums):
-                return 0
-            
-            if index == len(nums):
-                return 0
+    
+        def recursion(index,zeroPicked):
+
+            nonlocal memo
 
             if (index,zeroPicked) in memo:
                 return memo[(index,zeroPicked)]
-            
-            pick, notPick = 0,0
 
-            if index == 0:
-                zeroPicked = True
-            if index == len(nums) - 1 and zeroPicked == True:
-                notPick = 0 + recursion(index+1,zeroPicked)
-            else:
-                pick = nums[index] + recursion(index+2,zeroPicked)
+            if index >= len(nums):
+                return 0
+        
+            if index == len(nums)-1 and zeroPicked == True:
+                return 0
+            elif index == len(nums)-1 and zeroPicked == False:
+                return nums[-1]
+
+            pick = 0
+            notPick = 0
             
             if index == 0:
-                zeroPicked = False
-            if index == len(nums) - 1 and zeroPicked == False:
-                pick = nums[index] + recursion(index+2,zeroPicked)
+                pick = nums[index] + recursion(index+2, True)
             else:
-                notPick = 0 + recursion(index+1,zeroPicked)
+                pick = nums[index] + recursion(index+2, zeroPicked)
+                
+            notPick = 0 + recursion(index+1, zeroPicked)
+            memo[(index,zeroPicked)] = max(pick, notPick)
+            return max(pick, notPick)
 
-            maxRobbery  = max(pick,notPick)
-            memo[(index,zeroPicked)] = maxRobbery
-            return maxRobbery
 
         return recursion(0,False)
             
+
+
+
+        
+
+
         
