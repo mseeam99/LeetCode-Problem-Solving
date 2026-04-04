@@ -26,7 +26,6 @@ class Solution:
             if len(tempLongestString) >= len(longestString):
                 longestString = tempLongestString
                 
-
         def evenExpandTwoSideAndCheck(i):
             nonlocal longestString
             tempLongestString = ""
@@ -43,11 +42,8 @@ class Solution:
                 longestString = tempLongestString
                 
         for i in range(len(s)):
-            
             oddExpandTwoSideAndCheck(i)
             evenExpandTwoSideAndCheck(i)
-
-        
 
         return longestString
 
