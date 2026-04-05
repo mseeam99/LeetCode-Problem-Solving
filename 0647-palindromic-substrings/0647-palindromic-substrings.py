@@ -1,47 +1,35 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
+    
+        answerCount = 0
+        memo = {}
 
-        count = 0
+        def recursion(index,currentString):
 
-        def expandODD(i):
-            nonlocal s
-            nonlocal count
-            left  = i
-            right = i
-            while True:
-                if left >= 0 and right <= len(s)-1:
-                    if s[left] == s[right]:
-                        count+=1
-                        left-=1
-                        right+=1
-                    else:
-                        break
-                else:
-                    break
+            nonlocal answerCount, memo
 
-        def expandEVEN(i):
-            nonlocal s
-            nonlocal count
-            left  = i
-            right = i+1
-            while True:
-                if left >= 0 and right <= len(s)-1:
-                    if s[left] == s[right]:
-                        count+=1
-                        left-=1
-                        right+=1
-                    else:
-                        break
-                else:
-                    break
+            if (index,currentString) in memo:
+                return memo[(index,currentString)]
+
+            if index >= len(s):
+                return 0 
+            
+            currentString = currentString+s[index]
+
+            if currentString == currentString[::-1]:
+              #  print(currentString)
+                answerCount += 1
+                
+
+            #pick
+            recursion(index+1,currentString)
+
+
+           
+            
+
 
         for i in range(len(s)):
-            expandODD(i)
-            expandEVEN(i)
-
-        return count
-
-
-
-
-        
+            recursion(i,"")
+        return answerCount
+            
