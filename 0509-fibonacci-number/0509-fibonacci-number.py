@@ -1,5 +1,17 @@
 class Solution:
     def fib(self, n: int) -> int:
+        # memo
+        '''
+        def recursion(index):
+            if index == 0:
+                return 0
+            if index == 1:
+                return 1
+            return recursion(index-1) + recursion(index-2)
+        return recursion(n)
+        '''
+
+        #tabulation
         if n == 0:
             return 0
         if n == 1:
@@ -12,3 +24,13 @@ class Solution:
         return dp[-1]
 
 
+        
+
+
+
+
+
+
+
+
+        
