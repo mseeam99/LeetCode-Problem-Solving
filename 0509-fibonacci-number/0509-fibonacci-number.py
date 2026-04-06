@@ -2,7 +2,7 @@ class Solution:
     def fib(self, n: int) -> int:
         # memo
 
-        
+        '''
         memo = {}
         def recursion(index):
             if index in memo:
@@ -14,7 +14,7 @@ class Solution:
             memo[index] = recursion(index-1) + recursion(index-2)
             return memo[index]
         return recursion(n)
-       
+        '''
 
         #tabulation
         if n == 0:
