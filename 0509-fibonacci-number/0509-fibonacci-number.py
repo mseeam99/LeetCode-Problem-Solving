@@ -1,15 +1,20 @@
 class Solution:
     def fib(self, n: int) -> int:
         # memo
-        '''
+
+        
+        memo = {}
         def recursion(index):
+            if index in memo:
+                return memo[index]
             if index == 0:
                 return 0
             if index == 1:
                 return 1
-            return recursion(index-1) + recursion(index-2)
+            memo[index] = recursion(index-1) + recursion(index-2)
+            return memo[index]
         return recursion(n)
-        '''
+       
 
         #tabulation
         if n == 0:
