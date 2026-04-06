@@ -1,7 +1,6 @@
 class Solution:
     def fib(self, n: int) -> int:
         # memo
-
         '''
         memo = {}
         def recursion(index):
