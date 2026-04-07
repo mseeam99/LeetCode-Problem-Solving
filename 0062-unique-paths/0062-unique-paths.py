@@ -51,27 +51,23 @@ class Solution:
         '''
 
 
-
-        dp = []
-        for i in range(m):
-            tempDp = [0]*n
-            dp.append(tempDp)
-
-        for i in range(len(dp)):
-            for j in range(len(dp[i])):
-                if i == 0 or j == 0:
-                    dp[i][j] = 1
-                else:
-                    dp[i][j] = 0
+        prev = [0] * n
 
         for i in range(m):
+            curr = [0] * n
             for j in range(n):
-                if i == 0 or j == 0:
-                    continue
-                else:
-                    dp[i][j] = dp[i][j-1] + dp[i-1][j]
 
-        return dp[m-1][n-1]
+                if i == 0 or j == 0:
+                    curr[j] = 1
+                else:
+                    up   = prev[j]
+                    left = curr[j-1]
+
+                    curr[j] =  up + left
+
+            prev = curr
+
+        return max(prev)
 
 
 
