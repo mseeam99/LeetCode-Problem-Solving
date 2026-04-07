@@ -5,18 +5,18 @@ class Solution:
 
         def recursion(row,col):
 
-            if row == m-1 and col == n-1:
+            if row == 0 and col == 0:
                 return 1
 
-            if row >= m or col >= n:
+            if row < 0 or col < 0:
                 return 0
             
             if (row,col) in memo:
                 return memo[row,col]
         
-            right = recursion(row,col+1)
-            down = recursion(row+1,col)
+            right = recursion(row,col-1)
+            down = recursion(row-1,col)
             memo[(row,col)] = right+down
             return right+down
 
-        return recursion(0,0)
+        return recursion(m-1,n-1)
