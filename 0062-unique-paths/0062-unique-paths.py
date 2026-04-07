@@ -49,24 +49,17 @@ class Solution:
 
         return ans
         '''
-
-
         prev = [0] * n
-
         for i in range(m):
             curr = [0] * n
             for j in range(n):
-
                 if i == 0 or j == 0:
                     curr[j] = 1
                 else:
                     up   = prev[j]
                     left = curr[j-1]
-
                     curr[j] =  up + left
-
             prev = curr
-
         return max(prev)
 
 
