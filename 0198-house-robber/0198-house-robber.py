@@ -16,20 +16,12 @@ class Solution:
         return max(startAtZero,startAtOne)
         '''
 
-
         dp = [0] * (len(nums)+1)
         for i in range(len(nums)):
             pick    = nums[i] + dp[i-2]
             notPick = 0       + dp[i-1]
             maxValue = max(pick,notPick)
             dp[i] = maxValue
-
-
-
-
-
-
-
         return dp[len(nums)-1]
 
             
