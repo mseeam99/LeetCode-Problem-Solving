@@ -33,9 +33,14 @@ class Solution:
                 return 1
             if row < 0 or col < 0:
                 return 0
+                
             left = recursion(row,col-1)
             up   = recursion(row-1,col)
+
             dp[row][col] = left+up
             return left+up
+        
+        for i in range(len(dp)):
+            print(dp[i])
 
         return recursion(m-1,n-1)
