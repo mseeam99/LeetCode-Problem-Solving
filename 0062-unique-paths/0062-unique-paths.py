@@ -29,18 +29,22 @@ class Solution:
         def recursion(row,col):
             if dp[row][col] != -1:
                 return dp[row][col]
+
             if row == 0 and col == 0:
                 return 1
+
             if row < 0 or col < 0:
                 return 0
-                
+
             left = recursion(row,col-1)
             up   = recursion(row-1,col)
 
             dp[row][col] = left+up
             return left+up
         
+        ans = recursion(m-1,n-1)
+        
         for i in range(len(dp)):
             print(dp[i])
 
-        return recursion(m-1,n-1)
+        return ans
