@@ -2,7 +2,6 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
 
         '''
-
         memo = {}
         def recursion(index,zeroPicked):
             nonlocal memo
@@ -25,13 +24,10 @@ class Solution:
             return max(pick, notPick)
         return recursion(0,False)
         '''
-
         if len(nums) == 1:
             return nums[0]
-
         dp1 = [0]*(len(nums)+1)
         dp2 = [0]*(len(nums)+1)
-
         for i in range(len(nums)):
             pick,notPick = 0,0
             if i != len(nums)-1:
@@ -39,15 +35,12 @@ class Solution:
             notPick = 0 + dp1[i-1]
             maxValue = max(pick,notPick)
             dp1[i] = maxValue
-        
         for i in range(1,len(nums)):
             pick,notPick = 0,0
             pick    = nums[i] + dp2[i-2]
             notPick = 0 + dp2[i-1]
             maxValue = max(pick,notPick)
             dp2[i] = maxValue
-        
-
         return max(dp1[len(nums)-1],dp2[len(nums)-1])
             
 
