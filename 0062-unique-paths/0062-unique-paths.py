@@ -53,7 +53,6 @@ class Solution:
         for i in range(m):
             curr = [0] * n
             for j in range(n):
-                
                 if i == 0 and j == 0:
                     curr[j] = 1
                 else:
