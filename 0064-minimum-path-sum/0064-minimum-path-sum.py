@@ -1,8 +1,7 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-
+        '''
         memo = {}
-
         def recursion(row,col):
             nonlocal memo
             if row < 0 or col < 0:
@@ -16,6 +15,48 @@ class Solution:
             memo[(row,col)] = min(up,left)
             return memo[(row,col)]
         return recursion(len(grid)-1,len(grid[0])-1)
+        '''
+        
+        dp = []
+        for i in range(len(grid)):
+            currentRow = [0] * len(grid[i])
+            dp.append(currentRow)
+
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+
+                if i == 0 and j == 0:
+                    dp[i][j] = grid[i][j]
+                    continue
+
+                if i-1 < 0:
+                    upMax = float("inf")
+                else:
+                    upMax = dp[i-1][j]
+
+                if j-1 < 0:
+                    leftMax = float("inf")
+                else:
+                    leftMax = dp[i][j-1]
+                
+                up   = grid[i][j] + upMax
+                left = grid[i][j] + leftMax
+                dp[i][j] = min(up,left)
+
+        return dp[len(dp)-1][len(dp[0])-1]
+                
+               
+
+                    
+
+
+
+
+        
+
+        
+
+
 
 
         
