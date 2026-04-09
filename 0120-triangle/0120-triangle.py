@@ -1,28 +1,50 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
 
-        outerRow = [0] * len(triangle[-1])
+        dp = []
+        for i in range(len(triangle)):
+            tempArray = [0] * len(triangle[i])
+            dp.append(tempArray)
+        for i in range(len(dp)):
+            for j in range(len(dp[i])):
+                dp[i][j] = 0
+        dp[0][0] = triangle[0][0]
 
-        for row in range(len(triangle)-1,-1,-1):
+        for i in range(len(dp)):
+            print(dp[i])
 
-            currentRow = triangle[row]
 
-            for col in range(len(triangle[row])-1,-1,-1):
 
-                if row == len(triangle)-1 and col == len(triangle[-1])-1:
-                    continue
 
-                elif row == len(triangle)-1:
-                    outerRow = currentRow
-                    continue
 
-                down_right_diagonal, down = 0,0
 
-                down = outerRow[col]
-                down_right_diagonal = outerRow[col+1]
-                minimumNeighbour = min(down,down_right_diagonal)
-                currentRow[col] += minimumNeighbour
 
-            outerRow = currentRow
 
-        return outerRow[0]
+
+        for i in range(1,len(triangle)):
+
+            for j in range(len(triangle[i])):
+
+                if i-1 >= 0 and i-1 <= len(triangle)-1 and j >= 0 and j <= len(triangle[i-1])-1:
+                    straightUp = dp[i-1][j]
+                else:
+                    straightUp = float("inf")
+
+                if i-1 >= 0 and i-1 <= len(triangle)-1 and j-1 >= 0 and j-1 <= len(triangle[i-1])-1:
+                    rightSidUp =  dp[i-1][j-1]
+                else:
+                    rightSidUp =  float("inf")
+
+                minPath = triangle[i][j] + min(straightUp,rightSidUp)
+
+                dp[i][j] = minPath
+                
+
+        print()
+        for i in range(len(dp)):
+            print(dp[i])
+
+        return min(dp[-1])
+
+
+        
