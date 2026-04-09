@@ -42,35 +42,21 @@ class Solution:
                 dp[i][j] = min(up,left)
         return dp[len(dp)-1][len(dp[0])-1]
         '''
-
-
         
         #Tabulation
-
         prev = grid[0]
         for i in range(1,len(prev)):
-
             prev[i] += prev[i-1]
-        
         for i in range(1,len(grid)):
-
             temp = [0] * len(grid[i])
-
             for j in range(len(grid[i])):
-
                 if j == 0:
                     temp[j] = grid[i][j] + prev[j]
                     continue
-            
                 up   = grid[i][j] + prev[j]
                 left = grid[i][j] + temp[j-1]
-                
                 temp[j] = min(up,left)
-            
             prev = temp
-
-        print(prev)
-
         return prev[-1]
 
 
