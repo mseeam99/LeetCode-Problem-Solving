@@ -47,8 +47,7 @@ class Solution:
         
         #Tabulation
 
-        prev = grid[0][:]
-
+        prev = grid[0]
         for i in range(1,len(prev)):
 
             prev[i] += prev[i-1]
