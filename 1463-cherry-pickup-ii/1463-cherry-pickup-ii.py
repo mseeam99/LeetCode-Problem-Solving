@@ -10,16 +10,10 @@ class Solution:
             if (row,col1,col2) in memo:
                 return memo[(row,col1,col2)]
 
-           
-
-            if row >= len(grid) or col1 < 0 or col1 >= len(grid[0]) or col2 < 0 or col2 >= len(grid[0]):
+            if row < 0 or row >= len(grid) or col1 < 0 or col1 >= len(grid[0]) or col2 < 0 or col2 >= len(grid[0]):
                 return 0
         
-            if row == len(grid)-1:
-                if col1 == col2:
-                    return grid[row][col1]                
-                else:
-                    return grid[row][col1] + grid[row][col2]
+
 
             maxVal = float("-inf")
             
