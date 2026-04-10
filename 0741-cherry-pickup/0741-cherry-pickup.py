@@ -1,37 +1,40 @@
 class Solution:
     def cherryPickup(self, grid: List[List[int]]) -> int:
-
+        n = len(grid)
         memo = {}
-       
-        def recursion(r1,c1,r2):
 
-            c2 = (r1+c1) - r2
+        def dfs(r1, c1, r2):
+            c2 = r1 + c1 - r2
 
-            if r1 >= len(grid) or c1 >= len(grid) or r2 >= len(grid) or c2 >= len(grid):
-                return (float("-inf"))
-            
+            # out of bounds
+            if r1 >= n or c1 >= n or r2 >= n or c2 >= n:
+                return float("-inf")
+
+            # thorn cell
             if grid[r1][c1] == -1 or grid[r2][c2] == -1:
-                return (float("-inf"))
+                return float("-inf")
 
-            if (r1,c1,r2) in memo:
-                return memo[(r1,c1,r2)]
+            # reached destination
+            if r1 == n - 1 and c1 == n - 1:
+                return grid[r1][c1]
 
-            if (r1 == len(grid)-1 and c1 == len(grid)-1) or (r2 == len(grid)-1 and c2 == len(grid)-1):
-                return grid[len(grid)-1][len(grid)-1]
+            if (r1, c1, r2) in memo:
+                return memo[(r1, c1, r2)]
 
-            gain = grid[r1][c1]
-            if (r1, c1) != (r2, c2):
-                gain += grid[r2][c2]
+            cherries = grid[r1][c1]
 
-            best = max(
-                recursion(r1+1,c1,r2+1),    # down, down
-                recursion(r1+1,c1,r2),      # down, right
-                recursion(r1,c1+1,r2+1),    # right, down
-                recursion(r1,c1+1,r2),      # right, right
+            if r1 != r2 or c1 != c2:
+                cherries += grid[r2][c2]
+
+            bestNext = max(
+                dfs(r1 + 1, c1, r2 + 1),  # down, down
+                dfs(r1 + 1, c1, r2),      # down, right
+                dfs(r1, c1 + 1, r2 + 1),  # right, down
+                dfs(r1, c1 + 1, r2)       # right, right
             )
 
-            memo[(r1,c1,r2)] = gain + best
-            return gain + best
+            memo[(r1, c1, r2)] = cherries + bestNext
+            return memo[(r1, c1, r2)]
 
-        answer = recursion(0,0,0)
-        return max(0,answer)
+        ans = dfs(0, 0, 0)
+        return max(0, ans)
