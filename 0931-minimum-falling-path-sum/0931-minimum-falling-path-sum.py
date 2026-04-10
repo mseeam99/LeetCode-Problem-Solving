@@ -24,13 +24,11 @@ class Solution:
                 else:
                     upRight = float("inf")
 
-
                 minValue = min(upLeft,upStraight,upRight)
-
                 temp[j] = minValue
-            
-            prev = temp
 
+            prev = temp
+            
         return min(prev)
 
 
