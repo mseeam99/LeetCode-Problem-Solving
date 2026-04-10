@@ -20,26 +20,4 @@ class Solution:
             memo[(row,col1,col2)] = maxVal
             return maxVal
         return recurison(0,0,len(grid[0])-1)
-
-
-
-                    
-
-
-
-
-
-
-
-
-
-
-                    
-
-
-
-
-
-
-
         
