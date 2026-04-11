@@ -14,9 +14,6 @@ class Solution:
 
         dp[0][0] = True
         
-        
-        
-
         for i in range(1,len(nums)):
             for j in range(1,target+1):
 
