@@ -4,7 +4,6 @@ class Solution:
         pointerOne = len(num1)-1
         pointerTwo = len(num2)-1
 
-        
         carry = 0
         answer = ""
         
@@ -22,13 +21,9 @@ class Solution:
             else:
                 n2 = 0
                 
-
             currentSum = n1 + n2
-
             currentSum += carry
             carry = 0
-
-            
 
             if int(currentSum) <= 9:
                 answer += str(int(currentSum))
@@ -38,7 +33,6 @@ class Solution:
             
             pointerOne-=1
             pointerTwo-=1
-
         
         if carry != 0:
             answer += str(carry)
