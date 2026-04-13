@@ -54,13 +54,12 @@ class Solution:
             return ans
         '''
 
-        prev = [0]*(amount+1)
+        prev = [1]*(amount+1)
         for t in range(amount + 1):
             if t % coins[0] == 0:
                 prev[t] = t // coins[0]
             else:
                 prev[t] = float("inf")
-
         for i in range(1,len(coins)):
             curr = [0]*(amount+1)
             curr[0] = 1
@@ -70,9 +69,7 @@ class Solution:
                     pick = 1 + curr[j-coins[i]]
                 notPick = 0 + prev[j]
                 curr[j] = min(pick,notPick)
-
             prev = curr
-            
         ans = prev[-1]  
         if ans == float("inf"):
             return -1
