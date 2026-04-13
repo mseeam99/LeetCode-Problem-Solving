@@ -33,7 +33,7 @@ class Solution:
                 tempArray[0] = 1
             dp.append(tempArray)
         
-        for t in range(0,amount+1):
+        for t in range(0,len(dp[0])):
             if t % coins[0] == 0:
                 dp[0][t] = t // coins[0]
             else:
