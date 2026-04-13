@@ -1,38 +1,51 @@
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
 
-        answer = ""
-        carry = 0
+        pointerOne = len(num1)-1
+        pointerTwo = len(num2)-1
 
-        length1 = len(num1)-1
-        length2 = len(num2)-1
-
-        while length1 >= 0 or length2 >= 0:
-            
-            if length1 >= 0:
-                digitOne = int(num1[length1])
-            else:
-                digitOne = 0
-
-            if length2 >= 0:
-                digitTwo = int(num2[length2])
-            else:
-                digitTwo = 0
-
-            addition = digitOne + digitTwo + carry
-            carry = addition // 10
-            remainder = addition % 10
-
-            answer+=str(remainder)
-            length1-=1
-            length2-=1
         
-        if carry:
-            answer+=str(carry)
+        carry = 0
+        answer = ""
+        
+        while pointerOne >= 0 or pointerTwo >= 0 or carry:
+
+            n1, n2 = 0,0
+
+            if pointerOne >= 0:
+                n1 = int(num1[pointerOne])
+            else:
+                n1 = 0
+            
+            if pointerTwo >= 0:
+                n2 = int(num2[pointerTwo])
+            else:
+                n2 = 0
+                
+
+            currentSum = n1 + n2
+
+            currentSum += carry
+            carry = 0
+
+            
+
+            if int(currentSum) <= 9:
+                answer += str(int(currentSum))
+            elif int(currentSum) >= 10:
+                answer += str(int(currentSum) % 10)
+                carry = floor(int(currentSum)/10)
+            
+            pointerOne-=1
+            pointerTwo-=1
+
+        
+        if carry != 0:
+            answer += str(carry)
 
         return answer[::-1]
 
-
+        
 
 
 
