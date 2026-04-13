@@ -54,14 +54,12 @@ class Solution:
             return ans
         '''
 
-        prev = [1]*(amount+1)
-
+        prev = [0]*(amount+1)
         for t in range(amount + 1):
             if t % coins[0] == 0:
                 prev[t] = t // coins[0]
             else:
                 prev[t] = float("inf")
-
 
         for i in range(1,len(coins)):
             curr = [0]*(amount+1)
