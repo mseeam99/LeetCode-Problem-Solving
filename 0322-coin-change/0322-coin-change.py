@@ -22,7 +22,7 @@ class Solution:
         else:
             return ans
         '''
-
+        '''
         dp = []
         for i in range(len(coins)):
             tempArray = []
@@ -47,9 +47,35 @@ class Solution:
                 notPick = 0 + dp[i-1][j]
                 dp[i][j] = min(pick,notPick)
             
-       # print(dp)
-
         ans = dp[-1][-1]        
+        if ans == float("inf"):
+            return -1
+        else:
+            return ans
+        '''
+
+        prev = [1]*(amount+1)
+
+        for t in range(amount + 1):
+            if t % coins[0] == 0:
+                prev[t] = t // coins[0]
+            else:
+                prev[t] = float("inf")
+
+
+        for i in range(1,len(coins)):
+            curr = [0]*(amount+1)
+            curr[0] = 1
+            for j in range(amount+1):
+                pick = float("inf")
+                if coins[i] <= j:
+                    pick = 1 + curr[j-coins[i]]
+                notPick = 0 + prev[j]
+                curr[j] = min(pick,notPick)
+
+            prev = curr
+            
+        ans = prev[-1]  
         if ans == float("inf"):
             return -1
         else:
