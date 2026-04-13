@@ -11,8 +11,3 @@ class Solution:
                 secondIndex = hashMap[diff]
                 if secondIndex > i:
                     return [i,hashMap[diff]]
-            
-
-
-
-        
