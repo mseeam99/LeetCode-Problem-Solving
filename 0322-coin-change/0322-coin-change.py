@@ -1,28 +1,101 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-
+        '''
         memo = {}
-
         def recursion(index,currentSum):
             nonlocal memo
-            if index >= len(coins) or currentSum > amount:
-                return float("inf")
-            
-            if currentSum == amount:
-                return 0
-            
-            if (index,currentSum) in memo:
-                return memo[(index,currentSum)]
-
-            pick = 1 + recursion(index,currentSum+coins[index]) 
-            notPick = 0 + recursion(index+1,currentSum+0)
-
+            if index == 0:
+                if currentSum % coins[0] == 0 :
+                    return currentSum // coins[0]
+                else:
+                    return float("inf")
+            pick = float("inf")
+            if coins[index] <= currentSum:
+                pick = 1 + recursion(index,currentSum-coins[index]) 
+            notPick = 0 + recursion(index-1,currentSum)
             minCoins = min(pick,notPick)
             memo[(index,currentSum)] = minCoins
             return minCoins
-
-        ans = recursion(0,0)
+        ans = recursion(len(coins)-1,amount)
         if ans == float("inf"):
             return -1
         else:
             return ans
+        '''
+
+        dp = []
+        for i in range(len(coins)):
+            tempArray = [0]*(amount+1)
+            tempArray[0] = 1
+            dp.append(tempArray)
+        
+        for t in range(0,amount+1):
+            if t % coins[0] == 0:
+                dp[0][t] = t // coins[0]
+            else:
+                dp[0][t] = float("inf")
+
+       # index, currentSum
+       #  i       j
+
+        for i in range(1,len(coins)):
+            for j in range(amount+1):
+
+                pick = float("inf")
+
+                if coins[i] <= j:
+                    pick = 1 + dp[i][j-coins[i]]
+
+                notPick = 0 + dp[i-1][j]
+
+                dp[i][j] = min(pick,notPick)
+
+            
+       # print(dp)
+
+        ans = dp[-1][-1]        
+        if ans == float("inf"):
+            return -1
+        else:
+            return ans
+                
+
+                
+
+                
+
+
+
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
