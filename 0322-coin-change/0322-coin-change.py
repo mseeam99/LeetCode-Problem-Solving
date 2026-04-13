@@ -25,9 +25,15 @@ class Solution:
 
         dp = []
         for i in range(len(coins)):
-            tempArray = [0]*(amount+1)
-            tempArray[0] = 1
+            tempArray = []
+            if i == 0:
+                tempArray = [1]*(amount+1)
+            else:
+                tempArray = [0]*(amount+1)
+                tempArray[0] = 1
             dp.append(tempArray)
+        
+        
         
         for t in range(0,amount+1):
             if t % coins[0] == 0:
