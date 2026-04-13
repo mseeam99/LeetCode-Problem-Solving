@@ -33,29 +33,19 @@ class Solution:
                 tempArray[0] = 1
             dp.append(tempArray)
         
-        
-        
         for t in range(0,amount+1):
             if t % coins[0] == 0:
                 dp[0][t] = t // coins[0]
             else:
                 dp[0][t] = float("inf")
 
-       # index, currentSum
-       #  i       j
-
         for i in range(1,len(coins)):
             for j in range(amount+1):
-
                 pick = float("inf")
-
                 if coins[i] <= j:
                     pick = 1 + dp[i][j-coins[i]]
-
                 notPick = 0 + dp[i-1][j]
-
                 dp[i][j] = min(pick,notPick)
-
             
        # print(dp)
 
