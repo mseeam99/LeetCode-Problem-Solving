@@ -34,19 +34,13 @@ class Solution:
             if t % coins[0] == 0:
                 dp[0][t] = 1
 
-        
         for i in range(1,len(dp)):
-
             for j in range(amount+1):
-
                 pick = 0
                 if coins[i] <= j:
                     pick    = dp[i][j - coins[i]]
                 notPick = dp[i-1][j]
-
                 dp[i][j] = pick + notPick
-
-        
         return dp[-1][amount]
                 
 
