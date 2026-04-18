@@ -23,7 +23,9 @@ class Solution:
                     
 
 
-        
+        for i in range(len(dp)):
+            print(dp[i])
+
             
 
         return dp[len(text1)][len(text2)]
