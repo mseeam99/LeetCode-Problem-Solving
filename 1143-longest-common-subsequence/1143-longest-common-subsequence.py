@@ -1,30 +1,32 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
 
-        memo = {}
+        dp = []
+        for i in range(len(text1)+1):
+            newArray = [0]*(len(text2)+1)
+            dp.append(newArray)
+        
+        for i in range(1,len(text1)+1):
 
-        def recursion(indexOfText1, indexOfText2):
+            for j in range(1,len(text2)+1):
 
-            nonlocal memo
+                if (text1[i-1] == text2[j-1]):
+                    val = (1 + dp[i-1][j-1])
+                    dp[i][j] = val
+                    
 
-            if (indexOfText1 < 0) or (indexOfText2 < 0):
-                return 0
+                else:
+                    x = dp[i][j-1]
+                    y = dp[i-1][j]
+                    val = max(x,y)
+                    dp[i][j] = val
+                    
 
-            if (indexOfText1, indexOfText2) in memo:
-                return memo[(indexOfText1, indexOfText2)]
+
+        
             
-            if (text1[indexOfText1] == text2[indexOfText2]):
-                val = (1 + recursion(indexOfText1-1, indexOfText2-1))
-                memo[(indexOfText1, indexOfText2)] = val
-                return val
-            else:
-                x = recursion(indexOfText1, indexOfText2-1)
-                y = recursion(indexOfText1-1, indexOfText2)
-                val = max(x,y)
-                memo[(indexOfText1, indexOfText2)] = val
-                return val
 
-        return recursion(len(text1)-1,len(text2)-1)
+        return dp[len(text1)][len(text2)]
             
 
 
