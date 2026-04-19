@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1165-single-row-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1165-single-row-keyboard) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1250-longest-common-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-cherry-pickup-ii) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
