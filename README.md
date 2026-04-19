@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0647-palindromic-substrings) |
