@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1078-occurrences-after-bigram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1078-occurrences-after-bigram) |
+| [1092-shortest-common-supersequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1119-remove-vowels-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1119-remove-vowels-from-a-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
