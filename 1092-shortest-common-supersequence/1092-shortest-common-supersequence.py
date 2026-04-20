@@ -18,7 +18,6 @@ class Solution:
                 notPick = max(dp[i-1][j],dp[i][j-1])
                 dp[i][j] = max(pick,notPick)
         
-
         i = len(dp)-1
         j = len(dp[0])-1
         string = ""
@@ -35,7 +34,6 @@ class Solution:
                 string += str2[j-1]
                 j -= 1
         
-
         while i > 0:
             string += str1[i-1]
             i -= 1
