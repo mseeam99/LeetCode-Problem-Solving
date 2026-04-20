@@ -44,8 +44,6 @@ class Solution:
             string += str2[j-1]
             j -= 1
 
-            
-
         return string[::-1]
 
 
