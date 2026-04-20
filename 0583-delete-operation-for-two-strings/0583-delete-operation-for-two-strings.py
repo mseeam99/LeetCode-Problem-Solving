@@ -8,8 +8,6 @@ class Solution:
 
         for i in range(1,len(word1)+1):
 
-            temp = [0]*max(len(word1),len(word1))
-
             for j in range(1,len(word2)+1):
 
                 pick = float("-inf")
@@ -20,13 +18,9 @@ class Solution:
 
                 dp[i][j] = max(pick,notPick)
 
-
-
         removalCount  = len(word1) - dp[len(word1)][len(word2)]
         additionCount = len(word2) - dp[len(word1)][len(word2)]
-
         totalChanges = abs(removalCount + additionCount)
-
         return totalChanges
 
                 
