@@ -1,21 +1,37 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        memo = {}
-        answer = 0
-        def recursion(indexOne,indexTwo):
-            nonlocal answer
-            if (indexOne,indexTwo) in memo:
-                return memo[(indexOne,indexTwo)]
-            if indexOne >= len(word1) or indexTwo >= len(word2):
-                return 0
-            elif word1[indexOne] == word2[indexTwo]:
-                return (1 + recursion(indexOne+1,indexTwo+1))
-            else:
-                x = recursion(indexOne+1,indexTwo)
-                y = recursion(indexOne,indexTwo+1)
-                memo[(indexOne,indexTwo)] = max(x,y)
-                return max(x,y)
-        answer = recursion(0,0)
-        return (len(word1) + len(word2) - answer*2)
+
+        dp = []
+        for i in range(len(word1)+1):
+            tempArray = [0]*(len(word2)+1)
+            dp.append(tempArray)
+
+
+        for i in range(1,len(word1)+1):
+
+
+            for j in range(1,len(word2)+1):
+
+
+                pick = float("-inf")
+                if i-1 >= 0 and j-1 >= 0 and word1[i-1] == word2[j-1]:
+                    pick    = 1 + dp[i-1][j-1]
+
+                notPick = 0 + max(dp[i-1][j],dp[i][j-1])
+
+                dp[i][j] = max(pick,notPick)
+
+
+        print(dp)
+
+        removalCount  = len(word1) - dp[len(word1)][len(word2)]
+        additionCount = len(word2) - dp[len(word1)][len(word2)]
+
+        totalChanges = abs(removalCount + additionCount)
+
+        return totalChanges
+
+                
+
 
         
