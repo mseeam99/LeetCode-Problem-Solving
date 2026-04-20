@@ -6,12 +6,11 @@ class Solution:
             tempArray = [0]*(len(word2)+1)
             dp.append(tempArray)
 
-
         for i in range(1,len(word1)+1):
 
+            temp = [0]*max(len(word1),len(word1))
 
             for j in range(1,len(word2)+1):
-
 
                 pick = float("-inf")
                 if i-1 >= 0 and j-1 >= 0 and word1[i-1] == word2[j-1]:
@@ -22,7 +21,6 @@ class Solution:
                 dp[i][j] = max(pick,notPick)
 
 
-        print(dp)
 
         removalCount  = len(word1) - dp[len(word1)][len(word2)]
         additionCount = len(word2) - dp[len(word1)][len(word2)]
