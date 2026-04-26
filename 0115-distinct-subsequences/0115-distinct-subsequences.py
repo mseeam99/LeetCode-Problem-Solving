@@ -19,8 +19,7 @@ class Solution:
                     return dp[index1][index2]
                 return recursion(len(s),len(t))
         '''
-                
-
+            
         dp = []
         for i in range(len(s)+1):
             tempArray = [0] * (len(t)+1)
@@ -36,7 +35,6 @@ class Solution:
                     pick = dp[i-1][j-1] + dp[i-1][j]
                 else:
                     notPick = dp[i-1][j]
-
                 dp[i][j] = pick + notPick
 
         return dp[len(s)][len(t)]
