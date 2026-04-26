@@ -25,8 +25,7 @@ class Solution:
         for i in range(len(s)+1):
             tempArray = [0] * (len(t)+1)
             dp.append(tempArray)
-
-        
+    
         for i in range(len(s)+1):
             dp[i][0] = 1
 
@@ -40,7 +39,7 @@ class Solution:
 
                 dp[i][j] = pick + notPick
 
-        return dp[-1][-1]
+        return dp[len(s)][len(t)]
 
 
 
