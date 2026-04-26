@@ -1,13 +1,12 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
+
         if (len(word1) == 0 and len(word2) > 0) or (len(word2) == 0 and len(word1) > 0):
             return len(max(word1,word2))
 
-        if not word1 or not word2:
+        if not word1 and not word2:
             return 0
         
-
-
         dp = []
         for i in range(len(word1)):
             tempArray = [0] * (len(word2))
