@@ -26,7 +26,6 @@ class Solution:
                         dp[index][ifBuyingPossible][capacity] = result
         return dp[0][1][k]   
 
-
         '''
         memo = {}
         
