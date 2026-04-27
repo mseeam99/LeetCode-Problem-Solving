@@ -1,6 +1,5 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-
         dp = []
         for i in range(len(prices)+1):
             SecondDimension = []
@@ -10,7 +9,6 @@ class Solution:
                     thirdDimension.append(0)
                 SecondDimension.append(thirdDimension)
             dp.append(SecondDimension)
-
         for index in range(len(prices)-1,-1,-1):
             for ifBuyingPossible in range(2):
                 for capacity in range(1,3):
@@ -24,8 +22,7 @@ class Solution:
                         notPick = 0 + dp[index+1][0][capacity]
                         result = max(pick,notPick)
                         dp[index][ifBuyingPossible][capacity] = result
-        return dp[0][1][2]
-                       
+        return dp[0][1][2]                    
 '''
         def recursion(index, ifBuyingPossible, capacity):
             if dp[index][ifBuyingPossible][capacity] != 0:
