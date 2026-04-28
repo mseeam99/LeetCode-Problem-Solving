@@ -16,28 +16,18 @@ class Solution:
                     notPick = 0 + dp[i+1][0]
                     dp[i][j] =  max(pick,notPick)
         return dp[0][1]
+
 '''
         def recursion(index,ifAllowedToBuy):
-
             if index >= len(prices):
                 return 0
-
             if ifAllowedToBuy == 1: # buying
-               
                 pick = -prices[index] + recursion(index+1,0)
                 notPick = 0 + recursion(index+1,1)
                 return max(pick,notPick)
-                
-
             elif ifAllowedToBuy == 0: # selling
                 pick = (+prices[index] + recursion(index+1,1)) - fee
                 notPick = 0 + recursion(index+1,0)
                 return max(pick,notPick)
-
-            
-            
         return recursion(0,1)
-
-
-
 '''
