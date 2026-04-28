@@ -10,14 +10,12 @@ class Solution:
 
         for index in range(len(nums)-1,-1,-1):
             for prevIdx in range(index-1,-2,-1):
-
                 notPick = nextArr[prevIdx+1]
                 pick = 0
                 if prevIdx == -1 or nums[index] > nums[prevIdx]:
                     pick = 1 + nextArr[index + 1]
                 currArr[prevIdx+1] = max(pick, notPick)
             nextArr = currArr 
-            
         return nextArr[0]
 
 '''
