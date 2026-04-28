@@ -1,11 +1,21 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        n = len(nums)
+        dp = []
+        for i in range(len(nums)+1):
+            tempArray = [0] * (len(nums)+1)
+            dp.append(tempArray)
+        for index in range(len(nums)-1,-1,-1):
+            for prevIdx in range(index-1,-2,-1):
+                notPick = dp[index + 1][prevIdx+1]
+                pick = 0
+                if prevIdx == -1 or nums[index] > nums[prevIdx]:
+                    pick = 1 + dp[index + 1][index + 1]
+                dp[index][prevIdx+1] = max(pick, notPick)
+        return dp[0][0]
 
-        dp = [[-1] * (n + 1) for _ in range(n + 1)]
-
+'''
         def recursion(index, prevIdx):
-            if index == n:
+            if index == len(nums):
                 return 0
 
             prevKey = prevIdx + 1  
@@ -23,3 +33,4 @@ class Solution:
             return dp[index][prevKey]
 
         return recursion(0, -1)
+'''
