@@ -4,14 +4,21 @@ class Solution:
         for i in range(len(nums)+1):
             tempArray = [0] * (len(nums)+1)
             dp.append(tempArray)
+        
+        nextArr = [0]*(len(nums)+1)
+        currArr = [0]*(len(nums)+1)
+
         for index in range(len(nums)-1,-1,-1):
             for prevIdx in range(index-1,-2,-1):
-                notPick = dp[index + 1][prevIdx+1]
+
+                notPick = nextArr[prevIdx+1]
                 pick = 0
                 if prevIdx == -1 or nums[index] > nums[prevIdx]:
-                    pick = 1 + dp[index + 1][index + 1]
-                dp[index][prevIdx+1] = max(pick, notPick)
-        return dp[0][0]
+                    pick = 1 + nextArr[index + 1]
+                currArr[prevIdx+1] = max(pick, notPick)
+            nextArr = currArr 
+            
+        return nextArr[0]
 
 '''
         def recursion(index, prevIdx):
