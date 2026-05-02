@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-number-of-closed-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1380-number-of-closed-islands) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1427-perform-string-shifts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-perform-string-shifts) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-cherry-pickup-ii) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
