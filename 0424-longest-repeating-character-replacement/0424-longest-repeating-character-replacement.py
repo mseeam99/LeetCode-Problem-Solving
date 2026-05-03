@@ -22,7 +22,7 @@ class Solution:
                 hashMap[s[leftPointer]] -= 1
                 leftPointer += 1
 
-            maxLength = rightPointer + 1 - leftPointer
+            maxLength = max(maxLength,rightPointer + 1 - leftPointer)
             rightPointer += 1
 
         return maxLength
