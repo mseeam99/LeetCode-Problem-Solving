@@ -8,7 +8,6 @@ class Solution:
 
         maxFrequency = 0
         maxLength = 0
-        longest_substring_length = 0
 
         while rightPointer <= len(s)-1:
 
@@ -19,8 +18,7 @@ class Solution:
                 hashMap[s[rightPointer]] += 1
                 maxFrequency = max(maxFrequency,max(hashMap.values()))
 
-            while (rightPointer + 1 - leftPointer - maxFrequency > k):
-                
+            while (rightPointer - leftPointer + 1 - maxFrequency > k):
                 hashMap[s[leftPointer]] -= 1
                 leftPointer += 1
 
