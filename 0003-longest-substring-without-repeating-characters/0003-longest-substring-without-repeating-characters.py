@@ -1,7 +1,7 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
 
-        mySet = set()
+        hashMap = {}
 
         maxLength = 0
         leftPointer = 0
@@ -9,14 +9,18 @@ class Solution:
 
         while rightPointer <= len(s)-1:
 
-            while s[rightPointer] in mySet:
-                mySet.remove(s[leftPointer])
-                leftPointer += 1
-
-            mySet.add(s[rightPointer])
+            hashMap[s[rightPointer]] = hashMap.get(s[rightPointer], 0) + 1
             
+            
+            while hashMap[s[rightPointer]] > 1:
+                hashMap[s[leftPointer]] -= 1
+                if hashMap[s[leftPointer]] == 0:
+                    del hashMap[s[leftPointer]]
+                leftPointer += 1
+            
+ 
             maxLength = max(maxLength,rightPointer-leftPointer+1)
-            rightPointer+=1
+            rightPointer +=1 
 
         return maxLength
 
