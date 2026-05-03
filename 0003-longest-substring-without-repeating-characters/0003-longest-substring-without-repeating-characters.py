@@ -9,8 +9,12 @@ class Solution:
 
         while rightPointer <= len(s)-1:
 
-            hashMap[s[rightPointer]] = hashMap.get(s[rightPointer], 0) + 1
-            
+            if s[rightPointer] not in hashMap: 
+                hashMap[s[rightPointer]] = 1 
+            #    rightPointer+=1 
+            else: 
+                hashMap[s[rightPointer]] += 1 
+                #rightPointer+=1
             
             while hashMap[s[rightPointer]] > 1:
                 hashMap[s[leftPointer]] -= 1
@@ -18,7 +22,6 @@ class Solution:
                     del hashMap[s[leftPointer]]
                 leftPointer += 1
             
- 
             maxLength = max(maxLength,rightPointer-leftPointer+1)
             rightPointer +=1 
 
