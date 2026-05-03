@@ -23,7 +23,4 @@ class Solution:
             maxLength = max(maxLength,rightPointer-leftPointer+1)
             rightPointer +=1 
 
-        return maxLength
-
-            
-        
+        return maxLength 
