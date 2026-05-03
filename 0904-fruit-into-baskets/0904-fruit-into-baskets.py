@@ -22,11 +22,9 @@ class Solution:
                     if hashMap[fruits[leftPointer]] == 0:
                         del hashMap[fruits[leftPointer]] 
                 leftPointer += 1
-            
-
+    
             maxLength = max(maxLength, rightPointer-leftPointer + 1)
-        
-
+    
         return maxLength-1
 
 
