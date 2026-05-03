@@ -1,16 +1,13 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
 
-
         leftPointer = 0
         rightPointer = 0
 
         hashMap = {}
         maxLength = 0
 
-
         while rightPointer <= len(fruits)-1:
-
 
             if fruits[rightPointer] not in hashMap:
                 hashMap[fruits[rightPointer]] = 1
