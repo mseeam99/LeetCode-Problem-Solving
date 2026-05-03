@@ -9,7 +9,6 @@ class Solution:
 
         while rightPointer <= len(s)-1:
 
-        
             if s[rightPointer] not in hashMap:
                 hashMap[s[rightPointer]] = 1
                 rightPointer += 1
