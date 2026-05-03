@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0924-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
