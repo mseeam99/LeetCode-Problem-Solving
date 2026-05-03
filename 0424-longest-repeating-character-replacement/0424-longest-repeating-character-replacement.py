@@ -19,19 +19,15 @@ class Solution:
                 hashMap[s[rightPointer]] += 1
                 maxFrequency = max(maxFrequency,max(hashMap.values()))
 
-            
-            is_valid = (rightPointer + 1 - leftPointer - maxFrequency <= k)
-            if not is_valid:
+            while (rightPointer + 1 - leftPointer - maxFrequency > k):
+                
                 hashMap[s[leftPointer]] -= 1
                 leftPointer += 1
 
-            # the window is valid at this point, store length
-            # size of the window never decreases
-            
-            longest_substring_length = rightPointer + 1 - leftPointer
+            maxLength = rightPointer + 1 - leftPointer
             rightPointer += 1
 
-        return longest_substring_length
+        return maxLength
 
 
 
