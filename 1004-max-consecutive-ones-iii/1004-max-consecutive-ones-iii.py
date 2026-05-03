@@ -9,8 +9,6 @@ class Solution:
 
         while rightPointer <= len(nums)-1:
 
-
-
             if nums[rightPointer] == 1:
                 rightPointer += 1
             elif nums[rightPointer] == 0 and zeroCount <= k:
@@ -22,7 +20,6 @@ class Solution:
                     zeroCount -= 1
                 leftPointer += 1
            
-            
             maxLength = max(maxLength, rightPointer-leftPointer + 1)
 
         return maxLength-1
