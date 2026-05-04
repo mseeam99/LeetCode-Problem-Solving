@@ -1,6 +1,5 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        
         def helper(val):
             leftPointer = 0
             rightPointer = 0
