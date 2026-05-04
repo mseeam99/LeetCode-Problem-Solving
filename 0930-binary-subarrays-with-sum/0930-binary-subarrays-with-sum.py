@@ -1,7 +1,7 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
 
-        def helper(nums,goal):
+        def helper(goal):
             if goal < 0:
                 return 0
             leftPointer = 0
@@ -17,7 +17,7 @@ class Solution:
                 rightPointer += 1
             return ways
 
-        return helper(nums,goal)-helper(nums,goal-1)
+        return helper(goal)-helper(goal-1)
 
 
             
