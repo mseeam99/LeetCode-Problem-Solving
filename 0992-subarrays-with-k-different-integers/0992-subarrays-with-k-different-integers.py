@@ -27,7 +27,6 @@ class Solution:
 
             return subArray
 
-
         return helper(k)-helper(k-1)
 
 
