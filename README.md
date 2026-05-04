@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1222-remove-covered-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1222-remove-covered-intervals) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-path-with-maximum-gold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1331-path-with-maximum-gold) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1165-single-row-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1165-single-row-keyboard) |
 | [1207-unique-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
@@ -1105,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1427-perform-string-shifts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1427-perform-string-shifts) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
