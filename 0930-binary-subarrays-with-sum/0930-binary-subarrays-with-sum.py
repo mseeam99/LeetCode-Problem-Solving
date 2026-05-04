@@ -18,10 +18,3 @@ class Solution:
             return ways
 
         return helper(goal)-helper(goal-1)
-
-
-            
-
-
-
-        
