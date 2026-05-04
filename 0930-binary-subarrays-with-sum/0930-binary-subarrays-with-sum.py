@@ -13,7 +13,7 @@ class Solution:
                 while value > goal:
                     value -= nums[leftPointer]
                     leftPointer += 1
-                ways = ways + (rightPointer-leftPointer+1)
+                ways += (rightPointer-leftPointer+1)
                 rightPointer += 1
             return ways
 
