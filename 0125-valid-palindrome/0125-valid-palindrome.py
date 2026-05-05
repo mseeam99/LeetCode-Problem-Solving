@@ -1,22 +1,33 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
 
-        s = s.lower()
+        def palindromeEven(s):
+            leftPointer = 0
+            rightPointer = len(s)-1
+            isPalindrome = True
+            while leftPointer <= rightPointer:
+                if leftPointer == rightPointer:
+                    return True
 
-        leftPointer  = 0
-        rightPointer = len(s) - 1
+                if s[leftPointer].isalnum()==False and s[rightPointer].isalnum()==False:
+                    leftPointer += 1
+                    rightPointer -= 1 
+                    continue
 
-        while leftPointer < rightPointer:
-            if s[leftPointer].isalnum() == False:
-                leftPointer+=1
-            elif s[rightPointer].isalnum() == False:
-                rightPointer-=1
-            elif s[leftPointer] == s[rightPointer]:
-                leftPointer+=1
-                rightPointer-=1
-            else:
-                return False
+                if s[leftPointer].isalnum()==False:
+                    leftPointer += 1
+                    continue
+                if s[rightPointer].isalnum()==False:
+                    rightPointer -= 1
+                    continue
+                if s[leftPointer].lower() == s[rightPointer].lower():
+                    leftPointer += 1
+                    rightPointer -= 1
+                else:
+                    isPalindrome = False
+                    break
+            return isPalindrome
 
-        return True
-
+        
+        return palindromeEven(s)
         
