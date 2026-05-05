@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0091-decode-ways) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
