@@ -30,10 +30,11 @@ class Solution:
                     else:
                         boolean = False
                         break
+
                 if boolean == True:
                     windowLength = rightPointer - leftPointer + 1
-                    if windowLength < minLength:
-                        minLength = windowLength
+                    if windowLength <= minLength:
+                        minLength = min(minLength,windowLength)
                         answer = s[leftPointer:rightPointer + 1]
 
                     biggerHashMap[s[leftPointer]] -= 1
