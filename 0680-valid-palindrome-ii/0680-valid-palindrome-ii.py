@@ -1,8 +1,6 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
         
-       
-        
         def palindrome(s):
             leftPointer = 0
             rightPointer = len(s)-1
@@ -25,8 +23,7 @@ class Solution:
                 else:
                     return False
             return True
-        
-
+    
         l = 0
         r = len(s) - 1
         while l <= r:
@@ -34,5 +31,4 @@ class Solution:
                 return palindrome(s[l+1:r+1]) or palindrome(s[l:r])
             l += 1
             r -= 1
-
         return True
