@@ -8,12 +8,10 @@ class Solution:
             while leftPointer <= rightPointer:
                 if leftPointer == rightPointer:
                     return True
-
                 if s[leftPointer].isalnum()==False and s[rightPointer].isalnum()==False:
                     leftPointer += 1
                     rightPointer -= 1 
                     continue
-
                 if s[leftPointer].isalnum()==False:
                     leftPointer += 1
                     continue
@@ -28,6 +26,5 @@ class Solution:
                     break
             return isPalindrome
 
-        
         return palindromeEven(s)
         
