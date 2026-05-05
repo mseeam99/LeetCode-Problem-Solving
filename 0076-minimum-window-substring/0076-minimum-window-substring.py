@@ -36,7 +36,6 @@ class Solution:
                     if windowLength <= minLength:
                         minLength = min(minLength,windowLength)
                         answer = s[leftPointer:rightPointer + 1]
-
                     biggerHashMap[s[leftPointer]] -= 1
                     if biggerHashMap[s[leftPointer]] == 0:
                         del biggerHashMap[s[leftPointer]]
