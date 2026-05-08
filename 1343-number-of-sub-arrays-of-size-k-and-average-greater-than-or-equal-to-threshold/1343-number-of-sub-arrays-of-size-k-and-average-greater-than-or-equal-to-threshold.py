@@ -1,7 +1,6 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
 
-
         subArrayCount = 0
 
         currentSum = 0
@@ -22,13 +21,8 @@ class Solution:
             if currentSum // k >= threshold:
                 subArrayCount += 1
 
-
-
             rightPointer += 1
             leftPointer += 1
-
-
-
 
         return subArrayCount
         
