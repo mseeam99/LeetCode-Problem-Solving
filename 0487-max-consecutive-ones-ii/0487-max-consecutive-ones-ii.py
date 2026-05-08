@@ -11,8 +11,6 @@ class Solution:
 
         while rightPointer <= len(nums)-1:
 
-
-
             if nums[rightPointer] == 1:
                 oneCount +=1
             elif nums[rightPointer] == 0:
@@ -27,7 +25,6 @@ class Solution:
 
             rightPointer += 1
 
-        
         return maxLength
             
 
