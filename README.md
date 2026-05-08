@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0506-relative-ranks) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0487-max-consecutive-ones-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0487-max-consecutive-ones-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
