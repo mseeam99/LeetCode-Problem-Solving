@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1049-last-stone-weight-ii) |
+| [1052-grumpy-bookstore-owner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1073-number-of-enclaves](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1073-number-of-enclaves) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
+| [1052-grumpy-bookstore-owner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
