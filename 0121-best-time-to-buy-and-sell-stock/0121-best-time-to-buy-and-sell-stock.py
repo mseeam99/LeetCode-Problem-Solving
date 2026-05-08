@@ -1,13 +1,20 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        minimumValue = prices[0]
-        maxProfit = float("-inf")
+
+        minStock = float("inf")
+        maxProfit = 0
+
         for i in range(len(prices)):
-            minimumValue = min(minimumValue,prices[i])
-            maxProfit = max(maxProfit,prices[i]-minimumValue)
+
+
+
+
+            maxProfit = max(maxProfit,(prices[i]-minStock))
+            minStock = min(minStock,prices[i])
+
+            
+    
+        
         return maxProfit
 
-
-        
-
-        
+            
