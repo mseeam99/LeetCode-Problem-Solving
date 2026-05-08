@@ -16,7 +16,6 @@ class Solution:
         leftPointer = 0
         rightPointer = minutes
 
-      
         while rightPointer <= len(customers)-1:
             if grumpy[rightPointer] == 1:
                 extra += customers[rightPointer]
@@ -29,7 +28,6 @@ class Solution:
             
             rightPointer += 1
             leftPointer += 1
-            
 
         return currSatisfaction + maxExtra
 
