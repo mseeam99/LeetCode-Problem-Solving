@@ -12,7 +12,8 @@ class Solution:
             hashMap[nums[i]] = i
 
         return False
-
+        
+        '''
         hashMap = defaultdict(list)
         returnStatement = False
         for i in range(len(nums)):
@@ -26,7 +27,7 @@ class Solution:
                         returnStatement = True
                         return True
         return returnStatement
-
+        '''
 
 
        
