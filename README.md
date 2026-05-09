@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1078-occurrences-after-bigram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1078-occurrences-after-bigram) |
 | [1092-shortest-common-supersequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1108-defanging-an-ip-address](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1119-remove-vowels-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1119-remove-vowels-from-a-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1002-find-common-characters) |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1165-single-row-keyboard](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1165-single-row-keyboard) |
