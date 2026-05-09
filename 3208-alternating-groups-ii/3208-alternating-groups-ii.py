@@ -1,25 +1,30 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
-
+        
         colors.extend(colors[:k - 1])
 
-        lastColor = colors[0]
+        prevColor = colors[0]
+        rightPointer = 1
 
-        alternatingLength = 1
-        count = 0
+        shuffleLength = 1
+        totalCountGroup = 0
 
-        for i in range(1, len(colors)):
+        while rightPointer <= len(colors)-1:
 
-            currentColor = colors[i]
+            currColor = colors[rightPointer]
 
-            if currentColor == lastColor:
-                alternatingLength = 1
+            if currColor != prevColor:
+                shuffleLength += 1
             else:
-                alternatingLength += 1
+                shuffleLength = 1
 
-            lastColor = currentColor
+            prevColor = colors[rightPointer]
 
-            if alternatingLength >= k:
-                count += 1
+            if shuffleLength >= k:
+                totalCountGroup += 1
 
-        return count
+            rightPointer += 1
+        
+        return totalCountGroup
+
+        
