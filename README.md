@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0604-design-compressed-string-iterator) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0487-max-consecutive-ones-ii) |
+| [0567-permutation-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
