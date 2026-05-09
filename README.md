@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
+| [3208-alternating-groups-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3208-alternating-groups-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3208-alternating-groups-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3208-alternating-groups-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
