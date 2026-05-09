@@ -11,7 +11,6 @@ class Solution:
 
             if s[rightPointer] not in hashMap: 
                 hashMap[s[rightPointer]] = 1 
-                
             else: 
                 hashMap[s[rightPointer]] += 1 
             
