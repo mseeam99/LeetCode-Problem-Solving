@@ -20,15 +20,10 @@ class Solution:
             if s[leftPointer] == 'a' or s[leftPointer] == 'e' or s[leftPointer] == 'i' or s[leftPointer] == 'o' or s[leftPointer] == 'u':
                 vowelCount -= 1
 
-
-
-            
             maxVowelCount = max(maxVowelCount, vowelCount)
 
             rightPointer += 1
             leftPointer += 1
-
-        
 
         return maxVowelCount
             
