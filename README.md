@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2706-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2706-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2690-house-robber-iv](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2690-house-robber-iv) |
+| [2706-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
