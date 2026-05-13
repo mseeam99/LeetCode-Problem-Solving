@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
+| [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1826-faulty-sensor](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1826-faulty-sensor) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
+| [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
 ## Interactive
 |  |
 | ------- |
