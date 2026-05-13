@@ -1,7 +1,6 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
 
-
         fiveCount = 0
         tenCount = 0
         twentyCount = 0
@@ -17,6 +16,8 @@ class Solution:
                     return False
                 if fiveCount > 0:
                     fiveCount -= 1
+                else:
+                    return False
                 
             elif bills[i] == 20:
                 twentyCount += 1
@@ -29,9 +30,6 @@ class Solution:
                     fiveCount -= 3
                 else:
                     return False
-
-            
-            
 
         return True
 
