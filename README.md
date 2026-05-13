@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3248-snake-in-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -1671,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
