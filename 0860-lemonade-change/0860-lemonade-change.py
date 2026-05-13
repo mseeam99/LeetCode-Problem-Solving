@@ -30,11 +30,7 @@ class Solution:
                 else:
                     return False
 
-            print("Accepted: ",bills[i])
-            print("Five    : ",fiveCount)
-            print("Ten     : ",tenCount)
-            print("Twenty  : ",twentyCount)
-            print()
+            
             
 
         return True
