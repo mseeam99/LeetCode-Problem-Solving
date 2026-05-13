@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
+| [0860-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0942-di-string-match) |
