@@ -1,6 +1,6 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        
+        '''
         maxValue = float("-inf")
         memo = {}
 
@@ -22,25 +22,17 @@ class Solution:
 
         recursion(0, 0)
         return maxValue
-        
         '''
+
         maxSum = nums[0]
         currentSum = nums[0]
-
         for i in range(1,len(nums)):
-
             currentSum += nums[i]
+            if currentSum <= nums[i]:
+                currentSum = nums[i]
             maxSum = max(maxSum,currentSum)
-            
-            if currentSum <= 0:
-                currentSum = 0
-
-
-            
-
         return maxSum
 
 
-        '''
 
         
