@@ -22,18 +22,25 @@ class Solution:
 
         recursion(0, 0)
         return maxValue
-
+        
         '''
-        currentSum = 0
         maxSum = nums[0]
-        for i in range(len(nums)):
-            if currentSum <= 0:
-                currentSum = 0
+        currentSum = nums[0]
+
+        for i in range(1,len(nums)):
+
             currentSum += nums[i]
             maxSum = max(maxSum,currentSum)
+            
+            if currentSum <= 0:
+                currentSum = 0
+
+
+            
+
         return maxSum
+
+
         '''
-
-
 
         
