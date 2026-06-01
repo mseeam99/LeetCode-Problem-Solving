@@ -1,5 +1,8 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
+        
+        # black/one goes right 
+        # white/zero goes left
 
         swapCount = 0
 
