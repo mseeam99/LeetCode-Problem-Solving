@@ -1,12 +1,25 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        ones = 0
-        swaps = 0
+        
 
-        for ch in s:
-            if ch == '1':
-                ones += 1
-            else:
-                swaps += ones
+        leftPointer = 0
+        rightPointer = 0
 
-        return swaps
+        swapCount = 0
+
+        while rightPointer <= len(s)-1:
+
+            if s[rightPointer] == "1":
+                rightPointer += 1
+                continue
+            
+
+            swapCount += rightPointer - leftPointer
+
+            leftPointer += 1
+            rightPointer += 1
+
+
+
+
+        return swapCount
