@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0924-fair-candy-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0924-fair-candy-swap) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1400-construct-k-palindrome-strings) |
@@ -1670,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1160-find-words-that-can-be-formed-by-characters) |
