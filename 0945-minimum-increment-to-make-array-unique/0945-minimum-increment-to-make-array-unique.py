@@ -10,12 +10,7 @@ class Solution:
                 incrementCount += nextNumber - nums[i]
             else:
                 nextNumber = nums[i]
-            nextNumber += 1
             
+            nextNumber += 1
+
         return incrementCount
-
-
-
-       
-
-        
