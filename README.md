@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
 | [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-cherry-pickup-ii) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
