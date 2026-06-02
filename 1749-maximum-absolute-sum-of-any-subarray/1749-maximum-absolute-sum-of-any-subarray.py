@@ -17,6 +17,5 @@ class Solution:
 
             res = max(res,pos,abs(neg))
             
-
         return res
 
