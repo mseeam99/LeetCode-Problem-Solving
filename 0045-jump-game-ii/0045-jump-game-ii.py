@@ -14,6 +14,4 @@ class Solution:
             rightPointer = farthest
             jumps += 1
 
-            
-
         return jumps
