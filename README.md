@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1871-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1871-jump-game-vii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1871-jump-game-vii) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
