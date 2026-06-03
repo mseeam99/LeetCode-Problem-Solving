@@ -19,15 +19,11 @@ class Solution:
 
         maxJump = 0
         for i in range(len(nums)):
-            
             if maxJump < i:
                 return False
-
             maxJump = max(maxJump,i+nums[i])
-
             if maxJump >= len(nums)-1:
                 return True
-        
         return False
 
 
