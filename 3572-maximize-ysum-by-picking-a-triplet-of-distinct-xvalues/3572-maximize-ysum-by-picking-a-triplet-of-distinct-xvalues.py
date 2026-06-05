@@ -23,5 +23,4 @@ class Solution:
             if iteration == 3:
                 return maxSum
                 
-    
         return -1
