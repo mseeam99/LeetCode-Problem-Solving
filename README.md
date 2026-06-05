@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3668-restore-finishing-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3668-restore-finishing-order) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-count-odd-letters-from-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3581-count-odd-letters-from-number) |
 | [3606-coupon-code-validator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
@@ -1074,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Search
 |  |
 | ------- |
@@ -1654,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Divide and Conquer
 |  |
 | ------- |
