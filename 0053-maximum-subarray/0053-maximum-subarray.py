@@ -27,11 +27,10 @@ class Solution:
         maxSum = nums[0]
         currentSum = nums[0]
         for i in range(1,len(nums)):
-            currentSum += nums[i]
-            if currentSum <= nums[i]:
-                currentSum = nums[i]
+            currentSum = max(nums[i],currentSum+nums[i])
             maxSum = max(maxSum,currentSum)
         return maxSum
+
 
 
 
