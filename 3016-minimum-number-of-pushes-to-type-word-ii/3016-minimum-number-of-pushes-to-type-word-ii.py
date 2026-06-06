@@ -28,4 +28,3 @@ class Solution:
                 else:
                     clickedCount += 4
         return clickedCount
-
