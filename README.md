@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2756-buy-two-chocolates) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-phone-number-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3491-phone-number-prefix) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -1710,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
