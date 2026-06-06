@@ -1,16 +1,13 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-
         hashMap = Counter(word)
         word = list(word)
         for i in range(len(word)):
             word[i] = (-hashMap[word[i]],word[i])
         heapq.heapify(word)
-     
         hashMap = {}
         hashMap["1"] = "EMPTY"
         clickedCount = 0
-
         while len(word):
             count,char = heapq.heappop(word)
             count = count*(-1)
@@ -30,20 +27,5 @@ class Solution:
                     clickedCount += 3
                 else:
                     clickedCount += 4
-
         return clickedCount
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-
 
