@@ -23,13 +23,12 @@ class Solution:
         recursion(0, 0)
         return maxValue
         '''
-
-        maxSum = nums[0]
-        currentSum = nums[0]
+        current = nums[0]
+        maximum = nums[0]
         for i in range(1,len(nums)):
-            currentSum = max(nums[i],currentSum+nums[i])
-            maxSum = max(maxSum,currentSum)
-        return maxSum
+            current = max(nums[i],current+nums[i])
+            maximum = max(maximum,current)
+        return maximum
 
 
 
