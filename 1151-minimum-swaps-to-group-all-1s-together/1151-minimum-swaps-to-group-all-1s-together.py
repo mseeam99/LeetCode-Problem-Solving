@@ -16,7 +16,6 @@ class Solution:
         
         globalMinSwapNeeded = min(globalMinSwapNeeded,curretSwapNeeded)
 
-        leftPointer += 1
 
         while rightPointer < len(data):
 
@@ -25,9 +24,8 @@ class Solution:
                 curretSwapNeeded += 1
             
             
-            if data[leftPointer-1] == 0:
+            if data[leftPointer] == 0:
                 curretSwapNeeded -= 1
-            
             
             globalMinSwapNeeded = min(globalMinSwapNeeded,curretSwapNeeded)
 
