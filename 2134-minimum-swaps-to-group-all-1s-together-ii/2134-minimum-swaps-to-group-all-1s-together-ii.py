@@ -1,9 +1,9 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
         oneCount = nums.count(1)
-        data = nums+nums
         if oneCount <= 1:
             return 0
+        data = nums+nums
         leftPointer = 0
         rightPointer = oneCount
         globalMinSwapNeeded = float("inf")
