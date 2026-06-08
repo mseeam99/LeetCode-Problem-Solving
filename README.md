@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3208-alternating-groups-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3208-alternating-groups-ii) |
