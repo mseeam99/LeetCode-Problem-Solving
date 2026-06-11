@@ -16,13 +16,11 @@ class Solution:
             return False
         return recursion(0)
         '''
-
         maxStep = 0
         for i in range(len(nums)):
             if i > maxStep:
                 return False
             maxStep = max(maxStep,i+nums[i])
-        
         if maxStep >= len(nums)-1:
             return True
         return False
