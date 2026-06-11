@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0978-longest-turbulent-subarray) |
 | [0983-validate-stack-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0983-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1025-divisor-game) |
