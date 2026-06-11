@@ -17,11 +17,12 @@ class Solution:
         return recursion(0)
         '''
 
-        lastIndex = len(nums)-1
-        for i in range(len(nums)-1,-1,-1):
-            if i + nums[i] >= lastIndex:
-                lastIndex = i
-        if lastIndex == 0:
+        maxStep = 0
+        for i in range(len(nums)):
+            if i > maxStep:
+                return False
+            maxStep = max(maxStep,i+nums[i])
+        
+        if maxStep >= len(nums)-1:
             return True
-        else:
-            return False
+        return False
