@@ -26,9 +26,14 @@ class Solution:
 
             if rightPointer == 1:
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
+                if curr == -1:
+                    prev = 1
+                else:
+                    prev = -1
                 continue
+            else:
             
-            prev = compare(arr[rightPointer-1],arr[rightPointer-2])
+                prev = compare(arr[rightPointer-1],arr[rightPointer-2])
 
             if curr * prev == -1:
                 #good
