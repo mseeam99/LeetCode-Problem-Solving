@@ -4,8 +4,6 @@ class Solution:
         if len(arr) == 1:
             return 1
 
-
-
         def compare(left,right):
             if left > right:    #left bigger
                 return -1
@@ -40,9 +38,7 @@ class Solution:
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
 
 
-        
-        
-
+    
         return maxLength
 
            
