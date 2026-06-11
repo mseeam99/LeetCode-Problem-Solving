@@ -32,7 +32,6 @@ class Solution:
                     prev = -1
                 continue
             else:
-            
                 prev = compare(arr[rightPointer-1],arr[rightPointer-2])
 
             if curr * prev == -1:
@@ -40,6 +39,7 @@ class Solution:
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
             else:
                 leftPointer = rightPointer-1
+                rightPointer = leftPointer+1
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
 
 
