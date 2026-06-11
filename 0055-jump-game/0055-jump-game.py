@@ -17,17 +17,28 @@ class Solution:
         return recursion(0)
         '''
 
-        maxJump = 0
-        for i in range(len(nums)):
-            if maxJump < i:
-                return False
-            maxJump = max(maxJump,i+nums[i])
-            if maxJump >= len(nums)-1:
-                return True
-        return False
+        lastIndex = len(nums)-1
+        for i in range(len(nums)-1,-1,-1):
+
+            if i + nums[i] >= lastIndex:
+                lastIndex = i
+            
+        
+
+        if lastIndex == 0:
+            return True
+        else:
+            return False
+
+
+            
+
+            
+            
 
 
 
+        
 
 
 
