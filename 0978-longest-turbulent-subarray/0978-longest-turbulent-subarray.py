@@ -40,8 +40,6 @@ class Solution:
             else:
                 leftPointer = rightPointer-1
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
-
-
     
         return maxLength
 
