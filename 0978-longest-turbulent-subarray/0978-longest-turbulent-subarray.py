@@ -38,9 +38,7 @@ class Solution:
                 #good
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
             else:
-                
                 leftPointer = rightPointer-1
-                rightPointer = leftPointer+1
                 maxLength = max(maxLength,rightPointer-leftPointer+1)
 
 
