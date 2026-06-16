@@ -1038,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3662-filter-characters-by-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3662-filter-characters-by-frequency) |
 | [3668-restore-finishing-order](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3668-restore-finishing-order) |
 | [3803-count-residue-prefixes](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3803-count-residue-prefixes) |
+| [3945-digit-frequency-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3945-digit-frequency-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Design
 |  |
 | ------- |
