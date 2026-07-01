@@ -10,24 +10,28 @@ class Solution:
         gas = gas + gas
         cost = cost + cost
 
-        
-
         startingIndex = 0
         currentGas = 0
-
+        '''
         for i in range(len(gas)):
-
             if i == (startingIndex + tempLengthTrack) and gas[i]-cost[i] > 0:
                 return startingIndex
-        
             currentGas += gas[i]-cost[i]
-
             if currentGas < 0:
                 startingIndex = i+1
                 currentGas = 0
-
-
         return startingIndex
+        '''
+
+        for i in range(len(gas)):
+            
+            currentGas += gas[i]-cost[i]
+            if currentGas < 0:
+                startingIndex = i+1
+                currentGas = 0
+        return startingIndex
+
+
                 
 
             
