@@ -10,8 +10,7 @@ class Solution:
         gas = gas + gas
         cost = cost + cost
 
-        print(gas)
-        print(cost)
+        
 
         startingIndex = 0
         currentGas = 0
