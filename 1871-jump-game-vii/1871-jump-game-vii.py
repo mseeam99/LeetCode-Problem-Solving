@@ -1,26 +1,34 @@
 class Solution:
     def canReach(self, s: str, minJump: int, maxJump: int) -> bool:
 
-        if s[-1] != "0":
+        if s[0] != "0" and s[-1] != "0":
             return False
+        
+        myQueue = deque([0])
+        farthest = 0
 
-        queue = deque([0])
-        farthestChecked = 0
+        while len(myQueue):
 
-        while queue:
+            currentPoppedIndex = myQueue.popleft()
 
-            currentIndex = queue.popleft()
+            
 
-            leftPointer = max(currentIndex + minJump, farthestChecked + 1)
-            rightPointer = min(currentIndex + maxJump, len(s) - 1)
+            leftIndex = max(currentPoppedIndex + minJump, farthest+1)
+            rightIndex = min(currentPoppedIndex + maxJump, len(s)-1)
 
-            for nextIndex in range(leftPointer, rightPointer + 1):
-                if s[nextIndex] == "0":
-                    queue.append(nextIndex)
+            for i in range(leftIndex,rightIndex+1):
 
-                    if nextIndex == len(s) - 1:
+                if s[i] == "0":
+                    if i == len(s)-1:
                         return True
+                    myQueue.append(i)
 
-            farthestChecked = max(farthestChecked, rightPointer)
-
+            farthest = max(farthest, rightIndex)
+            
         return False
+
+
+
+
+
+        
