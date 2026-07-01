@@ -11,8 +11,6 @@ class Solution:
 
             currentPoppedIndex = myQueue.popleft()
 
-            
-
             leftIndex = max(currentPoppedIndex + minJump, farthest+1)
             rightIndex = min(currentPoppedIndex + maxJump, len(s)-1)
 
