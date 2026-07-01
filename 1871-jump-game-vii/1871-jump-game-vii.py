@@ -5,13 +5,15 @@ class Solution:
             return False
         
         myQueue = deque([0])
-        farthest = 0
+
+        farthestScanned = 0
+        
 
         while len(myQueue):
 
             currentPoppedIndex = myQueue.popleft()
 
-            leftIndex = max(currentPoppedIndex + minJump, farthest+1)
+            leftIndex = max(currentPoppedIndex + minJump, farthestScanned + 1)
             rightIndex = min(currentPoppedIndex + maxJump, len(s)-1)
 
             for i in range(leftIndex,rightIndex+1):
@@ -20,8 +22,10 @@ class Solution:
                     if i == len(s)-1:
                         return True
                     myQueue.append(i)
+            
+            farthestScanned = max(farthestScanned, rightIndex)
+            
 
-            farthest = max(farthest, rightIndex)
             
         return False
 
