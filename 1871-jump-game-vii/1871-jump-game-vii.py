@@ -5,10 +5,8 @@ class Solution:
             return False
         
         myQueue = deque([0])
-
         farthestScanned = 0
         
-
         while len(myQueue):
 
             currentPoppedIndex = myQueue.popleft()
@@ -24,8 +22,6 @@ class Solution:
                     myQueue.append(i)
             
             farthestScanned = max(farthestScanned, rightIndex)
-            
-
             
         return False
 
