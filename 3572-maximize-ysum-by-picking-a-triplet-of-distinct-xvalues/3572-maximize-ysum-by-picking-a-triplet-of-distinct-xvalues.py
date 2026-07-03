@@ -1,26 +1,39 @@
 class Solution:
     def maxSumDistinctTriplet(self, x: List[int], y: List[int]) -> int:
 
+        heap = []
         for i in range(len(y)):
-            y[i] = (-y[i],x[i])
+            tempTuple = (-y[i],x[i])
+            heap.append(tempTuple)
 
-        heapq.heapify(y)
+        heapq.heapify(heap)
+        
 
-        seen = set()
-        iteration = 0
-        maxSum = 0
+        seenIndex = set()
+        summation = []
+        
+        while heap:
 
-        while len(y):
+            yVal, xVal = heapq.heappop(heap)
+            yVal = yVal * -1
 
-            realValueToSum, setCheckValue = heapq.heappop(y)
-            realValueToSum = -realValueToSum
+            if xVal not in seenIndex:
+                seenIndex.add(xVal)
+                summation.append(yVal)
+            else:
+                continue
 
-            if setCheckValue not in seen:
-                seen.add(setCheckValue)
-                maxSum += realValueToSum
-                iteration += 1
+            if len(summation) == 3:
+                break
+        
+        if len(summation) == 3:
+            return sum(summation)
+        else:
+            return -1
+
+
+
+
+
+
             
-            if iteration == 3:
-                return maxSum
-                
-        return -1
