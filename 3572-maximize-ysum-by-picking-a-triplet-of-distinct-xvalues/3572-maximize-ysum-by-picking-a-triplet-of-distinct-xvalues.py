@@ -8,7 +8,6 @@ class Solution:
 
         heapq.heapify(heap)
         
-
         seenIndex = set()
         summation = []
         
