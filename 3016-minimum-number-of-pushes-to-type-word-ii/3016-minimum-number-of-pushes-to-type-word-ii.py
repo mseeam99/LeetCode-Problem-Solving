@@ -1,6 +1,7 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         hashMap = Counter(word)
+        print(hashMap)
         word = list(word)
         for i in range(len(word)):
             word[i] = (-hashMap[word[i]],word[i])
@@ -14,7 +15,7 @@ class Solution:
             if char == "1" or char == "*" or char == "#" or char == "0":
                 continue
             if char in hashMap:
-                clickedCount += hashMap[char]  
+                clickedCount += hashMap[char]
             elif char not in hashMap:
                 if len(hashMap) < 9:
                     hashMap[char] = 1
