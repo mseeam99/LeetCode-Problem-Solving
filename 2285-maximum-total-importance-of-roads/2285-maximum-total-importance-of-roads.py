@@ -20,36 +20,13 @@ class Solution:
             length,nodeNumber,connectionList = -theTuple[0], theTuple[1], theTuple[2]
             assignedHashMap[nodeNumber] = n
             n-=1
-    
-
-        print(assignedHashMap)
         total = 0
-
         for i in range(len(roads)):
             currentMap = roads[i]
             start = currentMap[0]
             end = currentMap[1]
-
             total += assignedHashMap[start]
             total += assignedHashMap[end]
-
-
-
-
-
-
-
-        
-
-
-
-
-
-       
-
-
-
-
         return total
 
 
