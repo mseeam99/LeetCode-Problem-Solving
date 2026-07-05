@@ -1,38 +1,26 @@
-from collections import deque
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
 
-        queueForRadiant = deque()
-        queueForDire = deque()
+        rQueue = deque([])
+        dQueue = deque([])
 
         for i in range(len(senate)):
             if senate[i] == "R":
-                queueForRadiant.append(i)
+                rQueue.append(i)
             elif senate[i] == "D":
-                queueForDire.append(i)
+                dQueue.append(i)
 
-        while queueForRadiant and queueForDire:
-            if len(queueForRadiant) == 0:
-                return "Dire"
-            elif len(queueForDire) == 0:
-                return "Radiant"
+        while rQueue and dQueue:
 
-            rIndex, dIndex = 0,0
-
-            if queueForRadiant:
-                rIndex = queueForRadiant.popleft()
-
-            if queueForDire:
-                dIndex = queueForDire.popleft()
+            rIndex = rQueue.popleft()
+            dIndex = dQueue.popleft()
 
             if rIndex < dIndex:
-                queueForRadiant.append(rIndex+len(senate))
+                rQueue.append(rIndex+len(senate))
             else:
-                queueForDire.append(dIndex+len(senate))
+                dQueue.append(dIndex+len(senate))
 
-        if len(queueForRadiant) > len(queueForDire):
+        if len(rQueue) > 0:
             return "Radiant"
-        else:
+        elif len(dQueue) > 0:
             return "Dire"
-
-            
