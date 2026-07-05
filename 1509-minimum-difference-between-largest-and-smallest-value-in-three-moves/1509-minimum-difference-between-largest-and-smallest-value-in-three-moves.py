@@ -5,11 +5,11 @@ class Solution:
             return 0
 
         smallest = heapq.nsmallest(4,nums)
-        largest  = sorted(heapq.nlargest(4,nums))
+        largest  = heapq.nlargest(4,nums)
 
         less = float("inf")
 
         for i in range(len(smallest)):
-            less = min(less, abs(largest[i]-smallest[i]))
+            less = min(less, abs(largest[3-i]-smallest[i]))
 
         return less
