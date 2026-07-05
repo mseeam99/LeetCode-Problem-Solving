@@ -1,6 +1,5 @@
 class Solution:
     def maximumImportance(self, n: int, roads: List[List[int]]) -> int:
-
         hashMap = defaultdict(list)
         for i in range(len(roads)):
             currentMap = roads[i]
