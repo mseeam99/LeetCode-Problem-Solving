@@ -1,18 +1,20 @@
+import heapq
+
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
-        n = len(nums)
 
-        if n <= 4:
+        if len(nums) <= 4:
             return 0
 
-        smallestArray = heapq.nsmallest(4,nums)
-        smallestArray.sort()
+        smallest = heapq.nsmallest(4,nums)
+        largest  = sorted(heapq.nlargest(4,nums))
 
-        largestArray = heapq.nlargest(4,nums)
-        largestArray.sort()
+        print(smallest)
+        print(largest)
 
-        minDifference = float("inf")
-        for i in range(4):
-            minDifference = min(minDifference,largestArray[i]-smallestArray[i])
+        less = float("inf")
 
-        return minDifference
+        for i in range(len(smallest)):
+            less = min(less, abs(largest[i]-smallest[i]))
+
+        return less
