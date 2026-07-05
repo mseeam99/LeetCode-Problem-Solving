@@ -1,5 +1,3 @@
-import heapq
-
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
 
@@ -8,9 +6,6 @@ class Solution:
 
         smallest = heapq.nsmallest(4,nums)
         largest  = sorted(heapq.nlargest(4,nums))
-
-        print(smallest)
-        print(largest)
 
         less = float("inf")
 
