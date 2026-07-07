@@ -17,24 +17,18 @@ class Solution:
             maxSum = max(maxSum, leftSum + rightSum)
         return maxSum
         '''
-
         if k == len(cardPoints):
             return sum(cardPoints)   
-
         summation = sum(cardPoints[0:k])    
         totalMax = summation
-
         startDeletingFromIndex = k-1
         rightmostIndex = len(cardPoints)-1
-
         for i in range(k):
-
             summation -= cardPoints[startDeletingFromIndex]
             startDeletingFromIndex-=1
             summation += cardPoints[rightmostIndex]
             rightmostIndex-=1
             totalMax = max(totalMax,summation)
-
         return totalMax
 
 
