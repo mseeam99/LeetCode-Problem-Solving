@@ -19,16 +19,25 @@ class Solution:
         '''
 
         if k == len(cardPoints):
-            return sum(cardPoints)        
-        summation = sum(cardPoints[0:k])
-        totalMaxSum = summation
-        headIndex = k-1
-        tailIndex = len(cardPoints)-1
-        while headIndex >= 0:
-            summation -= cardPoints[headIndex]
-            summation += cardPoints[tailIndex]
-            totalMaxSum = max(totalMaxSum,summation)
-            headIndex -= 1
-            tailIndex -= 1
-        return totalMaxSum
-        
+            return sum(cardPoints)   
+
+        summation = sum(cardPoints[0:k])    
+        totalMax = summation
+
+        startDeletingFromIndex = k-1
+        rightmostIndex = len(cardPoints)-1
+
+        for i in range(k):
+
+            summation -= cardPoints[startDeletingFromIndex]
+            startDeletingFromIndex-=1
+            summation += cardPoints[rightmostIndex]
+            rightmostIndex-=1
+            totalMax = max(totalMax,summation)
+
+        return totalMax
+
+
+
+
+       
