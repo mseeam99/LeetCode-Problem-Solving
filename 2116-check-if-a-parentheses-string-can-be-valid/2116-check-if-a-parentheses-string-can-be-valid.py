@@ -1,6 +1,5 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
-
         if len(s)%2 != 0:
             return False
         left = []
@@ -10,7 +9,6 @@ class Solution:
                 star.append(i)
             elif s[i] == "(":
                 left.append(i)
-            
             elif s[i] == ")":
                 if left:
                     left.pop()
@@ -18,7 +16,6 @@ class Solution:
                     star.pop()
                 else:
                     return False
-        
         while left and star and (left[-1] < star[-1]):    
             left.pop()
             star.pop()
