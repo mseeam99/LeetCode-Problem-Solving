@@ -3,15 +3,11 @@ class Solution:
 
         if len(s)%2 != 0:
             return False
-
         left = []
         star = []
-
         for i in range(len(s)):
-
             if locked[i] == "0":
                 star.append(i)
-
             elif s[i] == "(":
                 left.append(i)
             
@@ -23,21 +19,9 @@ class Solution:
                 else:
                     return False
         
-
-        while left and star and (left[-1] < star[-1]):
-            
+        while left and star and (left[-1] < star[-1]):    
             left.pop()
             star.pop()
-            
-
         if left:
             return False
-
         return True
-
-                
-
-
-
-            
-
