@@ -4,9 +4,7 @@ class Solution:
         leftArray = []
         starArray = []
 
-
         for i in range(len(s)):
-
             if s[i] == "(":
                 leftArray.append(i)
             elif s[i] == "*":
@@ -22,10 +20,5 @@ class Solution:
         while leftArray and starArray:
             if leftArray.pop() > starArray.pop():
                 return False
-        
-        
+    
         return not leftArray
-                    
-
-
-      
