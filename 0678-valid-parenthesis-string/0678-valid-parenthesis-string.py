@@ -21,4 +21,4 @@ class Solution:
             if leftArray.pop() > starArray.pop():
                 return False
     
-        return not leftArray
+        return len(leftArray) == 0
