@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0734-sentence-similarity](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0734-sentence-similarity) |
 | [0742-to-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0796-rotate-string) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0748-shortest-completing-word) |
 | [0760-find-anagram-mappings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0760-find-anagram-mappings) |
+| [0763-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0822-unique-morse-code-words) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-lemonade-change) |
