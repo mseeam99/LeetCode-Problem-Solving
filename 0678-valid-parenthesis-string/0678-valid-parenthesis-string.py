@@ -1,33 +1,31 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
 
-        countMin = 0
-        countMax = 0
+        leftArray = []
+        starArray = []
+
 
         for i in range(len(s)):
 
             if s[i] == "(":
-                countMin += 1
-                countMax += 1
-
-            elif s[i] == ")":
-                countMin -= 1
-                countMax -= 1
-
+                leftArray.append(i)
+            elif s[i] == "*":
+                starArray.append(i)
             else:
-                countMin -= 1
-                countMax += 1
+                if not leftArray and not starArray:
+                    return False
+                elif leftArray:
+                    leftArray.pop()
+                elif starArray:
+                    starArray.pop()
 
-            if countMin < 0:
-                countMin = 0
-            if countMax < 0:
+        while leftArray and starArray:
+            if leftArray.pop() > starArray.pop():
                 return False
-
-        return countMin == 0
-
         
-
-
-
-
         
+        return not leftArray
+                    
+
+
+      
