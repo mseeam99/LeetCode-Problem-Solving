@@ -18,7 +18,6 @@ class Solution:
             currTimeAsMinuite += 1
             totalElimination += 1
 
-        
         return totalElimination 
 
         
