@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2235-capitalize-the-title](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-capitalize-the-title) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2470-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3174-clear-digits) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2285-maximum-total-importance-of-roads](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2285-maximum-total-importance-of-roads) |
