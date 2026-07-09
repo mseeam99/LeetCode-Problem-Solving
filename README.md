@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1028-interval-list-intersections) |
+| [1029-two-city-scheduling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1046-last-stone-weight) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1029-two-city-scheduling) |
 | [1065-index-pairs-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1065-index-pairs-of-a-string) |
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1029-two-city-scheduling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1029-two-city-scheduling) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1400-construct-k-palindrome-strings) |
