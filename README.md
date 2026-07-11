@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+| [1014-best-sightseeing-pair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-best-sightseeing-pair) |
 | [1019-squares-of-a-sorted-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1028-interval-list-intersections) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1014-best-sightseeing-pair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1014-best-sightseeing-pair) |
 | [1020-longest-turbulent-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1049-last-stone-weight-ii) |
