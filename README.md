@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1629-slowest-key) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1463-cherry-pickup-ii) |
 | [1559-cherry-pickup-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1559-cherry-pickup-ii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1871-jump-game-vii) |
