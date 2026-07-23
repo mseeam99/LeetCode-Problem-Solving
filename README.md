@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1666-make-the-string-great) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1762-buildings-with-an-ocean-view](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-buildings-with-an-ocean-view) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
