@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1826-faulty-sensor](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1826-faulty-sensor) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1921-eliminate-maximum-number-of-monsters) |
