@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2235-capitalize-the-title](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-capitalize-the-title) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2080-check-if-move-is-legal](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2080-check-if-move-is-legal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2544-alternating-digit-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2544-alternating-digit-sum) |
