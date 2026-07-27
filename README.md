@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2027-maximum-number-of-removable-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2027-maximum-number-of-removable-characters) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2235-add-two-integers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2544-alternating-digit-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2544-alternating-digit-sum) |
@@ -1859,6 +1862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1025-divisor-game) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Binary Indexed Tree
 |  |
 | ------- |
