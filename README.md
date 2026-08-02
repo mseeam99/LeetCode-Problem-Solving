@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-score-after-flipping-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0768-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0861-score-after-flipping-matrix) |
 | [0876-hand-of-straights](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0942-di-string-match) |
