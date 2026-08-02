@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
+| [2182-construct-string-with-repeat-limit](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2235-capitalize-the-title](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2159-two-out-of-three](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2159-two-out-of-three) |
+| [2182-construct-string-with-repeat-limit](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2182-construct-string-with-repeat-limit](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2285-maximum-total-importance-of-roads](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2285-maximum-total-importance-of-roads) |
@@ -1728,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2285-maximum-total-importance-of-roads](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2353-design-a-food-rating-system](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2353-design-a-food-rating-system) |
@@ -1780,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2182-construct-string-with-repeat-limit](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
