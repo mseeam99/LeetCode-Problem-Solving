@@ -13,11 +13,7 @@ class Solution:
                     negativeCount += 1
 
         if negativeCount % 2 == 1:
-            totalSum -= 2*smallestValue
+            totalSum -= 2 * smallestValue
 
         return totalSum
 
-                
-                
-
-        
