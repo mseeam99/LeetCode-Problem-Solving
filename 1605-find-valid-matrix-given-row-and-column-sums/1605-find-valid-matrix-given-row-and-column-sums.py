@@ -25,17 +25,4 @@ class Solution:
                 eachColumnSum -= maxShift
                 r += 1
                 
-        
         return matrix
-
-
-
-
-
-
-                
-        
-                    
-
-
-
