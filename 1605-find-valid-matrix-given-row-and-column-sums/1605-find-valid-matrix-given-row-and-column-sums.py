@@ -11,18 +11,17 @@ class Solution:
                 if c == 0:
                     matrix[r][c] = rowSum[r]
 
-        for c in range(len(matrix[0])):
+        for c in range(len(colSum) - 1):      
             eachColumnSum = 0
-            for r in range(len(matrix)):
-                eachColumnSum += matrix[r][c]
-            
+            for r in range(len(rowSum)):
+                eachColumnSum += matrix[r][c] 
             r = 0
-            while eachColumnSum > colSum[c]:
-                difference = eachColumnSum-colSum[c]
-                maxShift = min(matrix[r][c],difference)
-                matrix[r][c] -= maxShift
-                matrix[r][c+1] += maxShift
-                eachColumnSum -= maxShift
+            while eachColumnSum > colSum[c] and r < len(rowSum):
+                difference = eachColumnSum - colSum[c]
+                shift = min(matrix[r][c], difference)
+                matrix[r][c] -= shift
+                matrix[r][c + 1] += shift
+                eachColumnSum -= shift
                 r += 1
-                
+
         return matrix
