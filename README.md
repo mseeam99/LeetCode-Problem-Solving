@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1132,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1659-get-the-maximum-score](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1659-get-the-maximum-score) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1762-furthest-building-you-can-reach](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1762-furthest-building-you-can-reach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
