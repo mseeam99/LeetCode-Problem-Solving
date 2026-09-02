@@ -1,23 +1,30 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
 
-        answer = []
-        path = []
+        biggerArray = []
+        innerArray = []
 
         def recursion(start):
-            if start == len(s):
-                answer.append(path.copy())
+
+            if start >= len(s):
+                biggerArray.append(innerArray.copy())
                 return
+            
+            for end in range(start,len(s)):
 
-            for end in range(start, len(s)):
-
-                substring = s[start:end+1]
+                subString = s[start:end+1]
                 
-                if substring == substring[::-1]:
-                    
-                    path.append(substring)
+
+                if subString == subString[::-1]:
+                    innerArray.append(subString)
                     recursion(end+1)
-                    path.pop()
+                    innerArray.pop()
+
+
+
 
         recursion(0)
-        return answer
+        return biggerArray
+
+
+        
