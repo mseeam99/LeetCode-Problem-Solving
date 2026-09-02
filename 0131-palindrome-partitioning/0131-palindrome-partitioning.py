@@ -1,5 +1,6 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
+
         answer = []
         path = []
 
@@ -9,12 +10,14 @@ class Solution:
                 return
 
             for end in range(start, len(s)):
+
                 substring = s[start:end+1]
+                
                 if substring == substring[::-1]:
                     
-                    path.append(substring)  # Choose
-                    recursion(end+1)          # Process remaining characters
-                    path.pop()              # Undo and try another choice
+                    path.append(substring)
+                    recursion(end+1)
+                    path.pop()
 
         recursion(0)
         return answer
