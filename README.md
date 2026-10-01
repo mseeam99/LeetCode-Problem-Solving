@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1929-concatenation-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1962-single-threaded-cpu) |
 | [1975-maximum-matrix-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1184-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
