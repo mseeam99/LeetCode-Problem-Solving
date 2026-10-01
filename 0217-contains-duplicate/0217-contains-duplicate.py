@@ -7,4 +7,3 @@ class Solution:
             else:
                 hashMap[nums[i]] = 1
         return False
-        
