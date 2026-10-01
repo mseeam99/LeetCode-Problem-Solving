@@ -1,5 +1,10 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        newList = list(set(nums))
-        answer = True if len(nums) != len(newList) else False
-        return answer
+    def containsDuplicate(self, nums: list[int]) -> bool:
+        hashMap = {}
+        for i in range(len(nums)):
+            if nums[i] in hashMap:
+                return True
+            else:
+                hashMap[nums[i]] = 1
+        return False
+        
