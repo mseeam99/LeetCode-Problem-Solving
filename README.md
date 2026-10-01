@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0257-binary-tree-paths](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0246-strobogrammatic-number) |
 | [0264-ugly-number-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0266-palindrome-permutation](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0266-palindrome-permutation) |
