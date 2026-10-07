@@ -6,6 +6,5 @@ class Solution:
             hashMap[sortedWord].append(strs[i])
         answer = []
         for key,valList in hashMap.items():
-            
             answer.append(valList)
         return answer
