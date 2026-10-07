@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0133-clone-graph) |
