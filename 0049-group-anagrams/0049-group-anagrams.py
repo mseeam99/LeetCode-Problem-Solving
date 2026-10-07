@@ -11,6 +11,3 @@ class Solution:
                 smallArray.append(strs[valList[i]])
             answer.append(smallArray)
         return answer
-                
-
-
