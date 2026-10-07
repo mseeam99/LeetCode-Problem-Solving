@@ -3,11 +3,9 @@ class Solution:
         hashMap = defaultdict(list)
         for i in range(len(strs)):
             sortedWord = "".join(sorted(strs[i]))
-            hashMap[sortedWord].append(i)
+            hashMap[sortedWord].append(strs[i])
         answer = []
         for key,valList in hashMap.items():
-            smallArray = []
-            for i in range(len(valList)):
-                smallArray.append(strs[valList[i]])
-            answer.append(smallArray)
+            
+            answer.append(valList)
         return answer
