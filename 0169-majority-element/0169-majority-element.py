@@ -19,6 +19,7 @@ class Solution:
             majorityVal = nums[leftPointer]
         return majorityVal
         '''
+        # Moore's Voting Algorithm
         previousValue = 0
         count = 0
         for i in range(len(nums)):
