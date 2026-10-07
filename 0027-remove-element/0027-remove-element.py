@@ -1,14 +1,6 @@
 class Solution:
     def removeElement(self, nums: list[int], val: int) -> int:
 
-        if len(nums) == 0:
-            return len(nums)
-        if len(nums) == 1:
-            if nums[0] == val:
-                return 0
-            else:
-                return 1
-    
         leftPointer = 0
         rightPointer = len(nums)-1
 
@@ -24,7 +16,6 @@ class Solution:
             else:
                 leftPointer += 1
 
-            
         idxCount = 0
         for i in range(len(nums)):
             if nums[i] == val:
