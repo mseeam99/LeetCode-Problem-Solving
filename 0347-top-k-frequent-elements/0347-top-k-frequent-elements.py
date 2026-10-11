@@ -19,20 +19,12 @@ class Solution:
         array = []
         for key,val in hashMap.items():
             array.append((val,key))
-        array.sort()
-        array = array[::-1]
-        for i in range(len(array)):
-            val = array[i][1]
-            array[i] = val
-        return array[:k]
-        '''
         heapq.heapify(array)
         array = heapq.nlargest(k,array)
         returnArray = []
         for i in range(k):
             returnArray.append(array[i][1])
         return returnArray 
-        '''
 
 
 
