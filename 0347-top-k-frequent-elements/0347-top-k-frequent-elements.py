@@ -17,22 +17,18 @@ class Solution:
             returnArray.append(array[i][1])
         return returnArray 
         '''
+        #Bucket Sort
         hashMap = {}
         for i in range(len(nums)):
             if nums[i] not in hashMap:
                 hashMap[nums[i]] = 1
             else:
-                hashMap[nums[i]] += 1
-        
-        print(hashMap)
+                hashMap[nums[i]] += 1        
         array = []
         for i in range(len(nums)+1):
             array.append([])
-        
-
         for key,val in hashMap.items():
             array[val].append(key)
-        
         answer = []
         count = 0
         for i in range(len(array)-1,-1,-1):
@@ -42,8 +38,6 @@ class Solution:
                         break
                     answer.append(array[i][j])
                     count += 1
-
-
         return answer
 
 
