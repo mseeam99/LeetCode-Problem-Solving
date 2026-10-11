@@ -10,14 +10,12 @@ class Solution:
         sorted_dict = sorted(freq_dict, key = freq_dict.get, reverse = True)
         return sorted_dict[:k]
         '''
-
         hashMap = {}
         for i in range(len(nums)):
             if nums[i] not in hashMap:
                 hashMap[nums[i]] = 1
             else:
                 hashMap[nums[i]] += 1
-        
         array = []
         for key,val in hashMap.items():
             array.append((val,key))
@@ -27,16 +25,14 @@ class Solution:
             val = array[i][1]
             array[i] = val
         return array[:k]
-
-
-        
-        
+        '''
         heapq.heapify(array)
         array = heapq.nlargest(k,array)
         returnArray = []
         for i in range(k):
             returnArray.append(array[i][1])
         return returnArray 
+        '''
 
 
 
