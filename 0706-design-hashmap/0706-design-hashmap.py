@@ -44,9 +44,6 @@ class MyHashMap:
         else:
             return None
         
-                            
-
-
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()
 # obj.put(key,value)
