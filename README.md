@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0734-sentence-similarity) |
 | [0740-delete-and-earn](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0748-shortest-completing-word) |
@@ -1348,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0604-design-compressed-string-iterator](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0604-design-compressed-string-iterator) |
 | [0705-design-hashset](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1406,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0860-design-circular-queue) |
@@ -1729,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search Tree
 |  |
