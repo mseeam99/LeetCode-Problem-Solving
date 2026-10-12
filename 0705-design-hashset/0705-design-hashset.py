@@ -24,9 +24,7 @@ class MyHashSet:
                 break
         return doContain
 
-        
-
-
+    
 # Your MyHashSet object will be instantiated and called as such:
 # obj = MyHashSet()
 # obj.add(key)
