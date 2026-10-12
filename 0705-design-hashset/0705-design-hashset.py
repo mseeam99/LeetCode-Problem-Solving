@@ -1,6 +1,6 @@
 class MyHashSet:
     def __init__(self):
-        self.hashValue = 50
+        self.hashValue = 1000
         self.bucket = []
         for i in range(self.hashValue+1):
             self.bucket.append([])
