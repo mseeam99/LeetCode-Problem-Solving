@@ -1,7 +1,6 @@
 class MyHashSet:
-
     def __init__(self):
-        self.hashValue = 500
+        self.hashValue = 50
         self.bucket = []
         for i in range(self.hashValue+1):
             self.bucket.append([])
@@ -15,12 +14,7 @@ class MyHashSet:
         index = key % self.hashValue
         if key in self.bucket[index]:
             self.bucket[index].remove(key)
-                
-
-
-
-        
-
+            
     def contains(self, key: int) -> bool:
         index = key % self.hashValue
         doContain = False
