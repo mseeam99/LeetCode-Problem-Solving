@@ -14,26 +14,53 @@ class Codec:
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
         """
+        print(s)
+
         answer = []
         pointerOne = 0
-        tempString = ""
-        while pointerOne < len(s):
-            intLenthToIncrease = ""
-            for i in range(pointerOne,len(s)):
-                if s[i] == "#":
-                    pointerOne+=1
-                    break
-                else:
-                    intLenthToIncrease += s[i]
-                    pointerOne+=1
-            intLenthToIncrease = int(intLenthToIncrease)
-            nextLoopUntil = pointerOne + intLenthToIncrease
-            while pointerOne < nextLoopUntil:
-                tempString += s[pointerOne]
-                pointerOne+=1
-            answer.append(tempString)
-            tempString = ""
+
+        while pointerOne <= len(s)-1:
+
+            currentPointer = pointerOne
+
+            numberString = ""
+            numberInt = 0
+            
+            while s[currentPointer] != "#":
+                numberString += s[currentPointer]
+                currentPointer += 1
+            numberInt = int(numberString)
+            
+            currentPointer += 1
+
+
+            extractedString = s[currentPointer:currentPointer+numberInt]
+
+            pointerOne = currentPointer+numberInt
+
+            answer.append(extractedString)
+            
+            numberString = ""
+            numberInt = 0
+
+
+
         return answer
+            
+
+
+
+
+
+
+
+
+
+        
+
+        
+        
+        
         
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
