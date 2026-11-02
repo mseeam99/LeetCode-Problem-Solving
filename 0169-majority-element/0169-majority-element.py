@@ -25,7 +25,6 @@ class Solution:
         for i in range(len(nums)):
             if count == 0:
                 previousValue = nums[i]
-            element = nums[i]
             if nums[i] == previousValue:
                 count += 1
             elif nums[i] != previousValue:
