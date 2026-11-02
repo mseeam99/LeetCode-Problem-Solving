@@ -10,41 +10,26 @@ class Codec:
             s+="#"
             s+=string
         return s
-
+        
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
         """
-        print(s)
-
         answer = []
         pointerOne = 0
-
         while pointerOne <= len(s)-1:
-
             currentPointer = pointerOne
-
             numberString = ""
             numberInt = 0
-            
             while s[currentPointer] != "#":
                 numberString += s[currentPointer]
                 currentPointer += 1
             numberInt = int(numberString)
-            
             currentPointer += 1
-
-
             extractedString = s[currentPointer:currentPointer+numberInt]
-
             pointerOne = currentPointer+numberInt
-
             answer.append(extractedString)
-            
             numberString = ""
             numberInt = 0
-
-
-
         return answer
             
 
