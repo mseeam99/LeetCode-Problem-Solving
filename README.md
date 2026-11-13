@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0321-create-maximum-number](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0348-design-tic-tac-toe) |
 | [0463-island-perimeter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0253-meeting-rooms-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0528-random-pick-with-weight](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0271-encode-and-decode-strings) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0348-design-tic-tac-toe) |
 | [0355-design-twitter](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0355-design-twitter) |
