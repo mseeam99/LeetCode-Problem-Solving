@@ -36,7 +36,6 @@ class Solution:
                         return False
             return True
 
-
         array = [[0,0],[0,3],[0,6],[3,0],[3,3],[3,6],[6,0],[6,3],[6,6]]
 
         for i in range(len(array)):
@@ -45,4 +44,3 @@ class Solution:
                 return False
         
         return True
-
