@@ -1,53 +1,48 @@
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
+    def isValidSudoku(self, board: list[list[str]]) -> bool:
 
         for i in range(len(board)):
-            row = []
+            rowSet = set()
             for j in range(len(board[i])):
-                if board[i][j] in row:
+                if board[i][j] == ".":
+                    continue
+                if board[i][j] not in rowSet:
+                    rowSet.add(board[i][j])
+                else:
                     return False
-                elif board[i][j] not in row and board[i][j] != ".":
-                    row.append(board[i][j])
         
-        for i in range(len(board)):
-            column = []
-            for j in range(len(board[i])):
-                if board[j][i] in column:
+        for i in range(len(board[0])):
+            colSet = set()
+            for j in range(len(board)):
+                if board[j][i] == ".":
+                    continue
+                if board[j][i] not in colSet:
+                    colSet.add(board[j][i])
+                else:
                     return False
-                elif board[j][i] not in column and board[j][i] != ".":
-                    column.append(board[j][i])
 
-        for row in range(0,9,3):
-            for column in range(0,9,3):
-                subMatrix = []
-                for i in range(row,row+3):
-                    for j in range(column,column+3):
-                        if board[i][j] in subMatrix:
-                            return False
-                        elif board[i][j] not in subMatrix and board[i][j] != ".":
-                            subMatrix.append(board[i][j])
-                            
+        def functionIterate3by3Board(row,col):
+            visitedElement = set()
+            for r in range(3):
+                for c in range(3):
+                    rowIdx = row+r
+                    colIdx = col+c
+                    if board[rowIdx][colIdx] == ".":
+                        continue
+                    element = int(board[rowIdx][colIdx])
+                    if element not in visitedElement and element >= 1 and element <= 9:
+                        visitedElement.add(element)
+                    else:
+                        return False
+            return True
+
+
+        array = [[0,0],[0,3],[0,6],[3,0],[3,3],[3,6],[6,0],[6,3],[6,6]]
+
+        for i in range(len(array)):
+            r,c = array[i][0],array[i][1]
+            if functionIterate3by3Board(r,c) == False:
+                return False
+        
         return True
 
-
-
-            
-
-            
-
-
-
-
-
-        
-        
-        
-
-        
-
-        
- 
-
-
-
-        
