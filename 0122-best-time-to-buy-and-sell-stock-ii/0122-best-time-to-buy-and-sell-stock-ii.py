@@ -1,44 +1,22 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        dp = []
-        for i in range(len(prices)+1):
-            tempArray = [0]*(2)
-            dp.append(tempArray)
-        dp[len(prices)][0] = dp[len(prices)][1] = 0
-        for index in range(len(prices)-1,-1,-1):
-            for canBuy in range(0,2):
-                if canBuy == 1:
-                    pick = -prices[index] + dp[index+1][0]
-                    notPick = 0 + dp[index+1][1]
-                    result = max(pick,notPick)
-                    dp[index][canBuy] = result
-                else:
-                    pick = prices[index] + dp[index+1][1]
-                    notPick = 0 + dp[index+1][0]
-                    result = max(pick,notPick)
-                    dp[index][canBuy] = result
-        return min(dp[0])
-        '''
-        def recursion(index,canBuy):
-
+        memo = {}
+        
+        def recursion(index,alreadyBoughtOne):
             if index >= len(prices):
                 return 0
+            if (index,alreadyBoughtOne) in memo:
+                return memo[(index,alreadyBoughtOne)]
+            buy, sell, skip = 0,0,0
+            if alreadyBoughtOne == False:
+                buy = recursion(index+1,True) - prices[index]
+                skip = recursion(index+1,False)
+                memo[(index,alreadyBoughtOne)] = max(buy,skip)
+            if alreadyBoughtOne == True:
+                sell = recursion(index+1,False) + prices[index]
+                skip = recursion(index+1,True)
+                memo[(index,alreadyBoughtOne)] = max(sell,skip)
 
-            if dp[index][canBuy] != 0:
-                return dp[index][canBuy]
+            return memo[(index,alreadyBoughtOne)]
 
-            if canBuy == 1:
-                pick = -prices[index] + recursion(index+1,0)
-                notPick = 0 + recursion(index+1,1)
-                result = max(pick,notPick)
-                dp[index][canBuy] = result
-                return result
-            else:
-                pick = prices[index] + recursion(index+1,1)
-                notPick = 0 + recursion(index+1,0)
-                result = max(pick,notPick)
-                dp[index][canBuy] = result
-                return result
-                
-        return recursion(0,1)
-        '''
+        return recursion(0,False)
