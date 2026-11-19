@@ -1988,6 +1988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mseeam99/LeetCode-Problem-Solving/tree/master/0827-making-a-large-island) |
