@@ -1,7 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         memo = {}
-        
         def recursion(index,alreadyBoughtOne):
             if index >= len(prices):
                 return 0
@@ -16,7 +15,5 @@ class Solution:
                 sell = recursion(index+1,False) + prices[index]
                 skip = recursion(index+1,True)
                 memo[(index,alreadyBoughtOne)] = max(sell,skip)
-
             return memo[(index,alreadyBoughtOne)]
-
         return recursion(0,False)
