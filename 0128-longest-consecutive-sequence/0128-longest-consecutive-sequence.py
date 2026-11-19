@@ -5,7 +5,6 @@ class Solution:
         for i in range(len(nums)):
             hashMap[nums[i]] = 1
         for key,val in hashMap.items():
-
             currVal = key
             if currVal - 1 not in hashMap:
                 nextVal = currVal + 1
